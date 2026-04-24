@@ -1,0 +1,161 @@
+{
+  "scrapedAt": "2026-04-24T10:14:51.013Z",
+  "source": "https://matters.town/@freewrite",
+  "profile": {
+    "id": "VXNlcjoxMzE1NjQ",
+    "displayName": "自由寫",
+    "userName": "freewrite",
+    "description": "自由寫 Free Write 是一種寫作模式，指的是讓思緒自然流動、即時且隨心的寫作。我們將持續舉辦不同主題的自由寫活動，邀請你一同練習、一同書寫與閱讀。",
+    "status": {
+      "state": "active",
+      "articleCount": 93,
+      "momentCount": 11
+    },
+    "followers": 509,
+    "following": 0,
+    "collections": 0,
+    "pinnedWorks": 0
+  },
+  "counts": {
+    "writings": 104,
+    "articles": 93,
+    "moments": 11,
+    "imagesFound": 185,
+    "imagesDownloaded": 185,
+    "articlesWithCovers": 88,
+    "appreciations": 2360,
+    "donations": 132
+  },
+  "articleDateRange": {
+    "first": "2024-04-01T06:29:47.854Z",
+    "latest": "2026-04-16T10:39:25.763Z"
+  },
+  "topTags": [
+    {
+      "tag": "自由寫",
+      "count": 90
+    },
+    {
+      "tag": "七日書",
+      "count": 88
+    },
+    {
+      "tag": "馬特市自由寫",
+      "count": 40
+    },
+    {
+      "tag": "兩廳院藝術出走",
+      "count": 5
+    },
+    {
+      "tag": "給自己的情書",
+      "count": 4
+    },
+    {
+      "tag": "長女病",
+      "count": 2
+    },
+    {
+      "tag": "三日書",
+      "count": 1
+    },
+    {
+      "tag": "李智良",
+      "count": 1
+    },
+    {
+      "tag": "馬特市自由寫七日書",
+      "count": 1
+    },
+    {
+      "tag": "加密錢包",
+      "count": 1
+    },
+    {
+      "tag": "Billboard",
+      "count": 1
+    }
+  ],
+  "campaigns": [
+    {
+      "campaign": "七日書：寫出成長軌跡",
+      "count": 6
+    },
+    {
+      "campaign": "七日書：我的人生飯桌",
+      "count": 4
+    },
+    {
+      "campaign": "七日書：我的（不）完美人生",
+      "count": 3
+    },
+    {
+      "campaign": "七日書｜氣味博物館",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜我的人生帳本",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜數位雲端的我",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜衣櫥裡的自我",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜說聲告別，走向新的自己",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜重構生活",
+      "count": 2
+    },
+    {
+      "campaign": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（九月：標記回憶的位置與意義｜客座作家：楊翠）",
+      "count": 2
+    },
+    {
+      "campaign": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（八月：關於人生，我想說的是｜客座作家：郭強生）",
+      "count": 2
+    },
+    {
+      "campaign": "三日書｜被過度期待的人：燃燒自我的故事",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜What If 人生有如果",
+      "count": 2
+    },
+    {
+      "campaign": "七日書：書寫地方",
+      "count": 2
+    },
+    {
+      "campaign": "七日書：物的體系，我的物件錄",
+      "count": 2
+    },
+    {
+      "campaign": "七日書：島嶼精神，另類人生",
+      "count": 2
+    },
+    {
+      "campaign": "七日書｜曖昧時刻",
+      "count": 1
+    },
+    {
+      "campaign": "七日書一週年｜寫作，給人生的靈魂提問",
+      "count": 1
+    },
+    {
+      "campaign": "七日書：我的家庭故事",
+      "count": 1
+    },
+    {
+      "campaign": "七日書：人間鬼故事",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VXNlcjoxMzE1NjQ",
+  "userName": "freewrite",
+  "displayName": "自由寫",
+  "avatar": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/avatar/3828e234-a708-4546-9bb8-6dfebbbae386.png/public",
+  "liker": {
+    "civicLiker": false
+  },
+  "info": {
+    "description": "自由寫 Free Write 是一種寫作模式，指的是讓思緒自然流動、即時且隨心的寫作。我們將持續舉辦不同主題的自由寫活動，邀請你一同練習、一同書寫與閱讀。",
+    "profileCover": null,
+    "ethAddress": "0x9cf4a6b8623093ee682934840d1a8a9e533cfd99",
+    "badges": []
+  },
+  "status": {
+    "state": "active",
+    "articleCount": 93,
+    "momentCount": 11
+  },
+  "followers": {
+    "totalCount": 509
+  },
+  "following": {
+    "users": {
+      "totalCount": 0
+    }
+  },
+  "articles": {
+    "totalCount": 93
+  },
+  "collections": {
+    "totalCount": 0
+  },
+  "pinnedWorks": []
+}

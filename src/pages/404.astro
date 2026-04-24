@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { withBase } from "../utils/paths";
+---
+
+<BaseLayout title="404" noindex>
+  <div class="text-center py-24">
+    <p class="text-6xl font-bold font-serif text-[var(--color-accent)] mb-4">404</p>
+    <p class="text-[var(--color-text-muted)] mb-8">找不到這個頁面</p>
+    <a
+      href={withBase("/")}
+      class="inline-flex items-center gap-2 px-6 py-2.5 rounded-full
+             border border-[var(--color-accent)] text-[var(--color-accent)]
+             hover:bg-[var(--color-accent)]/10 transition-colors"
+    >
+      返回首頁
+    </a>
+  </div>
+</BaseLayout>

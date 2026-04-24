@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HomeApp from "../components/islands/HomeApp.tsx";
+import { getPublishedReports } from "../utils/reports";
+import { reportToPost } from "../lib/reports-to-posts";
+import { SITE_TAGLINE } from "../site.config";
+
+const reports = await getPublishedReports();
+const posts = reports.map(reportToPost);
+
+const essayCount = posts.length;
+const authors = new Set(posts.map((p) => p.author));
+const kicker = `Essays · Notes · Field reports — ${new Date().toLocaleDateString("en-US", { month: "short", year: "numeric" })}`;
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div>
+      <p class="hero__kicker">{kicker}</p>
+      <h1 class="hero__title">難題</h1>
+      <p class="hero__sub">{SITE_TAGLINE}</p>
+    </div>
+    <div class="hero__meta">
+      <span><strong>{essayCount}</strong> essays</span>
+      <span>{authors.size} {authors.size === 1 ? "author" : "authors"}</span>
+      <span>Updated weekly</span>
+    </div>
+  </section>
+
+  <HomeApp client:only="react" posts={posts} />
+</BaseLayout>
+
+<style>
+  .hero__sub {
+    font-family: var(--font-display);
+    font-style: normal;
+    font-weight: 700;
+    font-size: clamp(1.25rem, 2.2vw, 1.75rem);
+    line-height: var(--leading-snug);
+    color: var(--color-ink);
+    margin: var(--space-3) 0 0;
+    text-wrap: balance;
+  }
+</style>

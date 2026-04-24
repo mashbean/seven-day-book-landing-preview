@@ -1,0 +1,91 @@
+---
+title: "自由寫「七日書」｜交換日記第七天（上）大滿貫名單、預告本周五晚語音交流"
+createdAt: 2024-04-15T07:45:30.954Z
+url: https://matters.town/a/28qwxwvjn1o8
+shortHash: 28qwxwvjn1o8
+state: active
+summary: "七日書「交換日記」來到最後一天，公布七天的大滿貫人數、名單，以及預告本周五晚上的語音活動！歡迎完成七日書的文友報名參加。我們也鼓勵大家多寫一篇文章，分享你參與自由寫「七日書」的感想吧！"
+tags: "自由寫, 七日書, 馬特市自由寫"
+campaigns: ""
+appreciations: 24
+donations: 0
+readTime: 31686
+displayCover: https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cd1db37d-89c5-48ef-96f1-e1c625e351b5.png/public
+localCover: assets/images/162.png
+---
+
+# 自由寫「七日書」｜交換日記第七天（上）大滿貫名單、預告本周五晚語音交流
+
+> 七日書「交換日記」來到最後一天，公布七天的大滿貫人數、名單，以及預告本周五晚上的語音活動！歡迎完成七日書的文友報名參加。我們也鼓勵大家多寫一篇文章，分享你參與自由寫「七日書」的感想吧！
+
+![image](https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cd1db37d-89c5-48ef-96f1-e1c625e351b5.png/public)
+
+來到第七天了！希望大家作為作者寫得滿意、作為讀者交流得暢快。這周以來，「自由寫」小編們都有讀大家的文章，發現文友們的完成度很高，就算沒有發文，也會成為讀者，閱讀他人文章並留言；又或是沒發文者，之後也會補回來。
+
+本次報名人數 122人，今天是第七天，有 82 位文友按時發出他們的日記，我們已發出「每日戳」82 張、「讀者卡」40 張。有人問怎樣看到這些圖章，除了可以到你注册 Matters 帳戶的電郵裡查看（早前發過電郵給大家），亦可 [點撃這個列表](https://docs.google.com/spreadsheets/d/1k0R7QLhZJHFPTnkmnHR-QGYK_knyN1FGm2pbgh-iT1o/edit#gid=0) 查看。
+
+## **✍🏽 七日書數據統計**
+
+整體而言，本次總參與人數 122人，完成整個七日書流程的共有 78位，條件包括（一）按時發表日記七篇，（二）當天遲交或沒交，但每次收到讀者卡後，都有到別人文章留言，作出兩則互動。恭喜你！你已按時發表七篇日記（67人）：[@文倩](/@wenqian) [@whypizzasohot](/@whypizzasohot) [@Jting](/@fishiiiii) [@窿窿罅罅之間](/@lunglunglaalaa) [@白麵包](/@ciabatta) [@Shawn](/@shawnzhong) [@陳伯軒](/@boxuan0531) [@Te殊处理](/@abyssalt) [@tiens](/@tiensson) [@イワワ](/@yiwawaliu) [@根叔｜gunshock](/@gunshock) [@千翊晨](/@xiaohanliu0105) [@icarus](/@icarus17) [@陶樂思](/@dorothyto1984) [@Sally博物館](/@sallysmuseum) [@今心](/@jinxin) [@sisite](/@sisite4331) [@薄荷糖](/@longen) [@木南](/@munanhd) [@crystalvoiceofficial](/@crystalvoice) [@lynnete](/@lynnete) [@Ollie Trees 🌲](/@ollie_trees) [@Sunline](/@sunline) [@梦中说梦](/@samsara76) [@Thermometer](/@thermometer)[@Flora異想](/@lewis81lewis) [@天藍](/@skytbl) [@内陆月亮](/@mooninland) [@昕頤_p063529](/@kukububukitty) [@賈瑰](/@gaagwai) [@灰藍](/@lidivus) [@泡澡的太陽](/@viewerwind) [@大風](/@klg50130) [@Robert](/@robert) [@Aaryn阿润](/@aarynlee1026) [@逸洲](/@foreverexplores) [@小红](/@izzie) [@豈几文](/@koowoo) [@海鹽青茶](/@kasukonon) [@Ping Yu](/@prison5021) [@海的女兒](/@hm_01) [@閱球人Moonreader](/@qianfluentleap) [@筱蕾](/@siului) [@紫羅蘭](/@violette0072001) [@yellowhead](/@yellowhead) [@kinushinnnn](/@kinushinnnn) [@塔拉拉](/@talalala1251) [@unouno](/@olivia_kaoru) [@阿布拉赫](/@BloomingBloom) [@一隻會彈琴的貓](/@winnie0828) [@絕羽](/@cheukkiucc) [@JD Daily](/@JDDaily) [@si薰](/@chen0708) [@林靈姝](/@lingshu1019) [@Angela Chen](/@AngelaChen) [@考拉不渴](/@andawnfrost) [@简宁](/@jianning) [@妞肉丝儿](/@roser__) [@molia](/@molia) [@黃皮膚的吉普賽人露思](/@LuzWu222) [@MaryVentura](/@9thkingdom) [@Joyu](/@joyulin2010) [@Benno](/@Benno) [@翻转硬糖](/@florenceya) [@空空道人](/@stellaregoholic) [@Lunacy](/@lunacy) [@moonjoy2012](/@moonjoy2012)
+
+恭喜你！雖然沒有七天都準時交出，但你收到「讀者卡」後有當讀者，到別人文章留言，完成當天份額（11人）：[@林倚](/@corrinalin) [@喻家山](/@yujiashan) [@馬丹瑪丹](/@Flowing_Diary) [@Je suis Lala](/@astrid928art) [@K大叔](/@necatko0611) [@u4848philomena](/@u4848philomena) [@橙皮](/@leee) [@冲绳流浪猫](/@famu)[@JK talk](/@jerryku2003) [@Sunshine Yang](/@gesnimbar) [@YY](/@ducklingc)也就是說，總共有 78 人順利完成了七日書，可以報名出席本周五晚的語音交流活動。
+
+## **🗣 本周五晚語音交流活動**
+
+完成七天書寫的作者，歡迎參加「馬特市自由寫」線上語音聚會！
+
+寫完七天日記，你有什麼感受想跟大家分享？哪些題目讓你在寫作過程中更加認識自己了？本次參與七日書的作者超過 100 人，你是否從中認識了新朋友，感受到彼此的鼓勵？一起來線上開麥聊聊吧，讓我們伴寫也伴讀～
+
+線上聚會日期：4 月 19 日週五 20:00（東八區）線上聊什麼－ 哪個作者的文字或哪篇文章讓你印象深刻？－ 你有沒有透過七日書認識了其他人？－ 七日書帶給你的收穫－ 你期待的七日書主題
+
+**完成七天大滿貫的作者即有參與資格，我們將把報名表單寄到你註冊 Matters 帳號的郵箱，今天就會寄出，請留意收信。**
+
+## 👥 邀你寫下一篇七日書心得
+
+本次「自由寫七日書」經已完成，看到有文友意猶未盡，在七日書最後一天、或在留言裡抒發不少感受，例如是覺得題目能幫助自己疏理感受、反思自己、跟文友的互動更能深入思考自己的想法，又或是得到不同程度的鼓勵；也有人說對題目沒有什麼感受，但想了想還是有話想說的。
+
+我們鼓勵大家再發一篇文章寫七日書心得：
+
+- 寫完七天之後，你有什麼話想說？
+
+- 哪些文友的互動讓你印象深刻？給你鼓勵？
+
+- 這七天哪一題最戳你心，讓你在心裡大罵髒話，但又有很多故事想說的
+
+- 下次想寫什麼主題
+
+- **請為文章加上「#七日書」標籤**
+
+我們鼓勵作者書寫感受、建立選集；讀者支持喜歡的文章，大家亦可「追蹤」你喜歡的作者、留言讓對方知道你喜歡看他／她的文字。
+
+我們很快又會再見！👋🏼
+
+## 來這裡一覽目錄跟七日書的文友們互動👉🏼 [「七日書」標籤總目錄](https://matters.town/tags/167821-%E4%B8%83%E6%97%A5%E6%9B%B8)
+
+🫂 今天小編悉心挑出的精選留言已放到「交換日記第七天（下）」
+
+## 「交換日記」日報一覽**大家寫的第一篇七日書**點撃文章標題即可進入文章頁面，歡迎互相留言、互動 👇🏻👇🏻
+
+[@文倩](/@wenqian)第七篇七日書：[七日書｜想去檳榔城·大馬](https://matters.town/@wenqian/574207-%E4%B8%83%E6%97%A5%E6%9B%B8-%E6%83%B3%E5%8E%BB%E6%AA%B3%E6%A6%94%E5%9F%8E-%E5%A4%A7%E9%A6%AC-bafybeidpogmxgkww4jiy6pa7epbvd6vuzv2dh4eqp5wucg5nafzeozxgmi)選集：[七日書](https://matters.town/@wenqian/collections/Q29sbGVjdGlvbjoxOTE1)[@MaryVentura](/@9thkingdom)第七篇七日書：[七日書｜四月十四日：日本](https://matters.town/@9thkingdom/574081-%E4%B8%83%E6%97%A5%E6%9B%B8-%E5%9B%9B%E6%9C%88%E5%8D%81%E5%9B%9B%E6%97%A5-%E6%97%A5%E6%9C%AC-bafybeid2lhxtz6jskb7kfixo3dm4uqmdzmnadeqz7qpcqbwvcnnhdhfwkm)選集：尚未建立[@張潔平](/@anniez)第七篇七日書：尚未發表選集：尚未建立
+
+[@Angela Chen](/@AngelaChen)第七篇七日書：[托斯卡尼之山居歲月](https://matters.town/@AngelaChen/573596-%E6%89%98%E6%96%AF%E5%8D%A1%E5%B0%BC%E4%B9%8B%E5%B1%B1%E5%B1%85%E6%AD%B2%E6%9C%88-bafybeigvzbfpyh2ldl5v27nig57u5ai4kno6uzlsmqmx36pd7slvbqadfi)選集：[七日書](https://matters.town/@AngelaChen/collections/Q29sbGVjdGlvbjoxOTE0)[@Joyu](/@joyulin2010)第七篇七日書：[七日書第一回｜Day 7｜我要攻略日本各地！](https://matters.town/@joyulin2010/573708-%E4%B8%83%E6%97%A5%E6%9B%B8%E7%AC%AC%E4%B8%80%E5%9B%9E-day-7-%E6%88%91%E8%A6%81%E6%94%BB%E7%95%A5%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0-bafybeigqg2ulnneppvrhfudssfjl7rfulkct5r3k4ynrxkq4nfklbfkx7i)選集：[七日書第一回](https://matters.town/@joyulin2010/collections/Q29sbGVjdGlvbjoxOTI4)
+
+[@Benno](/@Benno)第七篇七日書：[4月14日 日本 / 台灣 / 新加坡 / 馬來西亞](https://matters.town/@Benno/573378-4%E6%9C%8814%E6%97%A5-%E6%97%A5%E6%9C%AC-%E5%8F%B0%E7%81%A3-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E-bafybeicrpuvdwkhurw6bkzguhrda3zm3hz7el53m5fn7egvjn423gefh6y)選集：[七日書](https://matters.town/@Benno/collections/Q29sbGVjdGlvbjoxOTA2)[@molia](/@molia)第七篇七日書：[七日書｜第七天：發呆](https://matters.town/@molia/573726-%E4%B8%83%E6%97%A5%E6%9B%B8-%E7%AC%AC%E4%B8%83%E5%A4%A9-%E7%99%BC%E5%91%86-bafybeifmclsxdnbhnaaev3htstermzmwyk6pwmbbkel45sbhdr5lgrmjve)選集：[七日書](https://matters.town/@molia/collections/Q29sbGVjdGlvbjoxOTYw)[@黃皮膚的吉普賽人露思](/@LuzWu222)第七篇七日書：[七日書頂輪 | 換個地方當廢人](https://matters.town/@LuzWu222/574060-%E4%B8%83%E6%97%A5%E6%9B%B8%E9%A0%82%E8%BC%AA-%E6%8F%9B%E5%80%8B%E5%9C%B0%E6%96%B9%E7%95%B6%E5%BB%A2%E4%BA%BA-bafybeia2iakd7ixnfyqijc7v6tfprzzmukvvntalmufk4y7wvjxnnxm5wa)選集：[七日書](https://matters.town/@LuzWu222/collections/Q29sbGVjdGlvbjoyMDE0)[@妞肉丝儿](/@roser__)第七篇七日書：[七日書｜这样的地方真的存在吗？](https://matters.town/@roser__/573309-%E4%B8%83%E6%97%A5%E6%9B%B8-%E8%BF%99%E6%A0%B7%E7%9A%84%E5%9C%B0%E6%96%B9%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8%E5%90%97-bafybeie3evxqygujepuvtgjrlpczhkzussxsztofpsyo3xtqabt5txktea)選集：[七日书](https://matters.town/@roser__/collections/Q29sbGVjdGlvbjoxOTIw)[@简宁](/@jianning)第七篇七日書：[七日书 7 ｜带上喜欢的东西，去一个舒服的地方宅](https://matters.town/@jianning/573582-%E4%B8%83%E6%97%A5%E4%B9%A6-7-%E5%B8%A6%E4%B8%8A%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%9C%E8%A5%BF-%E5%8E%BB%E4%B8%80%E4%B8%AA%E8%88%92%E6%9C%8D%E7%9A%84%E5%9C%B0%E6%96%B9%E5%AE%85-bafybeiaclps2ar2smkfml2dmigf6sj2ir7xctbs675uy3hlwqic7hz7uui)選集：[七日书](https://matters.town/@jianning/collections/Q29sbGVjdGlvbjoxOTQw)[@Vicky Yu](/@yushihyi)第七篇七日書：尚未發表選集：尚未建立[@考拉不渴](/@andawnfrost)第七篇七日書：[七日書（7）今生最後的落腳點](https://matters.town/@andawnfrost/573382-%E4%B8%83%E6%97%A5%E6%9B%B8-7-%E4%BB%8A%E7%94%9F%E6%9C%80%E5%BE%8C%E7%9A%84%E8%90%BD%E8%85%B3%E9%BB%9E-bafybeihc3pujw5ev7uid7beyu5z2xiwf2h2sfj4iktot6ev3tco5gm52le)選集：[七日書](https://matters.town/@andawnfrost/collections/Q29sbGVjdGlvbjoxOTA3)[@林靈姝](/@lingshu1019)第七篇七日書：[▇ 七日書 ▇ 第七日，未來最想去闖蕩的地方](https://matters.town/@lingshu1019/573622-%E4%B8%83%E6%97%A5%E6%9B%B8-%E7%AC%AC%E4%B8%83%E6%97%A5-%E6%9C%AA%E4%BE%86%E6%9C%80%E6%83%B3%E5%8E%BB%E9%97%96%E8%95%A9%E7%9A%84%E5%9C%B0%E6%96%B9-bafybeie64okbwz2x6yog4nhjg4omm3lrlrjkhfutwlssi5dh76gaur77su)選集：[七日書](https://matters.town/@lingshu1019/collections/Q29sbGVjdGlvbjoyMDE3)
+
+[@si薰](/@chen0708)第七篇七日書：[馬特市七日書|Day7ㄧ起去看看極光](https://matters.town/@chen0708/573515-%E9%A6%AC%E7%89%B9%E5%B8%82%E4%B8%83%E6%97%A5%E6%9B%B8-day7%E3%84%A7%E8%B5%B7%E5%8E%BB%E7%9C%8B%E7%9C%8B%E6%A5%B5%E5%85%89-bafybeihpjeilm7cu72nb76fyxhmccoorwn5t3dswx4itvsfgeeahqifexa)選集：[七日書](https://matters.town/@chen0708/collections/Q29sbGVjdGlvbjoxOTQ1)[@YY](/@ducklingc)第七篇七日書：尚未發表選集：尚未建立[@JD Daily](/@JDDaily)第七篇七日書：[餐桌日常｜第七天（四月十四日 週日）](https://matters.town/@JDDaily/573842-%E9%A4%90%E6%A1%8C%E6%97%A5%E5%B8%B8-%E7%AC%AC%E4%B8%83%E5%A4%A9-%E5%9B%9B%E6%9C%88%E5%8D%81%E5%9B%9B%E6%97%A5-%E9%80%B1%E6%97%A5-bafybeifo6mpir3dgmbk2jbsrlr6bswvx3gdv3cpif2xap6gxle3qkmumxu)選集：[七日書](https://matters.town/@JDDaily/collections/Q29sbGVjdGlvbjoxOTQz)[@外球仔](/@duqiuning)第七篇七日書：[Day7 - 想象一种懒散的生活](https://matters.town/@duqiuning/574219-day7-%E6%83%B3%E8%B1%A1%E4%B8%80%E7%A7%8D%E6%87%92%E6%95%A3%E7%9A%84%E7%94%9F%E6%B4%BB-bafybeibefmlnagnkswb3loczyfmk77b6iyhayghaushkljxkmtu5ivo6fi)選集：尚未建立
+
+[@Sunshine Yang](/@gesnimbar)第七篇七日書：[他的家乡刚果布 ｜ 七日书 D7](https://matters.town/@gesnimbar/574109-%E4%BB%96%E7%9A%84%E5%AE%B6%E4%B9%A1%E5%88%9A%E6%9E%9C%E5%B8%83-%E4%B8%83%E6%97%A5%E4%B9%A6-d7-bafybeignm35iid3myogoxptq2on74324bs7t5b45mbyn4itcpc56s3sopm)選集：[Free Writing](https://matters.town/@gesnimbar/collections/Q29sbGVjdGlvbjoxOTIz)
+
+[@絕羽](/@cheukkiucc)第七篇七日書：[【七日書】：人類群星閃耀時](https://matters.town/@cheukkiucc/573772-%E4%B8%83%E6%97%A5%E6%9B%B8-%E4%BA%BA%E9%A1%9E%E7%BE%A4%E6%98%9F%E9%96%83%E8%80%80%E6%99%82-bafybeigabderxv37pdi2cqm2sn2tmni375homayiz3knu5b3kmnynoinia)選集：[絕羽の七日書限定](https://matters.town/@cheukkiucc/collections/Q29sbGVjdGlvbjoxOTQ3)[@一隻會彈琴的貓](/@winnie0828)第七篇七日書：[【七日書】第七天：群山、海岸、童話小鎮](https://matters.town/@winnie0828/573749-%E4%B8%83%E6%97%A5%E6%9B%B8-%E7%AC%AC%E4%B8%83%E5%A4%A9-%E7%BE%A4%E5%B1%B1-%E6%B5%B7%E5%B2%B8-%E7%AB%A5%E8%A9%B1%E5%B0%8F%E9%8E%AE-bafybeibeabxxd7xk35jlsm6dzhygand2zp72hujn5nioosjtnq477v4l5u)選集：[晚安，七日書](https://matters.town/@winnie0828/collections/Q29sbGVjdGlvbjoxOTQy)[@Jake](/@yakov)第七篇七日書：尚未發表選集：[2024 春 七日書](https://matters.town/@yakov/collections/Q29sbGVjdGlvbjoyMDA2)[@阿布拉赫](/@BloomingBloom)第七篇七日書：[第七日书：还得是清迈](https://matters.town/@BloomingBloom/573860-%E7%AC%AC%E4%B8%83%E6%97%A5%E4%B9%A6-%E8%BF%98%E5%BE%97%E6%98%AF%E6%B8%85%E8%BF%88-bafybeihvjm5uejltyk3vqeou44g5zmf2756xb6dggaageeob2qe62vywxu)選集：[七日书](https://matters.town/@BloomingBloom/collections/Q29sbGVjdGlvbjoyMDAy)[@unouno](/@olivia_kaoru)第七篇七日書：[第七天|于海上流浪，我们生来自由](https://matters.town/@olivia_kaoru/573371-%E7%AC%AC%E4%B8%83%E5%A4%A9-%E4%BA%8E%E6%B5%B7%E4%B8%8A%E6%B5%81%E6%B5%AA-%E6%88%91%E4%BB%AC%E7%94%9F%E6%9D%A5%E8%87%AA%E7%94%B1-bafybeigrtuiz6f4xy6ihxkn4r7dpt7ylbtodg3ngab4hp6zmvbc7kpt6qq)選集：[七日書—自由写_个人选集](https://matters.town/@olivia_kaoru/collections/Q29sbGVjdGlvbjoxOTI0)[@塔拉拉](/@talalala1251)第七篇七日書：[七日書 Day 7|樹木給了我力量](https://matters.town/@talalala1251/574180-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E6%A8%B9%E6%9C%A8%E7%B5%A6%E4%BA%86%E6%88%91%E5%8A%9B%E9%87%8F-bafybeifocjodw6j4jfuipic33ekleb4zwyrn3lleunovgp6railp4ndnde)選集：[七日書](https://matters.town/@talalala1251/collections/Q29sbGVjdGlvbjoyMDIy)[@Amelia Chung](/@yichingchung)第七篇七日書：尚未發表選集：[七日書](https://matters.town/@yichingchung/collections/Q29sbGVjdGlvbjoxOTUx)[@JK talk](/@jerryku2003)第七篇七日書：[七日書 Day 7 未來想Long Stay的地方](https://matters.town/@jerryku2003/573657-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E6%9C%AA%E4%BE%86%E6%83%B3long-stay%E7%9A%84%E5%9C%B0%E6%96%B9-bafybeiawtkei6woprhmmwthexqs74kawxcxgdlftr2kkfe5avyxhboisvi)選集：[matters 七日書](https://matters.town/@jerryku2003/collections/Q29sbGVjdGlvbjoxOTgx)[@kinushinnnn](/@kinushinnnn)第七篇七日書：[七日書尾日｜現在遊牧的羅府](https://matters.town/@kinushinnnn/573682-%E4%B8%83%E6%97%A5%E6%9B%B8%E5%B0%BE%E6%97%A5-%E7%8F%BE%E5%9C%A8%E9%81%8A%E7%89%A7%E7%9A%84%E7%BE%85%E5%BA%9C-bafybeifqgpyl54xy3636zot52xojvssthrkrhbyybcov6poc6w7zaksjd4)選集：[七日書](https://matters.town/@kinushinnnn/collections/Q29sbGVjdGlvbjoxOTkx)[@yellowhead](/@yellowhead)第七篇七日書：[七日書day 7 : 你看](https://matters.town/@yellowhead/574044-%E4%B8%83%E6%97%A5%E6%9B%B8day-7-%E4%BD%A0%E7%9C%8B-bafybeid4avuvltj3wrz7custfmhvsqiho2atq7hgnixdk754g57twsixs4)選集：尚未建立[@紫羅蘭](/@violette0072001)第七篇七日書：[七日書｜第七天｜未來五年、十年誰知道？](https://matters.town/@violette0072001/573730-%E4%B8%83%E6%97%A5%E6%9B%B8-%E7%AC%AC%E4%B8%83%E5%A4%A9-%E6%9C%AA%E4%BE%86%E4%BA%94%E5%B9%B4-%E5%8D%81%E5%B9%B4%E8%AA%B0%E7%9F%A5%E9%81%93-bafybeic672djymgjrref4cd6wfinyizqzebvvgyks6cp2riwaks377taly)選集：[七日書挑戰｜](https://matters.town/@violette0072001/collections/Q29sbGVjdGlvbjoxOTQ2)[@筱蕾](/@siului)第七篇七日書：[七日书七 · 一个梦想不会被惩罚的地方](https://matters.town/@siului/574004-%E4%B8%83%E6%97%A5%E4%B9%A6%E4%B8%83-%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%83%B3%E4%B8%8D%E4%BC%9A%E8%A2%AB%E6%83%A9%E7%BD%9A%E7%9A%84%E5%9C%B0%E6%96%B9-bafybeieg227n7pnxofcijl33cdi462ackig3xlag43jzjiwakygw2qxfnu)選集：[日記夜記](https://matters.town/@siului/collections/Q29sbGVjdGlvbjoxOTI2)[@閱球人Moonreader](/@qianfluentleap)第七篇七日書：[七日書 Day 7｜遺世而不獨立](https://matters.town/@qianfluentleap/573676-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E9%81%BA%E4%B8%96%E8%80%8C%E4%B8%8D%E7%8D%A8%E7%AB%8B-bafybeibp6up55klf54tcvevczqbedtk7z7yu553xcahmnrksri7jwnqlpe)選集：[七日書](https://matters.town/@qianfluentleap/collections/Q29sbGVjdGlvbjoxOTM0)[@海的女兒](/@hm_01)第七篇七日書：[七日書｜D7｜烏托邦的存在](https://matters.town/@hm_01/573999-%E4%B8%83%E6%97%A5%E6%9B%B8-d7-%E7%83%8F%E6%89%98%E9%82%A6%E7%9A%84%E5%AD%98%E5%9C%A8-bafybeieharlxnt26i2kjdhcmpd3c7ovwu6l3gsgtaypr6n7elen7zkfhfy)選集：[七日書計畫](https://matters.town/@hm_01/collections/Q29sbGVjdGlvbjoxOTQ4)[@沖繩流浪貓](/@iloinenpupu)第七篇七日書：尚未發表選集：尚未建立[@Ping Yu](/@prison5021)第七篇七日書：[七日書 Day7 現在或未來最想去旅居的地方](https://matters.town/@prison5021/573835-%E4%B8%83%E6%97%A5%E6%9B%B8-day7-%E7%8F%BE%E5%9C%A8%E6%88%96%E6%9C%AA%E4%BE%86%E6%9C%80%E6%83%B3%E5%8E%BB%E6%97%85%E5%B1%85%E7%9A%84%E5%9C%B0%E6%96%B9-bafybeie6nvxow6bbcqddo67vil2rt5f5iq4e3mi2lzqkj5cetaapfqh4ie)選集：[自由寫作七日書](https://matters.town/@prison5021/collections/Q29sbGVjdGlvbjoxOTI3)[@龟也风行](/@running_turtle)第七篇七日書：尚未發表選集：尚未建立[@海鹽青茶](/@kasukonon)第七篇七日書：[七日書-7 何時](https://matters.town/@kasukonon/573722-%E4%B8%83%E6%97%A5%E6%9B%B8-7-%E4%BD%95%E6%99%82-bafybeieveeagcchg2ixlym7wprrzznl2ha3tte4fywkkvgvicewsnmr23q)選集：[七日書寫](https://matters.town/@kasukonon/collections/Q29sbGVjdGlvbjoxOTg5)[@豈几文](/@koowoo)第七篇七日書：[【七日書】 Day 7- 未來最想旅居的布魯日](https://matters.town/@koowoo/573286-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E6%9C%AA%E4%BE%86%E6%9C%80%E6%83%B3%E6%97%85%E5%B1%85%E7%9A%84%E5%B8%83%E9%AD%AF%E6%97%A5-bafybeicoxp7ruyvknlmzo7u233tqwtvoytjuu7m5zrxopvephszazj23xy)選集：尚未建立[@Theodora](/@theodora)第七篇七日書：尚未發表選集：尚未建立[@小红](/@izzie)第七篇七日書：[四月十四日 周日](https://web-next.matters.town/@izzie/574085-%E5%9B%9B%E6%9C%88%E5%8D%81%E5%9B%9B%E6%97%A5-%E5%91%A8%E6%97%A5-bafybeifnviogsnwaenhwblvvwzgbkveyny4olyoq77rhfm35xxr2wl66mu)選集：尚未建立[@Aaryn阿润](/@aarynlee1026)第七篇七日書：[七日书 | Day 7 如果世界对女性来说充满危险，哪里又是理想之地？——悉尼凶杀案有感](https://matters.town/@aarynlee1026/573944-%E4%B8%83%E6%97%A5%E4%B9%A6-day-7-%E5%A6%82%E6%9E%9C%E4%B8%96%E7%95%8C%E5%AF%B9%E5%A5%B3%E6%80%A7%E6%9D%A5%E8%AF%B4%E5%85%85%E6%BB%A1%E5%8D%B1%E9%99%A9-%E5%93%AA%E9%87%8C%E5%8F%88%E6%98%AF%E7%90%86%E6%83%B3%E4%B9%8B%E5%9C%B0-%E6%82%89%E5%B0%BC%E5%87%B6%E6%9D%80%E6%A1%88%E6%9C%89%E6%84%9F-bafybeiezckvmd7vns3gjpopokcpg2hekb4zx3subvaxodezzosszwkpphu)選集：[七日书](https://matters.town/@aarynlee1026/collections/Q29sbGVjdGlvbjoxOTUy)[@逸洲](/@foreverexplores)第七篇七日書：[向往台湾](https://matters.town/@foreverexplores/573649-%E5%90%91%E5%BE%80%E5%8F%B0%E6%B9%BE-bafybeibtrm5pg5pxistrk5bddzs7ti5iubdkpnaouy3sywzmp2slbuptfq)選集：[七日书](https://matters.town/@foreverexplores/collections/Q29sbGVjdGlvbjoxOTkz)[@Robert](/@robert)第七篇七日書：[七日书 第七日 活力多元的吉隆坡](https://matters.town/@robert/573542-%E4%B8%83%E6%97%A5%E4%B9%A6-%E7%AC%AC%E4%B8%83%E6%97%A5-%E6%B4%BB%E5%8A%9B%E5%A4%9A%E5%85%83%E7%9A%84%E5%90%89%E9%9A%86%E5%9D%A1-bafybeihlqrnibyamniqeq4qhhgu44povnwl7es42uir3rhvwfjr45uk65q)選集：[七日书](https://matters.town/@robert/collections/Q29sbGVjdGlvbjoxOTI1)[@蘇格藍貓](/@chunhsiangla)第七篇七日書：尚未發表選集：尚未建立
+
+[@Summer](/@nobodynowhere)第七篇七日書：尚未發表選集：尚未建立
+
+[@大風](/@klg50130)第七篇七日書：[七日書｜最偉大的旅程是回家](https://web-next.matters.town/@klg50130/573456-%E4%B8%83%E6%97%A5%E6%9B%B8-%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E6%97%85%E7%A8%8B%E6%98%AF%E5%9B%9E%E5%AE%B6-bafybeibvs3tymzxsooofp43pt6um6xuxpchvaf2ztcc4zxmwkacfocmz4u)選集：[七日書](https://matters.town/@klg50130/collections/Q29sbGVjdGlvbjoxOTgz)
+
+[@Ely在文字中](/@elyisme)第七篇七日書：尚未發表選集：尚未建立
+
+[@泡澡的太陽](/@viewerwind)第七篇七日書：[七日書：Day7 幻想的旅遊](https://matters.town/@viewerwind/574071-%E4%B8%83%E6%97%A5%E6%9B%B8-day7-%E5%B9%BB%E6%83%B3%E7%9A%84%E6%97%85%E9%81%8A-bafybeiarl6cmgviabkgaz2eufq46uhtmawnzkjuqrrc6aiojml2q5yehyq)選集：尚未建立[@Yu, Chin Mei](/@yuchinmei)第七篇七日書：[七日書 Day 7 / 浮生千山路](https://matters.town/@yuchinmei/573797-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E6%B5%AE%E7%94%9F%E5%8D%83%E5%B1%B1%E8%B7%AF-bafybeigy4kyyv3r6kbipbfelbk2w4ahdvv5swnqlcychpgazbhtnfehyqy)選集：[七日書](https://matters.town/@yuchinmei/collections/Q29sbGVjdGlvbjoxOTg3)
+
+[@灰藍](/@lidivus)第七篇七日書：[七日書 | Day 7 你所在的宇宙](https://matters.town/@lidivus/573982-%E4%B8%83%E6%97%A5%E6%9B%B8-day-7-%E4%BD%A0%E6%89%80%E5%9C%A8%E7%9A%84%E5%AE%87%E5%AE%99-bafybeice3xe7xflgqxtjxcoamehval3zrlgtfvifxerrlrnkry6p73ghzi)選集：[七日書](https://matters.town/@lidivus/collections/Q29sbGVjdGlvbjoxOTMy)[@國外生活不是你想的那樣](/@wow4winnie)第七篇七日書：尚未發表選集：[七日書](https://matters.town/@wow4winnie/collections/Q29sbGVjdGlvbjoxOTc5)[@賈瑰](/@gaagwai)第七篇七日書：[七日書之七 | Granada 內的小確幸](https://matters.town/@gaagwai/573460-%E4%B8%83%E6%97%A5%E6%9B%B8%E4%B9%8B%E4%B8%83-granada-%E5%85%A7%E7%9A%84%E5%B0%8F%E7%A2%BA%E5%B9%B8-bafybeignpxwhpunqwepudvss6fjmptponh3xsck3yagdi6bm67qvb25klm)選集：[七日書](https://matters.town/@gaagwai/collections/Q29sbGVjdGlvbjoxOTc3)
+
+[@昕頤_p063529](/@kukububukitty)第七篇七日書：[7-7 喘口氣，不用去很遠的地方](https://matters.town/@kukububukitty/573666-7-7-%E5%96%98%E5%8F%A3%E6%B0%A3-%E4%B8%8D%E7%94%A8%E5%8E%BB%E5%BE%88%E9%81%A0%E7%9A%84%E5%9C%B0%E6%96%B9-bafybeihy7dpnjsvuf7qanez3xovnvwn37qdzhw2e3xj4ty4p4afl7gfbz4)選集：[七日書](https://matters.town/@kukububukitty/collections/Q29sbGVjdGlvbjoxOTMx)[@橙皮](/@leee)第七篇七日書：[向往的继续向往之](https://matters.town/@leee/574231-%E5%90%91%E5%BE%80%E7%9A%84%E7%BB%A7%E7%BB%AD%E5%90%91%E5%BE%80%E4%B9%8B-bafybeigaeccszql7njqfxbhyk35fw2hdnv752ui5phe2t56tx4ai3aptxa)選集：[七日書](https://matters.town/@leee/collections/Q29sbGVjdGlvbjoxOTc1)[@DrYuan。汤圆](/@riceball)第七篇七日書：尚未發表選集：尚未建立[@内陆月亮](/@mooninland)第七篇七日書：[七日书·七 | 梦游之地](https://matters.town/@mooninland/574155-%E4%B8%83%E6%97%A5%E4%B9%A6-%E4%B8%83-%E6%A2%A6%E6%B8%B8%E4%B9%8B%E5%9C%B0-bafybeiar5gns3bmxqtnz2eivjljzwotw4wrfjlnxfovvhqhmgjjiiq5uca)選集：[春天的七日书](https://matters.town/@mooninland/collections/Q29sbGVjdGlvbjoxOTc4)[@jhfnetboy](/@jhfnetboy)第七篇七日書：尚未發表選集：尚未建立

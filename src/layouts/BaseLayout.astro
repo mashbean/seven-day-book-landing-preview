@@ -1,0 +1,57 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Mesh from "../components/Mesh.astro";
+import Guides from "../components/Guides.astro";
+import Masthead from "../components/Masthead.astro";
+import Iris from "../components/Iris.astro";
+import Footer from "../components/Footer.astro";
+import ScrollReveal from "../components/ScrollReveal.astro";
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  fullTitle?: string;
+  description?: string;
+  ogImage?: string;
+  noindex?: boolean;
+  /** Hide the default masthead when the page renders its own chrome. */
+  bareChrome?: boolean;
+  /** Hide the global mesh background on pages that want a clean canvas. */
+  noMesh?: boolean;
+  /** Hide the default footer when the page renders its own closing CTA/footer. */
+  hideFooter?: boolean;
+}
+
+const {
+  title,
+  fullTitle,
+  description,
+  ogImage,
+  noindex,
+  bareChrome = false,
+  noMesh = false,
+  hideFooter = false,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead
+      title={title}
+      fullTitle={fullTitle}
+      description={description}
+      ogImage={ogImage}
+      noindex={noindex}
+    />
+  </head>
+  <body>
+    {!noMesh && <Mesh />}
+    <Guides />
+    {!bareChrome && <Masthead />}
+    <slot />
+    {!hideFooter && <Footer />}
+    <Iris />
+    <ScrollReveal />
+  </body>
+</html>

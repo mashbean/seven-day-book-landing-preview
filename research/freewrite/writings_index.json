@@ -1,0 +1,3536 @@
+[
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE5MjE1Mw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTkyMTUz",
+    "createdAt": "2026-04-16T10:39:25.763Z",
+    "articleState": "active",
+    "title": "「氣味博物館」七日書完結｜大滿貫、參加獎名單",
+    "slug": "氣味博物館-七日書完結-大滿貫-參加獎名單",
+    "shortHash": "o3bjg1at7gjt",
+    "summary": "「氣味博物館」七日書經已結束，今次總共有 88 位文友參與，並歡迎其中第一次參與的 26 位作者。在這個旅程中，大家寫下各種氣味的故事，包括讓自己感覺成為大人的味道、讓人想起家裡或親人的氣味、感到有安全感的味道，還有許多生命裡的感人故事，透過七天的書寫，回想與追尋感官世界。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/7df1ba60-9177-41cb-979f-d22e2ce6f36c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/7df1ba60-9177-41cb-979f-d22e2ce6f36c.png/public",
+    "readTime": 2332,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NjE",
+          "shortHash": "aiafcgbu89p2",
+          "name": "七日書｜氣味博物館"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 9
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE3NjcxOA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTc2NzE4",
+    "createdAt": "2026-03-29T16:02:31.565Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：氣味博物館",
+    "slug": "七日書開始報名-陪你完成人生日記-氣味博物館",
+    "shortHash": "x756zczkpn1h",
+    "summary": "普魯斯特在《追憶似水年華》中，咬下一口沾了瑪德蓮蛋糕，久遠的童年回憶便瞬間湧上心頭。在人類的感官中，最能召喚記憶的，往往是那些看不見、摸不著的「氣」與「味」。這個月的七日書，我們將展開一場「感官與記憶」之旅。連續七天，七個關於氣味的提問，邀請你走進這座「氣味博物館」，打開那些封存已久的抽屜，把那些看不見的滋味與氣味，書寫下來。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ed23993d-d395-47b5-9110-d9caec4ea4ba.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ed23993d-d395-47b5-9110-d9caec4ea4ba.png/public",
+    "readTime": 48586,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NjE",
+          "shortHash": "aiafcgbu89p2",
+          "name": "七日書｜氣味博物館"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 20
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE3Mzg1NQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTczODU1",
+    "createdAt": "2026-03-26T03:50:24.039Z",
+    "articleState": "active",
+    "title": "預購意願調查｜最值得收藏的寫作手帳：七日書 100 道精選題目實體出版",
+    "slug": "預購意願調查-最值得收藏的寫作手帳-七日書-100-道精選題目實體出版",
+    "shortHash": "7v93q0nyizh8",
+    "summary": "你想擁有一本「七日書筆記書」嗎？限量 300 本，預購意願調查中！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6c315174-c0c6-4803-9b3d-11d7ee095f05.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6c315174-c0c6-4803-9b3d-11d7ee095f05.png/public",
+    "readTime": 6279,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 24
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE2Mjg3MQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTYyODcx",
+    "createdAt": "2026-03-12T02:32:29.846Z",
+    "articleState": "active",
+    "title": "「我的人生帳本」七日書完結｜大滿貫、參加獎名單｜3 月 18 日晚作家宋尚緯講座",
+    "slug": "我的人生帳本-七日書完結-大滿貫-參加獎名單-3-月-18-日晚作家宋尚緯講座",
+    "shortHash": "zl1tkmcgkx3s",
+    "summary": "「我的人生帳本」七日書經已結束，今次總共有 101 位文友參與，並歡迎其中第一次參與的 27 位作者。在這個旅程中，大家寫下自己的金錢故事，包括第一次付得起帳單的閃閃發亮回憶、學會與自己共存的負數人生等。3月18日（三）晚上七時半（東八區），台灣作家宋尚緯將從分享「人生與金錢」這個話題。如何用自己的人生經歷寫「錢」？期待屆時能看到你！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/93f52a64-cc21-402e-bc5e-64190fddc483.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/93f52a64-cc21-402e-bc5e-64190fddc483.png/public",
+    "readTime": 6261,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTk",
+          "shortHash": "q48dv6ve4g2m",
+          "name": "七日書｜我的人生帳本"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 10
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE2MjA0Mg",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTYyMDQy",
+    "createdAt": "2026-03-11T05:51:47.433Z",
+    "articleState": "active",
+    "title": "七日書講座文字精華｜陳雪：我與我所穿出的模樣：一場從衣櫥出發的自我探問",
+    "slug": "七日書講座文字精華-陳雪-我與我所穿出的模樣-一場從衣櫥出發的自我探問",
+    "shortHash": "ij9xgxuznv6a",
+    "summary": "一個人的著裝有時能呈現很多故事，七日書邀請作家陳雪分享衣著打扮的生命經驗，走過困窘、模仿、反抗標籤等不同歷程，進入中年後尋找到自己舒服自在的模樣，來聽陳雪娓娓道來的生命故事。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/9253170f-7cda-408f-a8fd-e38abbada800.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/9253170f-7cda-408f-a8fd-e38abbada800.png/public",
+    "readTime": 10581,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 9
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTE0ODIxMg",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTQ4MjEy",
+    "createdAt": "2026-02-22T16:02:30.042Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：我的人生帳本",
+    "slug": "七日書開始報名-陪你完成人生日記-我的人生帳本",
+    "shortHash": "wwydvkijfwwa",
+    "summary": "物質流動的時代，我們都攜帶著一本「人生帳本」，它藏在錢包收據裡、記在每月的轉帳通知。我們生命中有著正數與負數的時刻；有時感到足夠，也容易過得焦慮。帳本背後，更多的是階級碰撞、安全感的匱乏。本月，我們邀請你翻開那可能鮮有跟人談起的人生帳本。本月線上講座邀請到台灣作家宋尚緯，他是台灣著名詩人，近年時常在臉書分享日常，從求醫、問神一路寫到理財。3月18號晚上，邀請讀者一起聽聽他怎麼從寫「錢」到「人生」。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e05a4b15-fbe8-4faf-82e8-f10a28ab1782.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e05a4b15-fbe8-4faf-82e8-f10a28ab1782.png/public",
+    "readTime": 65549,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTk",
+          "shortHash": "q48dv6ve4g2m",
+          "name": "七日書｜我的人生帳本"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 18
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTEzOTY5Mg",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTM5Njky",
+    "createdAt": "2026-02-10T03:36:29.795Z",
+    "articleState": "active",
+    "title": "「數位雲端的我」七日書完結｜大滿貫、參加獎名單",
+    "slug": "數位雲端的我-七日書完結-大滿貫-參加獎名單",
+    "shortHash": "8f8zgewm2jz0",
+    "summary": "「數位雲端的我」七日書經已結束，今次總共有 116 位文友參與，並歡迎其中第一次參與的 37 位作者。在這個旅程中，大家寫下數位雲端的各種故事，包括保持剛好距離的人、如何斷捨離並判斷哪些為不重要的事物、讓自己對世界保持好奇心的演算法、如何使用大號小號等，透過七天的書寫，回看自己在數位世界裡的角色。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/3dc70a25-1483-4b49-b806-59a2ff2694b7.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/3dc70a25-1483-4b49-b806-59a2ff2694b7.png/public",
+    "readTime": 6799,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTg",
+          "shortHash": "4v5mndkbz44v",
+          "name": "七日書｜數位雲端的我"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 16
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTEyODA3NA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTI4MDc0",
+    "createdAt": "2026-01-25T16:02:30.275Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：數位雲端的我",
+    "slug": "七日書開始報名-陪你完成人生日記-數位雲端的我",
+    "shortHash": "i42ejg5kdbkd",
+    "summary": "數位時代，我們每個人都擁有一具「數位分身」。它住在雲端硬碟裡，活在社交平台的濾鏡中，由演算法餵養，被點讚數定義。當現實生活中的「我」感到疲憊時，雲端上的「我」是否依然在努力經營著優雅？當我們越滑手機越感到空虛時，是哪個部分被掏空了？本月的「七日書」，我們以網絡、雲端、日常使用為題，邀請你寫下數位雲端上的自己。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/bf0063ed-71fd-45e9-a6f5-2d994207e338.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/bf0063ed-71fd-45e9-a6f5-2d994207e338.png/public",
+    "readTime": 66245,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTg",
+          "shortHash": "4v5mndkbz44v",
+          "name": "七日書｜數位雲端的我"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTExOTA1MQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTE5MDUx",
+    "createdAt": "2026-01-13T07:12:32.012Z",
+    "articleState": "active",
+    "title": "「衣櫥裡的自我」七日書完結｜大滿貫、參加獎名單｜1 月 21 日晚上作家陳雪講座",
+    "slug": "衣櫥裡的自我-七日書完結-大滿貫-參加獎名單-1-月-21-日晚上作家陳雪講座",
+    "shortHash": "ksufaptd49f9",
+    "summary": "「衣櫥裡的自我」七日書經已結束，今次總共有 93 位文友參與，並歡迎其中第一次參與的 35 位作者。在這個旅程中，大家寫下在衣櫥裡不同的衣物，包括不願捨棄的、一直保留下來的，也有許多從穿衣中看到自己的時刻。1月21日（三）晚上七時半（東八區），台灣作家陳雪將從衣櫥出發，分享如何從日常的著裝與外表中察覺自我，並將之轉化為深刻的文學敘事。期待到時能看到你！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6fd927a4-b33d-4b38-bf70-2183d03efe77.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6fd927a4-b33d-4b38-bf70-2183d03efe77.png/public",
+    "readTime": 5415,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTc",
+          "shortHash": "nqbeo3cdn585",
+          "name": "七日書｜衣櫥裡的自我"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 15
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTExMzE4Mg",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTEzMTgy",
+    "createdAt": "2026-01-05T03:06:31.452Z",
+    "articleState": "active",
+    "title": "七日書總結回顧｜寫下 9000 次人生，如何以寫作量度生命？",
+    "slug": "七日書總結回顧-寫下-9000-次人生-如何以寫作量度生命",
+    "shortHash": "fmsotswq9g6b",
+    "summary": "從 2024 年春天啟程，「七日書」是一場持續了快兩年的書寫旅程，也是一場足以延展的集體書寫，目前累積 9000 多篇文章，深度與廣度之多，足以構成一座當代華人的心靈博物館。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/1060a3d5-cbb9-4140-9b04-a0acb011449a.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/1060a3d5-cbb9-4140-9b04-a0acb011449a.jpeg/public",
+    "readTime": 14681,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 44
+    },
+    "donations": {
+      "totalCount": 5
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTEwODk5MA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMTA4OTkw",
+    "createdAt": "2025-12-28T15:13:07.528Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：衣櫥裡的自我",
+    "slug": "七日書開始報名-陪你完成人生日記-衣櫥裡的自我",
+    "shortHash": "3clxahow8238",
+    "summary": "衣服不只是保暖的布料，它是你的第二層皮膚，是身形的變化、自我的肯定、更是想像的投射。衣櫥不僅是用來存放衣物的，它是一座我們私密的博物館。這個月，請打開你的衣櫥，寫出那些藏在衣褶裡的生命故事。1 月 21 號線上講座邀請作家陳雪，分享她從衣櫥出發的自我探問，更多資訊請點入本公告。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/6ed73fe0-159d-46b8-a532-098bc1cf0765.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/6ed73fe0-159d-46b8-a532-098bc1cf0765.png/public",
+    "readTime": 56660,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTc",
+          "shortHash": "nqbeo3cdn585",
+          "name": "七日書｜衣櫥裡的自我"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA5MzI3NQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDkzMjc1",
+    "createdAt": "2025-12-09T02:03:13.103Z",
+    "articleState": "active",
+    "title": "「說聲告別，走向新的自己」七日書完結｜大滿貫、參加獎名單｜來年再寫下人生日記",
+    "slug": "說聲告別-走向新的自己-七日書完結-大滿貫-參加獎名單-來年再寫下人生日記",
+    "shortHash": "2w84mmr3nq52",
+    "summary": "「說聲告別，走向新的自己」七日書經已結束，今次總共有 135 位文友參與，並歡迎其中第一次參與的 51 位作者。在這個旅程中，大家寫下過去的自己、新的自己。有些文友說，告別不是一次性的、明顯的、巨大的，而是在日常生活中慢慢覺察得來的，它不定是動態的，可以是靜態的。如「七日書」的初心一樣，在細水長流的日子裡，一步步理解自己、梳理自己。",
+    "displayCover": null,
+    "cover": null,
+    "readTime": 5762,
+    "wordCount": null,
+    "tags": [],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTY",
+          "shortHash": "ox9fmcz6zxxj",
+          "name": "七日書｜說聲告別，走向新的自己"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA3OTI0MA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDc5MjQw",
+    "createdAt": "2025-11-23T16:02:29.854Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：說聲告別，走向新的自己",
+    "slug": "七日書開始報名-陪你完成人生日記-說聲告別-走向新的自己",
+    "shortHash": "zc31yhwhxmsw",
+    "summary": "一年之終，望著日曆上漸少的日子，你有沒有浮起一聲低語：是時候舉行一場告別的儀式了？有些事情，可能是時候說再見，然後走往新的自己。本月七日書邀請你一步步走過這場年底儀式，在再出發的曙光中看到新的自己。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9e5ab949-a2ae-47fd-b2a9-66620f1bf4ab.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9e5ab949-a2ae-47fd-b2a9-66620f1bf4ab.png/public",
+    "readTime": 81632,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTY",
+          "shortHash": "ox9fmcz6zxxj",
+          "name": "七日書｜說聲告別，走向新的自己"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 25
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA3NDg5Nw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDc0ODk3",
+    "createdAt": "2025-11-18T09:07:49.673Z",
+    "articleState": "active",
+    "title": "七日書小提問：你的 2025 年七日書關鍵字是什麼？",
+    "slug": "七日書小提問-你的-2025-年七日書關鍵字是什麼",
+    "shortHash": "60r1r3sjt2uf",
+    "summary": "誠邀有參與過任何一期七日書的文友在留言區作答～",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/601d8ed7-fe5e-40be-861f-0f47dc431d69.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/601d8ed7-fe5e-40be-861f-0f47dc431d69.png/public",
+    "readTime": 6958,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 15
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA2OTMyOA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDY5MzI4",
+    "createdAt": "2025-11-12T02:02:30.172Z",
+    "articleState": "active",
+    "title": "「重構生活」七日書完結｜大滿貫、參加獎名單｜11 月 18 日晚上作家周慧講座",
+    "slug": "重構生活-七日書完結-大滿貫-參加獎名單-11-月-18-日晚上作家周慧講座",
+    "shortHash": "kumhjizkvlg1",
+    "summary": "「重構生活」七日書經已結束，今次總共有 185 位文友參與，並歡迎其中第一次參與的 76 位作者。在這個旅程中，大家寫下人生中的重構生活故事，當中包括反思當下、重整步調，繼而再出發。11月18日（二）晚上七時半（東八區），作家周慧將透過作品《《認識我的人慢慢忘了我》，分享她四十歲之後離開都市、搬往鄉村的生活日常，並談及這個過程中的重構經驗。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/5d0758a3-3e45-46df-a499-9562556a9fa5.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/5d0758a3-3e45-46df-a499-9562556a9fa5.png/public",
+    "readTime": 10760,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTM",
+          "shortHash": "3uskpxsbzmz5",
+          "name": "七日書｜重構生活"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA1NTI1Nw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDU1MjU3",
+    "createdAt": "2025-10-26T15:43:04.172Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：重構生活",
+    "slug": "七日書開始報名-陪你完成人生日記-重構生活",
+    "shortHash": "3f6bdmbon9pu",
+    "summary": "生活照著既定的秩序前行，但也許有某個瞬間，你開始思考，真的想繼續這樣活嗎？本月七日書邀請你把焦點放回自己，去看那些被環境形塑、被規則綁住、被角色包裹的「我」，重新審視自己想留下什麼、放下什麼。作家講座邀請《認識我的人慢慢忘了我》作者周慧，她「四十歲離職寫作，五十歲悄然出版」，新書受到廣大注目，她將分享如何將日常轉化為文字，讓生活成為書寫的土壤。七日書讀者可享有購書優惠。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ffa38b65-bad9-4030-ab7a-94deb2ab94b4.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ffa38b65-bad9-4030-ab7a-94deb2ab94b4.png/public",
+    "readTime": 126094,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTM",
+          "shortHash": "3uskpxsbzmz5",
+          "name": "七日書｜重構生活"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 27
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA0OTI0NQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDQ5MjQ1",
+    "createdAt": "2025-10-18T04:02:30.690Z",
+    "articleState": "active",
+    "title": "「曖昧時刻」七日書完結｜大滿貫、參加獎名單｜10 月 22 日晚上作家許俐葳講座",
+    "slug": "曖昧時刻-七日書完結-大滿貫-參加獎名單-10-月-22-日晚上作家許俐葳講座",
+    "shortHash": "09f9iv4ohe9e",
+    "summary": "「曖昧時刻」七日書經已結束，今次總共有 95 位文友參與，並歡迎其中第一次參與的 27 位作者。在這個旅程中，大家寫下在不同時期的曖昧時刻，當中包括溫柔、刺激、害羞的故事。10月22日（三）晚上七時半（東八區），台灣作家許俐葳（神小風）將透過作品《我有一個關於不倫的，小問題》，分享小說人物的曖昧、掙扎與矛盾，展開對自身與關係的追問。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/b586cf2c-14fd-4add-b31e-3b86db6e1634.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/b586cf2c-14fd-4add-b31e-3b86db6e1634.png/public",
+    "readTime": 5929,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTA0ODYwOA",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDQ4NjA4",
+    "createdAt": "2025-10-17T08:31:24.515Z",
+    "articleState": "active",
+    "title": "「給自己的情書」徵文圓滿落幕｜我們一起寫下的 500 封情書",
+    "slug": "給自己的情書-徵文圓滿落幕-我們一起寫下的-500-封情書",
+    "shortHash": "saxy7wofhvxo",
+    "summary": "兩個月的情書寫作活動，總共有將近 500 位朋友參與；我們也邀請了作家郭強生跟楊翠舉辦講座，談生命、死亡、家族與通關密語。活動會截止，但寫給自己的情書永不過時，歡迎隨時重溫題目，加入寫作行列。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/402fc6a3-6ba5-4aeb-860c-aaaa1ccbc7bd.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/402fc6a3-6ba5-4aeb-860c-aaaa1ccbc7bd.png/public",
+    "readTime": 9232,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "給自己的情書"
+      },
+      {
+        "content": "兩廳院藝術出走"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 21
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTAzNTcxMg",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDM1NzEy",
+    "createdAt": "2025-09-30T07:36:02.553Z",
+    "articleState": "active",
+    "title": "講座文字精華｜回頭的風景：楊翠談家族、虧欠與書寫｜兩廳院藝術出走：給自己的情書「三日書」系列活動",
+    "slug": "講座文字精華-回頭的風景-楊翠談家族-虧欠與書寫-兩廳院藝術出走-給自己的情書-三日書-系列活動",
+    "shortHash": "y4pklp0w1eav",
+    "summary": "9月，「兩廳院藝術出走：給自己的情書『三日書』徵文活動」邀請到作家楊翠主講「回頭的風景－與中年以後的自己對話」講座，細聊如何透過寫作與自我對話，找到屬於自己的「通關密語」。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e5a9c520-c68f-48e9-b83c-719c1deb4e02.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e5a9c520-c68f-48e9-b83c-719c1deb4e02.png/public",
+    "readTime": 14415,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "兩廳院藝術出走"
+      },
+      {
+        "content": "給自己的情書"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTE",
+          "shortHash": "rt04oolqbexh",
+          "name": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（九月：標記回憶的位置與意義｜客座作家：楊翠）"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTAzNDUwNQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDM0NTA1",
+    "createdAt": "2025-09-28T16:02:30.986Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：曖昧時刻",
+    "slug": "七日書開始報名-陪你完成人生日記-曖昧時刻",
+    "shortHash": "ahogdo23dc73",
+    "summary": "你有沒有在關係中，走到某一個位置，心裡想著：不知這樣下去，行不行？關係千變萬化，相信你身處其中曾問過自己許多問題。邀請你來寫寫那些讓你重新思考與自我認識的故事，在人和人的各種關係狀態再走深一點。本期講座邀請台灣作家許俐葳，從她的小說《我有一個關於不倫的，小問題》談起，分享如何將困惑與模糊化為小說的語言，並在文字中找到與自己對話的可能。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/3691f81a-0f0c-42b9-9de6-e27308cdd47f.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/3691f81a-0f0c-42b9-9de6-e27308cdd47f.png/public",
+    "readTime": 82979,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTI",
+          "shortHash": "owt3jxplay6z",
+          "name": "七日書｜曖昧時刻"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 23
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTAwODU5OQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDA4NTk5",
+    "createdAt": "2025-08-29T02:02:30.100Z",
+    "articleState": "active",
+    "title": "講座文字精華｜從記憶出發的書寫課：郭強生談寫作、生命與死亡｜兩廳院藝術出走：給自己的情書「三日書」系列活動",
+    "slug": "講座文字精華-從記憶出發的書寫課-郭強生談寫作-生命與死亡-兩廳院藝術出走-給自己的情書-三日書-系列活動",
+    "shortHash": "uhw6btkzwf63",
+    "summary": "8 月 17 號，「兩廳院藝術出走：給自己的情書『三日書』徵文活動」邀請到作家郭強生主講「從記憶出發的書寫課」講座，細聊以寫作整理與療癒人生。主持人是Matters寫作平台、飛地書店創辦人張潔平。活動為兩廳院「藝術出走計劃」一部分，透過藝術回應超高齡社會。活動合作方為 Matters，在8月、9月份進行「給自己的情書」為主題的「三日書」，邀請大家寫下自己的故事。本篇文章是當日講座的精彩分享與發言。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/7ec6e254-0d21-4e30-8bca-65c7b6526faf.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/7ec6e254-0d21-4e30-8bca-65c7b6526faf.jpeg/public",
+    "readTime": 45758,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "兩廳院藝術出走"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDg",
+          "shortHash": "5zhf2bpty274",
+          "name": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（八月：關於人生，我想說的是｜客座作家：郭強生）"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 22
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6MTAwNDkyNQ",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZToxMDA0OTI1",
+    "createdAt": "2025-08-24T15:41:22.332Z",
+    "articleState": "active",
+    "title": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（九月：標記回憶的位置與意義｜客座作家：楊翠）",
+    "slug": "兩廳院藝術出走-給自己的情書-三日書-徵文活動-九月-標記回憶的位置與意義-客座作家-楊翠",
+    "shortHash": "kha011y5f2my",
+    "summary": "九月繼續邀請你參加「兩廳院藝術出走：給自己的情書『三日書』徵文活動」，寫出人生的高低起伏，你曾經歷哪些人生的重要轉折點？有光有影，便是人生。9 月 16 日邀請楊翠老師舉辦線上講座，當你踏上記憶的逆旅，重新啟動與自我的對話，如何透過寫作找到屬於自己的「通關密語」，體會生命真正的收成？",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/b16cc0d2-5d77-4796-9d0c-62bf3b3478e0.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/b16cc0d2-5d77-4796-9d0c-62bf3b3478e0.jpeg/public",
+    "readTime": 83214,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "兩廳院藝術出走"
+      },
+      {
+        "content": "給自己的情書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NTE",
+          "shortHash": "rt04oolqbexh",
+          "name": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（九月：標記回憶的位置與意義｜客座作家：楊翠）"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 22
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTg4NzIz",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5ODg3MjM",
+    "createdAt": "2025-08-01T02:10:38.547Z",
+    "articleState": "active",
+    "title": "文字精華：三日書作家講座｜張慧慈：個人故事如何引起共感？《長女病》的寫作策略與社會學想像",
+    "slug": "文字精華-三日書作家講座-張慧慈-個人故事如何引起共感-長女病-的寫作策略與社會學想像",
+    "shortHash": "4l2vrwhiwfzx",
+    "summary": "早前，三日書作家講座邀請到台灣作家張慧慈分享《長女病》一書，當晚聽眾反應熱烈，兩個多小時的分享裡，提出不少發問、說出自己的感想。當晚更有兩位聽眾獲得游撃文化送出《長女病》電子書，感謝出版社的支持。本文為講座的精彩內容精華。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ab66d829-22d2-408e-a74c-cbfc3f2a69e1.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ab66d829-22d2-408e-a74c-cbfc3f2a69e1.png/public",
+    "readTime": 26006,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "長女病"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 16
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTg1NTI4",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5ODU1Mjg",
+    "createdAt": "2025-07-27T16:00:39.398Z",
+    "articleState": "active",
+    "title": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（八月：關於人生，我想說的是｜客座作家：郭強生）",
+    "slug": "兩廳院藝術出走-給自己的情書-三日書-徵文活動-八月-關於人生-我想說的是-客座作家-郭強生",
+    "shortHash": "oaoi6csb4v5i",
+    "summary": "在人生的不同階段，你是否曾有話想對自己說？那些話可能是寫給年輕時的自己，也可能是寫給正在努力生活的現在，甚至寫給那個還在未來等你的自己。今年八月與九月，我們邀請你參加「兩廳院藝術出走：給自己的情書『三日書』徵文活動」，寫一封屬於自己的情書，回望、整理，也與自己重新相遇。兩個月份，分別邀請郭強生與楊翠擔任客座講師，不僅與大家一同展開三日書的書寫，也舉辦延伸講座，帶領大家從文字中看見自我、整理人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/372bc503-6ba7-414e-a4d2-a3e3adf8195d.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/372bc503-6ba7-414e-a4d2-a3e3adf8195d.jpeg/public",
+    "readTime": 137424,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "給自己的情書"
+      },
+      {
+        "content": "兩廳院藝術出走"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDg",
+          "shortHash": "5zhf2bpty274",
+          "name": "兩廳院藝術出走：給自己的情書「三日書」徵文活動（八月：關於人生，我想說的是｜客座作家：郭強生）"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 30
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTc2NTE2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5NzY1MTY",
+    "createdAt": "2025-07-15T05:37:12.493Z",
+    "articleState": "active",
+    "title": "「燃燒自我的故事」三日書完結｜大滿貫、參加獎名單｜7 月 17 日晚上作家張慧慈講座",
+    "slug": "燃燒自我的故事-三日書完結-大滿貫-參加獎名單-7-月-17-日晚上作家張慧慈講座",
+    "shortHash": "kwe25da52gc3",
+    "summary": "「被過度期待的人：燃燒自我的故事」三日書經已結束，今次總共有 109 位文友參與，並歡迎其中第一次參與的 57 位作者。在這個旅程中，大家寫下被寄予「理所當然」的厚望的故事。七月十七日（四）晚上七時半（東八區），台灣作家張慧慈（小花媽）將談她的新書《長女病》和社會學想像、個人故事如何引起共感。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/3f026860-916e-4b85-9212-edc6a9006b03.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/3f026860-916e-4b85-9212-edc6a9006b03.png/public",
+    "readTime": 7062,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "長女病"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDc",
+          "shortHash": "h2ya9xxjubd2",
+          "name": "三日書｜被過度期待的人：燃燒自我的故事"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTY1NjIy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5NjU2MjI",
+    "createdAt": "2025-06-29T15:59:32.130Z",
+    "articleState": "active",
+    "title": "三日書開始報名｜陪你完成人生日記：長女症候群，燃燒自我的故事",
+    "slug": "三日書開始報名-陪你完成人生日記-長女症候群-燃燒自我的故事",
+    "shortHash": "qwyyg2pml91j",
+    "summary": "「長女症候群」意指燃燒自己、照亮他人的特質，這群人常被寄予懂事、負責的期待。這些期待背後，是怎樣的故事？不論你是長女／長子／媳婦，若你被寄予「理所當然」的厚望與責任，或是你認識這樣的人，誠邀你寫下故事。本期講座邀請台灣作家張慧慈，談談她的新書《長女病》和社會學想像、個人故事如何引起共感。線上講座將於 7 月 17 日（四）東八區 19:30 舉行。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ccec5a8a-b255-4ffc-b2a1-8ab699402de7.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ccec5a8a-b255-4ffc-b2a1-8ab699402de7.png/public",
+    "readTime": 71458,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "三日書"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDc",
+          "shortHash": "h2ya9xxjubd2",
+          "name": "三日書｜被過度期待的人：燃燒自我的故事"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 35
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTUxODM1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5NTE4MzU",
+    "createdAt": "2025-06-10T01:51:48.074Z",
+    "articleState": "active",
+    "title": "「What If 人生有如果」七日書完結｜大滿貫、參加獎名單",
+    "slug": "what-if-人生有如果-七日書完結-大滿貫-參加獎名單",
+    "shortHash": "yxa1gen0z7jd",
+    "summary": "「What If 人生有如果」七日書圓滿結束，今次總共有 172 位文友參與，並歡迎其中第一次參與的 71 位作者。在這七天的旅程中，大家擴闊想像，寫出了人生七篇的「如果」。在這七天，大家透過書寫反思當下、超越對人生的想像，又或是，對現在的生活感到滿足。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/8bbeaee1-d003-4f1f-8e28-07a3db41304d.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/8bbeaee1-d003-4f1f-8e28-07a3db41304d.png/public",
+    "readTime": 6426,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDU",
+          "shortHash": "efkk0l9hcg96",
+          "name": "七日書｜What If 人生有如果"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 20
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoyNzk0OQ",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjI3OTQ5",
+    "shortHash": "etcqat1712cp",
+    "createdAt": "2025-06-04T03:45:59.250Z",
+    "momentState": "active",
+    "content": "<p>Threads 版迷你七日書，歡迎路過的脆友留下你的短文。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.threads.com/@ourfreewrite/post/DKa2aWpT4QH\">www.threads.com/@our...</a></p>",
+    "likeCount": 10,
+    "commentCount": 0,
+    "assets": [
+      {
+        "path": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/moment/9d74669f-ecf8-46bf-80c0-213f438dcc53.png/public"
+      }
+    ]
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoyNzYxNg",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjI3NjE2",
+    "shortHash": "1kbkkqd0czjy",
+    "createdAt": "2025-06-02T03:11:51.396Z",
+    "momentState": "active",
+    "content": "<p>Threads 版迷你七日書</p><p>想輕寫幾句七日書隨筆的，歡迎來玩脆上的迷你七日書 ～～</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.threads.com/@ourfreewrite\">www.threads.com/@our...</a></p>",
+    "likeCount": 5,
+    "commentCount": 0,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTQxNDg5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5NDE0ODk",
+    "createdAt": "2025-05-25T16:00:11.717Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：What If 人生有如果",
+    "slug": "七日書開始報名-陪你完成人生日記-what-if-人生有如果",
+    "shortHash": "x7argsbyr0dj",
+    "summary": "這次七日書的主題為「What If 人生有如果」。如果，人生可以超出目前的框架，有著各種想像，包括回到過去、改變一些決定、擁有超能力、重新定義身份，那會是怎樣的生活？可能有些想像是想超越當下，也有可能是想有一個重新的自己。在這七天的書寫旅程裡，離開目前的人生，盡快發揮想像吧。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/852dac20-0110-4109-8ba3-7e714aadb13a.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/852dac20-0110-4109-8ba3-7e714aadb13a.png/public",
+    "readTime": 99655,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDU",
+          "shortHash": "efkk0l9hcg96",
+          "name": "七日書｜What If 人生有如果"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 52
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTM2OTUy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MzY5NTI",
+    "createdAt": "2025-05-19T09:23:01.020Z",
+    "articleState": "active",
+    "title": "「人生的靈魂提問」七日書圓滿完結｜圈圈樂小遊戲上線啦～",
+    "slug": "人生的靈魂提問-七日書圓滿完結-圈圈樂小遊戲上線啦",
+    "shortHash": "qqde3qpnmf7i",
+    "summary": "「人生的靈魂提問」七日書圓滿結束，總共有 180 位文友參與，並歡迎其中第一次參與的 70 位作者。七日書一週年，你曾經寫到失眠痛哭嗎？或者寫完更加喜歡自己一點點？我們設計了圈圈樂小遊戲，邀請你圈起用文字走過的足跡。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/2b3833d6-1309-4784-b9f2-b741d4871bb6.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/2b3833d6-1309-4784-b9f2-b741d4871bb6.png/public",
+    "readTime": 5996,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 10
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTM2NzE3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MzY3MTc",
+    "createdAt": "2025-05-19T04:31:47.644Z",
+    "articleState": "active",
+    "title": "小遊戲｜七日書圈圈樂｜這一年，你留下了哪些書寫足跡？",
+    "slug": "小遊戲-七日書圈圈樂-這一年-你留下了哪些書寫足跡",
+    "shortHash": "7xajazsnhoy6",
+    "summary": "寫到罵髒話、寫到失眠、寫完之後更喜歡自己多一點了、寫完之後不再恐懼某些事物 .... 過去一年，你參加七日書，留下了什麼「足跡」？「足跡」可以是指數字上的參與次數，更可以是梳理情緒和自我理解的體現。來給這張清單畫圈圈吧～",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ec3000e6-3fb1-4be8-9136-6e57d4b00627.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ec3000e6-3fb1-4be8-9136-6e57d4b00627.png/public",
+    "readTime": 6092,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 18
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTI4NzM5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5Mjg3Mzk",
+    "createdAt": "2025-05-07T05:46:48.805Z",
+    "articleState": "active",
+    "title": "七日書線上交流會｜日記如鏡，在書寫中自我探索與成長",
+    "slug": "七日書線上交流會-日記如鏡-在書寫中自我探索與成長",
+    "shortHash": "7mzxxw551ssn",
+    "summary": "五月十四日 19:30（東八區），與七日書作者交流寫作經驗、個人與寫作的關係、寫作在你人生中的角色。歡迎所有聽眾文友一起交流互動！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/c5297d66-95e1-4cbe-8df2-ae8b06c5f22e.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/c5297d66-95e1-4cbe-8df2-ae8b06c5f22e.png/public",
+    "readTime": 8833,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 19
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoyMzc0Ng",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjIzNzQ2",
+    "shortHash": "ddgfr8sk4v4s",
+    "createdAt": "2025-05-05T03:13:14.161Z",
+    "momentState": "active",
+    "content": "<p>七日書一週年，我們跟 1200 位文友一起書寫人生故事～～</p><p><br class=\"smart\"></p><p>今天也有三個七日書活動開跑，分別是</p><p>1. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/e/26uhbm3uh6rg\">七日書一週年｜寫作，給人生的靈魂提問</a>&nbsp;</p><p>2. 由 <a class=\"mention\" href=\"/@jerryku2003\" data-id=\"VXNlcjoxMDc5NTk\" data-user-name=\"jerryku2003\" data-display-name=\"JK talk\" rel=\"noopener noreferrer nofollow\"><span>@JK talk</span></a> 發起的<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/e/kn7h01eku617\">「七日書：生命裡的煩惱二三事</a>&nbsp;」</p><p>3. 由 <a class=\"mention\" href=\"/@winnie0828\" data-id=\"VXNlcjozOTUyOA\" data-user-name=\"winnie0828\" data-display-name=\"一隻會彈琴的貓\" rel=\"noopener noreferrer nofollow\"><span>@一隻會彈琴的貓</span></a> 發起的「<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/e/2hb97w8rdn7k\">七日書：生與死的二重奏</a>&nbsp;」</p><p><br class=\"smart\"></p><p>繼續一起寫人生故事！</p>",
+    "likeCount": 9,
+    "commentCount": 0,
+    "assets": [
+      {
+        "path": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/moment/0337029f-bc26-4743-a284-cb3ce1a9baa3.png/public"
+      }
+    ]
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTIzMzU4",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MjMzNTg",
+    "createdAt": "2025-04-28T05:13:32.602Z",
+    "articleState": "active",
+    "title": "活動預告｜七日書一週年：從表達自己到找到自我，繼續陪你完成人生日記",
+    "slug": "活動預告-七日書一週年-從表達自己到找到自我-繼續陪你完成人生日記",
+    "shortHash": "zshwcolygqtl",
+    "summary": "七日書踏入一週年，從去年三月開始，七日書以自由書寫（Free Write）方式，發布每月七道題目，探索各種人生命題。適逢五月一週年，我們推出一系列週年慶活動，包括靈感來源自一眾作者的「靈魂提問」七日書、由兩位文友發起的七日書活動、同學會線上分享、七日書人生成就清單。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/4d0788e8-7def-4065-b594-e83c4318737c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/4d0788e8-7def-4065-b594-e83c4318737c.png/public",
+    "readTime": 19256,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 31
+    },
+    "donations": {
+      "totalCount": 5
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTIzMTUw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MjMxNTA",
+    "createdAt": "2025-04-27T16:35:09.412Z",
+    "articleState": "active",
+    "title": "七日書｜自由寫一週年，書寫人生的靈魂提問",
+    "slug": "七日書-自由寫一週年-書寫人生的靈魂提問",
+    "shortHash": "n6bdy23k29ra",
+    "summary": "你有沒有「非常想對自己提問」的人生問題？我們從社區問卷收到各式各樣的寫作主題建議，孤獨與自由，愛與失敗，時間之於人的意義，寫作對你的影響…本月活動以七日書文友的靈感為基礎，邀請大家一起來書寫「靈魂提問」。自由寫一週年，更多活動即將公佈，請關注本帳戶公告。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/de381255-e0e9-44c5-932b-11360d2f8a0e.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/de381255-e0e9-44c5-932b-11360d2f8a0e.png/public",
+    "readTime": 131214,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246NDI",
+          "shortHash": "26uhbm3uh6rg",
+          "name": "七日書一週年｜寫作，給人生的靈魂提問"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 53
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTE3MzI5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MTczMjk",
+    "createdAt": "2025-04-18T09:14:07.310Z",
+    "articleState": "active",
+    "title": "「書寫地方」七日書完結｜大滿貫名單、 4 月 24 日晚上作家講座",
+    "slug": "書寫地方-七日書完結-大滿貫名單-4-月-24-日晚上作家講座",
+    "shortHash": "24a9mapb7gqt",
+    "summary": "「書寫地方」七日書圓滿結束，總共有 191 位文友參與，並歡迎其中第一次參與的 95 位作者。邀請到香港作家黃宇軒，他的知名著作《城市散步學》帶動了近年公眾以散步形式觀察城市的風潮，這次我們邀請他來談談，如何透過散步及地方書寫，探索集體的故事與記憶。講座將於  4 月 24 日（週四）東八區 19:30 舉行。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/57bc7d41-52c1-4e28-8ba5-b40b736978a1.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/57bc7d41-52c1-4e28-8ba5-b40b736978a1.png/public",
+    "readTime": 6659,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MzM",
+          "shortHash": "4nqnizsygmcn",
+          "name": "七日書：書寫地方"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 15
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6OTA1MTg0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo5MDUxODQ",
+    "createdAt": "2025-03-30T15:57:09.792Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：書寫地方",
+    "slug": "七日書開始報名-陪你完成人生日記-書寫地方",
+    "shortHash": "dh2xfd9t0zc8",
+    "summary": "「地方感」是指你在某處生活的感情、與外在連結的能力，也能感受人與所在的關係。你最愛到哪個地方流連？哪個地方曾為你帶來感官與心靈上的衝撃？甚至是分享一個微小的路上的風景，都是個人在生活中的提煉。地方書寫是屬於每個人的，大家都可以來寫。本期七日書講座，邀請到香港作家黃宇軒，談談如何透過散步及地方書寫，探索集體的故事與記憶。線上講座將於 4 月 24 日（週四）東八區 19:30 舉行。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/90d95b03-e273-4f6b-b4df-a93cc0ee5850.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/90d95b03-e273-4f6b-b4df-a93cc0ee5850.png/public",
+    "readTime": 108778,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MzM",
+          "shortHash": "4nqnizsygmcn",
+          "name": "七日書：書寫地方"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 37
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODkzODIy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4OTM4MjI",
+    "createdAt": "2025-03-11T01:40:17.746Z",
+    "articleState": "active",
+    "title": "「我的家庭故事」七日書完結｜大滿貫名單、3月19日晚上作家講座",
+    "slug": "我的家庭故事-七日書完結-大滿貫名單-3月19日晚上作家講座",
+    "shortHash": "4t8r4oe22a7m",
+    "summary": "「我的家庭故事」七日書圓滿結束，總共有 176 位文友參與，並歡迎其中第一次參與的 85 位作者。本期講座邀請到香港作家譚蕙芸，她是香港中文大學新聞與傳播學院講師，以家庭為主題的散文見於主流媒體，出版包括《文字欲: 回應時代的特寫新聞》、《天愈黑，星愈亮》等。講座將於 3 月 19 日晚上舉行。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/a065896f-608c-401c-807a-903171965c99.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/a065896f-608c-401c-807a-903171965c99.png/public",
+    "readTime": 10579,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODkwMTY0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4OTAxNjQ",
+    "createdAt": "2025-03-05T04:53:11.293Z",
+    "articleState": "active",
+    "title": "你來決定七日書題目！哪些題目讓你寫得又痛又爽？填寫問卷，成為下一個出題者",
+    "slug": "你來決定七日書題目-哪些題目讓你寫得又痛又爽-填寫問卷-成為下一個出題者",
+    "shortHash": "47400pu27q6l",
+    "summary": "邀請七日書文友填寫這份問卷，並為自己出一道／一組七日書。你的回答將決定五月七日書的主題 😆",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/4ddb97ba-ff1c-48e3-8ff9-8637d329c401.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/4ddb97ba-ff1c-48e3-8ff9-8637d329c401.png/public",
+    "readTime": 16287,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 20
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODg0NjQ5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4ODQ2NDk",
+    "createdAt": "2025-02-23T16:00:48.613Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：我的家庭故事",
+    "slug": "七日書開始報名-陪你完成人生日記-我的家庭故事",
+    "shortHash": "lnu9azqfyj20",
+    "summary": "這次七日書的主題為「我的家庭故事」，家庭作為原生之地有著許多模樣：自小長大的家庭、出走過的家庭；與之親密或有距離的家庭，在每段時間都深深影響著你，今期邀請你寫下家庭故事，甚或是埋在心裡的秘密。本期講座邀請到香港作家譚蕙芸，她是香港中文大學新聞與傳播學院講師，以家庭為主題的散文見於主流媒體，出版包括《文字欲: 回應時代的特寫新聞》、《天愈黑，星愈亮》等。講座將於 3 月 19 日晚上舉行。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ec74e8c9-77e6-444c-b034-6342e83519bd.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ec74e8c9-77e6-444c-b034-6342e83519bd.png/public",
+    "readTime": 90189,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MTk",
+          "shortHash": "f7rpyecg32mg",
+          "name": "七日書：我的家庭故事"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 33
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODc3OTAx",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4Nzc5MDE",
+    "createdAt": "2025-02-12T04:13:32.227Z",
+    "articleState": "active",
+    "title": "「人間鬼故事」七日書完結｜大滿貫名單、徽章發放、作家講座改期至2月20日",
+    "slug": "人間鬼故事-七日書完結-大滿貫名單-徽章發放-作家講座改期至2月20日",
+    "shortHash": "5m3yp2jfs24g",
+    "summary": "「人間鬼故事」七日書圓滿結束，總共有 141 位文友參與，並歡迎其中第一次參與的 61 位作者。要注意的是，線上作家講座將由 2 月 19 日（三）改期至 2 月 20 日（四），時間同樣是晚上七時半（東八區），有興趣的文友不要錯過！本次作家講座，邀請到以代表作《鬼地方》成名的陳思宏老師，分享他的人間鬼故事。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/88c4f56c-1c3c-45f1-b1aa-fb00bbc74645.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/88c4f56c-1c3c-45f1-b1aa-fb00bbc74645.png/public",
+    "readTime": 7538,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 10
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODY0ODQ0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4NjQ4NDQ",
+    "createdAt": "2025-01-26T15:50:22.160Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：人間鬼故事",
+    "slug": "七日書開始報名-陪你完成人生日記-人間鬼故事",
+    "shortHash": "5t00nmr6xsqp",
+    "summary": "七日書這次要寫「人間鬼故事」！「鬼」有很多種模樣，那些不可訴說的經歷、無法釋懷的事，或讓你面目全非的生命時刻，像鬼一樣，難以言說，或看不見卻時時影響著你。這是一次揭開內心深處鬼影的勇者之旅。本期講座邀請台灣作家陳思宏，他的知名小說《鬼地方》正是圍繞著「鬼」這個意象，探討人與內心深處的陰影和未竟之事的糾纏。講座將於 2 月 20 日舉行（原講座日期為 19 號，改期到 20 號）。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/09c54291-6e76-41fb-a10c-4a0f5c7e0ee2.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/09c54291-6e76-41fb-a10c-4a0f5c7e0ee2.png/public",
+    "readTime": 102986,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MTQ",
+          "shortHash": "x4rv6dwgk68o",
+          "name": "七日書：人間鬼故事"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 39
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODU2MDk1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4NTYwOTU",
+    "createdAt": "2025-01-20T07:09:25.976Z",
+    "articleState": "active",
+    "title": "「我的（不）完美人生」七日書圓滿完結｜大滿貫名單、徽章發放",
+    "slug": "我的-不-完美人生-七日書圓滿完結-大滿貫名單-徽章發放",
+    "shortHash": "qhmfbr8f4zbf",
+    "summary": "2025 年第一次的七日書圓滿結束了，總共有 281 位文友參與，並歡迎其中第一次參與的 150 位作者。本週三晚上作家講座，邀請吉井忍老師以《東京八平米》為出發點，談談如何重新想像生活，並書寫非主流的生活樣貌。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/193da3aa-7110-48c3-9fe0-97b428149c95.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/193da3aa-7110-48c3-9fe0-97b428149c95.png/public",
+    "readTime": 7973,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MTE",
+          "shortHash": "eqsfuc3qph6u",
+          "name": "七日書：我的（不）完美人生"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 13
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODQzNjkx",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4NDM2OTE",
+    "createdAt": "2025-01-09T02:22:18.942Z",
+    "articleState": "active",
+    "title": "七日書新作者與精彩留言｜我在生活中的完美與不完美",
+    "slug": "七日書新作者與精彩留言-我在生活中的完美與不完美",
+    "shortHash": "7ta8vimk9250",
+    "summary": "本期七日書主題為「我的（不）完美人生」，有沒有什麼經歷，讓你重新審視對理想人生的定義？2025 年初，來看看七日書的作者們如何書寫人生中的完美與不完美。1月22日，邀來作家吉井忍做線上講座，她會以東京八平米為出發點，談談如何重新想像生活。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/41b70930-6486-4d03-9371-3562b3f2a09d.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/41b70930-6486-4d03-9371-3562b3f2a09d.png/public",
+    "readTime": 13338,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MTE",
+          "shortHash": "eqsfuc3qph6u",
+          "name": "七日書：我的（不）完美人生"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 13
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODM5MjYy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MzkyNjI",
+    "createdAt": "2025-01-05T04:11:04.181Z",
+    "articleState": "active",
+    "title": "七日書作家分享精華｜李智良：如果寫作不是一個表演，它最後就是通往人軟弱和溫柔的部分",
+    "slug": "七日書作家分享精華-李智良-如果寫作不是一個表演-它最後就是通往人軟弱和溫柔的部分",
+    "shortHash": "56lee0tjrquq",
+    "summary": "12月12日晚上，「七日書」請來香港作家李智良分享，在兩小時的對談間，他道出了寫作的經驗、12年沒法好好寫作的因由，在不穩定和碎片化的生活裡，寫作裡沒有完整的世界，卻造就了拼貼式的實驗性寫作。從寫自己經歷精神科治療的著作《房間》，到寫自己之於他人、他人之於自己的作品《渡日若渡海》，他當中思考了許多，也在現實生活裡掙扎良久，一起來看看分享會的對談，讓我們了解，寫作如何觸及脆弱與溫柔的部分。",
+    "displayCover": null,
+    "cover": null,
+    "readTime": 15817,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "李智良"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 16
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODMyODQ5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MzI4NDk",
+    "createdAt": "2024-12-29T17:19:55.138Z",
+    "articleState": "active",
+    "title": "七日書開始報名｜陪你完成人生日記：我的（不）完美人生",
+    "slug": "七日書開始報名-陪你完成人生日記-我的-不-完美人生",
+    "shortHash": "l526pey4n6hu",
+    "summary": "一月「七日書」開始報名！本期主題是「我的（不）完美人生」。你對人生的想像是什麼？有沒有什麼經歷，讓你重新審視對理想人生的定義？即日起報名到 1 月 5 日截止，1 月 6 日開始寫作。本期亦邀請到以華語寫作的日本作家吉井忍線上分享，談談如何重新想像生活，並書寫非主流的生活樣貌。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1e247419-c16c-420a-8a4d-f90d93fcbc49.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1e247419-c16c-420a-8a4d-f90d93fcbc49.png/public",
+    "readTime": 176617,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MTE",
+          "shortHash": "eqsfuc3qph6u",
+          "name": "七日書：我的（不）完美人生"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 44
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODE0ODY3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MTQ4Njc",
+    "createdAt": "2024-12-10T05:01:25.645Z",
+    "articleState": "active",
+    "title": "「物的體系」七日書完結｜大滿貫名單、徽章發放",
+    "slug": "物的體系-七日書完結-大滿貫名單-徽章發放",
+    "shortHash": "9ek26v38xr24",
+    "summary": "第七期七日書共有 188 位文友正式報名，其中 84 人是首次參加。本次活動共有 35 位文友寫滿七篇文章，恭喜你們堅持了七天寫作！可獲得「大滿貫」徽章及「大滿貫鏈上參與憑證」。同時本期共有 16 位文友完成超過一半或以上的文章，可獲得「參與證明鏈上憑證」。",
+    "displayCover": null,
+    "cover": null,
+    "readTime": 8215,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 19
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODEwNDkz",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MTA0OTM",
+    "createdAt": "2024-12-05T05:19:08.115Z",
+    "articleState": "active",
+    "title": "七日書精選｜我們的物件記憶",
+    "slug": "七日書精選-我們的物件記憶",
+    "shortHash": "t4oaeigan9ji",
+    "summary": "「物的體系，我的物件錄」你有怎樣的物件記憶呢？物是陪伴，也是記憶。來看看七日書的作者們如何書寫物。12月12日李智良線上分享會，他會和我們談談作為一個寫作者，怎樣坦誠面對自己、理解自己、感知周遭，同理世界。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/269a33ba-9915-4fe1-94f6-f7e575740dee.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/269a33ba-9915-4fe1-94f6-f7e575740dee.png/public",
+    "readTime": 4447,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "馬特市自由寫七日書"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Nw",
+          "shortHash": "8t5liudbtpup",
+          "name": "七日書：物的體系，我的物件錄"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 9
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODA0OTg1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MDQ5ODU",
+    "createdAt": "2024-11-28T16:14:00.729Z",
+    "articleState": "active",
+    "title": "文字精華版｜ 我如何探索並寫作島嶼——庫索線上講座",
+    "slug": "文字精華版-我如何探索並寫作島嶼-庫索線上講座",
+    "shortHash": "6jdyyy1nxzg2",
+    "summary": "城市來的人往往具備更先進的思維方式，但島上的思維模式可能尚未與時俱進，這就會導致一些理念上的衝突。不過，這裡有一個值得注意的好處——那些選擇移居到島上的人，並非帶著城市人的傲慢。他們往往因為認同並嚮往島嶼的自然生活才選擇定居於此。因此，即使他們明白彼此的思維存在差異，通常也會優先選擇尊重當地的文化。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/aa768913-937f-4143-8da9-2fd1c37e5560.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/aa768913-937f-4143-8da9-2fd1c37e5560.png/public",
+    "readTime": 4985,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6ODAxMzM2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo4MDEzMzY",
+    "createdAt": "2024-11-24T16:18:20.341Z",
+    "articleState": "active",
+    "title": "七日書 #7 開放報名｜陪你完成人生日記：物的體系，我的物件錄",
+    "slug": "七日書-7-開放報名-陪你完成人生日記-物的體系-我的物件錄",
+    "shortHash": "y5lvdojbpace",
+    "summary": "「七日書」第七期開始報名！本期主題以「物件」為主題，對你而言，重要的物件是甚麼？它盛載了怎樣的自己、自己和他人的關係？當中又有著怎樣的回憶、情懷與意義？即日起報名到 12 月 1 日截止，12 月 2 日開始寫作，參與七日書，寫出你的人生故事。本期亦邀請到香港作家李智良進行線上分享會，分享他的寫作經驗與生命狀態。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/12e61bc5-210e-4661-be4d-264518d6aa0c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/12e61bc5-210e-4661-be4d-264518d6aa0c.png/public",
+    "readTime": 115804,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Nw",
+          "shortHash": "8t5liudbtpup",
+          "name": "七日書：物的體系，我的物件錄"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 51
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzkxMzUy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3OTEzNTI",
+    "createdAt": "2024-11-13T07:51:01.865Z",
+    "articleState": "active",
+    "title": "「島嶼精神」七日書完結｜大滿貫名單、徽章發放",
+    "slug": "島嶼精神-七日書完結-大滿貫名單-徽章發放",
+    "shortHash": "fq34sm1stmot",
+    "summary": "第六期七日書共有 215 位文友正式報名，其中 104 人是首次參加。本次活動共有 47 位文友寫滿七篇文章，恭喜你們堅持了七天寫作！可獲得「大滿貫」徽章及「大滿貫鏈上參與憑證」。同時本期共有 16 位文友完成超過一半或以上的文章，可獲得「參與證明鏈上憑證」。",
+    "displayCover": null,
+    "cover": null,
+    "readTime": 13343,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 27
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6Nzg2MDQy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3ODYwNDI",
+    "createdAt": "2024-11-07T02:30:09.019Z",
+    "articleState": "active",
+    "title": "七日書精選｜出現在我們生命中的島嶼",
+    "slug": "七日書精選-出現在我們生命中的島嶼",
+    "shortHash": "26h9eh0dg67e",
+    "summary": "「島嶼」、「離島」這幾個字曾出現在你的生命中嗎？你人生第一次與島嶼接觸的經驗是什麼時候？來看看七日書作者們如何描寫她／他們生命中的「島」。11月14號線上分享會，邀請作家庫索分享「如何探索並寫作島嶼」，參與講座並提問就有機會獲得新書及島徽章。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d0de529b-7202-45a5-b6c1-ff40f42abf72.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d0de529b-7202-45a5-b6c1-ff40f42abf72.png/public",
+    "readTime": 9325,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Ng",
+          "shortHash": "scx3f16y37v6",
+          "name": "七日書：島嶼精神，另類人生"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDozNTg0",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjM1ODQ",
+    "shortHash": "dm8zjdmbigih",
+    "createdAt": "2024-11-04T09:21:29.631Z",
+    "momentState": "active",
+    "content": "<p>七日書第一天開始了！</p><p>當提到「島」這個字的時候，第一個畫面或印象，你會想起什麼？</p><p><a class=\"mention\" href=\"/@1900bing\" data-id=\"VXNlcjoxMjY0NTY\" data-user-name=\"1900bing\" data-display-name=\"冰沁\" rel=\"noopener noreferrer nofollow\"><span>@冰沁</span></a> 書寫了她感受中的廈門鼓浪嶼</p><p>//孤独。也许这便是岛给我的感觉。即便有桃花源一样的岛。但在渺茫之中的边缘总是沉寂着。我想要有回声。Echo。那不是岛，那是群山。也不是漂浮在海面上，而是扎根在土里。//</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/6uuezur78xjl\">七月的岛</a>&nbsp;</p>",
+    "likeCount": 3,
+    "commentCount": 0,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6Nzc3NzY4",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3Nzc3Njg",
+    "createdAt": "2024-10-27T16:00:20.683Z",
+    "articleState": "active",
+    "title": "七日書 #6 開放報名｜陪你完成人生日記：島嶼精神，另類人生",
+    "slug": "七日書-6-開放報名-陪你完成人生日記-島嶼精神-另類人生",
+    "shortHash": "mj4v2fosf1h7",
+    "summary": "「七日書」第六期開始報名！本期主題以「島嶼」為核心發想，寫的是另類生活、各種事物之間的邊界。即日起報名到 11 月 3 日截止，11 月 4 日開始寫作，參與七日書，寫出你人生故事的另一面向。本期亦邀請到移居日本的華語作家庫索進行線上分享會，分享她的島嶼書寫視角，參加就有機會獲得《離島》一書與島啤酒徽章！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/474f9cfd-d78c-419d-a8aa-a4d60bb83f60.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/474f9cfd-d78c-419d-a8aa-a4d60bb83f60.png/public",
+    "readTime": 159032,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Ng",
+          "shortHash": "scx3f16y37v6",
+          "name": "七日書：島嶼精神，另類人生"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 51
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDozMTU0",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjMxNTQ",
+    "shortHash": "ahakkzbexgia",
+    "createdAt": "2024-10-27T08:34:20.955Z",
+    "momentState": "active",
+    "content": "<p>不知道誰是第 300 個追蹤者呢～～～～</p>",
+    "likeCount": 6,
+    "commentCount": 0,
+    "assets": [
+      {
+        "path": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/moment/3243edfd-60fc-461c-865a-85d3bcb9574b.png/public"
+      }
+    ]
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoyNDI2",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjI0MjY",
+    "shortHash": "rvmg2m5u3lkp",
+    "createdAt": "2024-10-15T15:45:37.921Z",
+    "momentState": "active",
+    "content": "<p>最近東亞各地陸續進入秋天，天氣明顯變涼，七日書友們都好嗎？自由寫小組在如火如荼準備下一次的活動，趁機重讀了七月分享會的文章，再看一次還是很感動，貼在這裡分享給大家 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/5ey2c99zbnks\">七日書聊天會文字精華｜寫作是一場旅途，看...</a>&nbsp;</p><p>下次七日書 10 月底開始報名，進入新的季節，繼續一起透過寫作探索人生💫</p>",
+    "likeCount": 12,
+    "commentCount": 3,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoxOTUx",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjE5NTE",
+    "shortHash": "w1y4mof4t30p",
+    "createdAt": "2024-10-07T03:46:21.513Z",
+    "momentState": "active",
+    "content": "<p>本月的「七日書」與山海塢合作，寫三天，稱為「三日書」<br class=\"smart\">山海塢是一個現代版數字遊民 Town Hall，希望為個體提供一個自由安放主體性、主體性的場域。<br class=\"smart\">主題寫的是「理想之地」，你對理想之地有各種各樣的幻想嗎？<br class=\"smart\">報名參加：https://matters.town/e/ybs0lqsrpmhn</p>",
+    "likeCount": 10,
+    "commentCount": 0,
+    "assets": [
+      {
+        "path": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/moment/b6de8c42-96d8-4e20-bd15-4112742ce512.png/public"
+      }
+    ]
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoxNzg4",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjE3ODg",
+    "shortHash": "4pob4floiqo8",
+    "createdAt": "2024-10-02T03:05:39.998Z",
+    "momentState": "active",
+    "content": "<p>許菁芳線上講座文字精華版上線啦！📣</p><p><br class=\"smart\"></p><p>//書寫也是一種為自己付出的行為，因為你在為自己留下記錄。人類有一種根本的存在危機感，就是覺得自己好像不在這個世界上。但如果你為自己留下文字，那麼無論如何你都留下了一些痕跡，這就是一種付出和自我肯定。書寫時用手寫，能具體地感受到為自己付出的感覺。//</p><p><br class=\"smart\"></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/waox0uwi5ju2\">文字精華版｜在書寫中與自我相遇 ——許菁...</a>&nbsp;</p>",
+    "likeCount": 8,
+    "commentCount": 0,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzU2ODA2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3NTY4MDY",
+    "createdAt": "2024-10-02T03:02:26.976Z",
+    "articleState": "active",
+    "title": "文字精華版｜在書寫中與自我相遇 ——許菁芳線上講座",
+    "slug": "文字精華版-在書寫中與自我相遇-許菁芳線上講座",
+    "shortHash": "waox0uwi5ju2",
+    "summary": "接納是愛的一個重要特質，它意味着理解和共處。療癒是用愛去治癒某些東西，而愛的重要特質是接納，接納就是不批判，接受事物如其所是。所以，通過寫作自我療癒其實很簡單：不用多想，放手去寫，寫什麼都可以，接納一切，不去企圖改變。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/260f3edf-c683-47ff-a093-23f047d1796c.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/260f3edf-c683-47ff-a093-23f047d1796c.jpeg/public",
+    "readTime": 3422,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 7
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzQwNjE0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3NDA2MTQ",
+    "createdAt": "2024-09-12T08:04:35.603Z",
+    "articleState": "active",
+    "title": "七日書精彩落幕｜第五期大滿貫名單及徽章發放",
+    "slug": "七日書精彩落幕-第五期大滿貫名單及徽章發放",
+    "shortHash": "nbc5xw9ab6g9",
+    "summary": "第五期七日書共有 235 位文友正式報名，「晚鳥參與」有 39 位晚鳥文友加入，總參與人數有 274 人，其中 157 人是首次參加。本次活動共有 57 位文友寫滿七篇文章，可獲得「大滿貫」徽章及「大滿貫鏈上參與憑證」。同時本期共有 37 位文友可獲得「參與證明鏈上憑證」。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/5518314b-d93a-4476-910c-2397e67049f9.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/5518314b-d93a-4476-910c-2397e67049f9.png/public",
+    "readTime": 12583,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 20
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzM3Nzgy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3Mzc3ODI",
+    "createdAt": "2024-09-09T07:34:43.160Z",
+    "articleState": "active",
+    "title": "文字精華版｜買菜、做飯、留神，而後寫作 --洪愛珠線上講座",
+    "slug": "文字精華版-買菜-做飯-留神-而後寫作-洪愛珠線上講座",
+    "shortHash": "fvr7o38vqy2o",
+    "summary": "市場的吸引力於我而言是它的獨特「口音」。各地市場，有各自的特色。客庄、閩南，外省，以原住民為主力的市場，氣質不同，連產品都不一樣。我一向對人好奇，傳統市場沒有別的，就是人多。提供了許多觀察與人際交流，這對創作者而言，是大型的田野。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/53624052-08d2-4fd9-b567-636ac4be4b7b.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/53624052-08d2-4fd9-b567-636ac4be4b7b.png/public",
+    "readTime": 27192,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 31
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzM2MDM0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MzYwMzQ",
+    "createdAt": "2024-09-07T04:23:01.867Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之二｜人生一席之地之人，平凡的幸福時刻",
+    "slug": "七日書精選推薦之二-人生一席之地之人-平凡的幸福時刻",
+    "shortHash": "8hhu34z866zq",
+    "summary": "第五期七日書的主題是「我的成長軌跡」，繼續來精選第三天到第五天的好文，以及有趣溫馨的互動，也歡迎你一起透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cc372a61-f5bf-4a16-9c9f-dd2be5c70e10.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cc372a61-f5bf-4a16-9c9f-dd2be5c70e10.png/public",
+    "readTime": 6599,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": null
+      },
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": {
+          "__typename": "CampaignStage",
+          "id": "Q2FtcGFpZ25TdGFnZToxMDI",
+          "name": "第六天"
+        }
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDo1MTU",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjUxNQ",
+    "shortHash": "20841onwi9t8",
+    "createdAt": "2024-09-06T05:54:06.248Z",
+    "momentState": "active",
+    "content": "<p>\\ \\ 閃閃發亮的「你」，那些你看見自己的時刻 / /</p><p><br class=\"smart\"></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/op6mvcldjsts\">【七日书】day1 闪闪发亮的新西兰</a>&nbsp;<br class=\"smart\">「那似乎是『世界』的一部分了。我好像真的走到了世界當中。」</p><p><br class=\"smart\"></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/apj50ed7to1p\">七日書#5.1｜帶領一個孩子發現宇宙</a>&nbsp;<br class=\"smart\">「我想關於人類，這就是我最喜愛的一件事，人有最純粹的好奇，人有最純真的發問，人有最純樸的求知」</p><p><br class=\"smart\"></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/gtxkx2jnfgqe\">七日书 5-1 | 如果说这么多年还有什...</a>&nbsp;</p><p>「也許窮此一生也不會有讀者與觀衆。而唯有我自己瞭然，支撐我這麼做的原因，就是將過往的那一個『我』延續下去。」</p>",
+    "likeCount": 5,
+    "commentCount": 0,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDo0NDU",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjQ0NQ",
+    "shortHash": "jvpjx3iilucc",
+    "createdAt": "2024-09-05T02:45:48.180Z",
+    "momentState": "active",
+    "content": "<p>🌷 「七日書」精選文章（一）<br class=\"smart\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/klfyd4ycphi9\">七日書精選推薦之一｜發亮與不可告人的時刻</a>&nbsp;</p>",
+    "likeCount": 4,
+    "commentCount": 0,
+    "assets": []
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzMzNjAw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MzM2MDA",
+    "createdAt": "2024-09-04T06:09:10.855Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之一｜發亮與不可告人的時刻",
+    "slug": "七日書精選推薦之一-發亮與不可告人的時刻",
+    "shortHash": "klfyd4ycphi9",
+    "summary": "第五期七日書的主題是「我的成長軌跡」，共有 261 位文友報名參與，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/12000e9f-d5dd-4aea-af3b-e0dd60509ca3.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/12000e9f-d5dd-4aea-af3b-e0dd60509ca3.png/public",
+    "readTime": 23770,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 19
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzMxMTcz",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MzExNzM",
+    "createdAt": "2024-09-01T16:45:06.215Z",
+    "articleState": "active",
+    "title": "第五期「七日書」正式開跑！分享你的成長軌跡",
+    "slug": "第五期-七日書-正式開跑-分享你的成長軌跡",
+    "shortHash": "q67v7o2xupcy",
+    "summary": "第五期自由寫「七日書」正式開跑！本次活動跟上次一樣，從報名到發表文章，皆採用新功能。本次報名人數 234人，反應熱烈。很高興有機會跟大家一起持續寫作，陪你完成人生日記。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9d6ea8cd-85ee-4d5c-aa16-7bbea46462f2.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9d6ea8cd-85ee-4d5c-aa16-7bbea46462f2.png/public",
+    "readTime": 66077,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 24
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOk1vbWVudDoxNjA",
+    "__typename": "Moment",
+    "id": "TW9tZW50OjE2MA",
+    "shortHash": "o46e1ve6ao72",
+    "createdAt": "2024-08-30T03:51:03.108Z",
+    "momentState": "active",
+    "content": "<p>🌵 九月七日書的主題是「我的成長軌跡」<br class=\"smart\">成長過程裡總會有些光亮的、昏暗的、迷惘的、豁然開朗的瞬間，讓你想寫進日記本</p><p>邀請你談談自己的故事，從那些平凡又不凡的瞬間寫起。<br class=\"smart\">報名：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://matters.town/a/bv7slyxpxckf\">七日書 #5 開放報名｜陪你完成人生日記...</a>&nbsp;</p>",
+    "likeCount": 10,
+    "commentCount": 0,
+    "assets": [
+      {
+        "path": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/moment/5003b2f7-7ebb-47f8-869f-b6e259a25c0b.png/public"
+      }
+    ]
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzIzNTc5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MjM1Nzk",
+    "createdAt": "2024-08-25T15:51:22.504Z",
+    "articleState": "active",
+    "title": "七日書 #5 開放報名｜陪你完成人生日記：與自我對話，寫出成長軌跡",
+    "slug": "七日書-5-開放報名-陪你完成人生日記-與自我對話-寫出成長軌跡",
+    "shortHash": "bv7slyxpxckf",
+    "summary": "「七日書」第五期開始報名！本期主題「我的成長軌跡」，分享你人生一路走來的足跡。即日起報名到 9 月 1 日截止，9 月 2 日開始寫作。本期活動亦邀請到作家許菁芳擔任講者，分享如何用文字深度關照自我，寫出人生的風景。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/74e592a8-16f8-4fac-87eb-0b2966d47a9a.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/74e592a8-16f8-4fac-87eb-0b2966d47a9a.png/public",
+    "readTime": 156962,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246Mw",
+          "shortHash": "ia800figcq9y",
+          "name": "七日書：寫出成長軌跡"
+        },
+        "stage": null
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 67
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzEyMTQ1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MTIxNDU",
+    "createdAt": "2024-08-14T05:02:34.972Z",
+    "articleState": "active",
+    "title": "七日書精彩落幕｜大滿貫名單及徽章發放、作家洪愛珠線上講座",
+    "slug": "七日書精彩落幕-大滿貫名單及徽章發放-作家洪愛珠線上講座",
+    "shortHash": "u1510gz5by6o",
+    "summary": "「人生餐桌」精彩落幕，我們將為前四期獲得大滿貫的 189 位文友送上大滿貫徽章及鏈上憑證、為 103 位文友送上「參與證明鏈上憑證」，只要在 8 月 21 日 前綁定錢包即可收到憑證，讓你的寫作足跡永久留存。活動方面，下週邀請到作家洪愛珠作客七日書，分享如何從食物寫出人生的千百種滋味。而下一期「七日書」活動將於八月底開始報名！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/9f693119-3def-4c17-8803-9afa63bf6c47.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/9f693119-3def-4c17-8803-9afa63bf6c47.jpeg/public",
+    "readTime": 32974,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MQ",
+          "shortHash": "5sdzhvyf3imb",
+          "name": "七日書：我的人生飯桌"
+        },
+        "stage": {
+          "__typename": "CampaignStage",
+          "id": "Q2FtcGFpZ25TdGFnZTo3Mg",
+          "name": "書後感"
+        }
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 51
+    },
+    "donations": {
+      "totalCount": 4
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzA3NDQ5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MDc0NDk",
+    "createdAt": "2024-08-09T03:15:11.556Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之二｜透過餐桌呼喚情感",
+    "slug": "七日書精選推薦之二-透過餐桌呼喚情感",
+    "shortHash": "nesimqfpomyx",
+    "summary": "第四期七日書的主題是「我的人生餐桌」，共有230位文友報名參與，我們精選了第三、四天的好文章、有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ebbac60f-162f-4772-b3b0-e0aced9c1f88.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ebbac60f-162f-4772-b3b0-e0aced9c1f88.jpeg/public",
+    "readTime": 22108,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MQ",
+          "shortHash": "5sdzhvyf3imb",
+          "name": "七日書：我的人生飯桌"
+        },
+        "stage": {
+          "__typename": "CampaignStage",
+          "id": "Q2FtcGFpZ25TdGFnZTo2OQ",
+          "name": "第五天"
+        }
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 18
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzA1Mzc0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MDUzNzQ",
+    "createdAt": "2024-08-07T03:19:26.436Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之一｜你的飲食記憶",
+    "slug": "七日書精選推薦之一-你的飲食記憶",
+    "shortHash": "jgaapahxff71",
+    "summary": "第四期七日書的主題是「我的人生餐桌」，共有230位文友報名參與，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/465feb2c-2287-4483-9ca8-ccf71b3f6a44.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/465feb2c-2287-4483-9ca8-ccf71b3f6a44.png/public",
+    "readTime": 12544,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MQ",
+          "shortHash": "5sdzhvyf3imb",
+          "name": "七日書：我的人生飯桌"
+        },
+        "stage": {
+          "__typename": "CampaignStage",
+          "id": "Q2FtcGFpZ25TdGFnZTo2Ng",
+          "name": "第二天"
+        }
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 15
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NzAyOTQ5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo3MDI5NDk",
+    "createdAt": "2024-08-04T16:05:33.457Z",
+    "articleState": "active",
+    "title": "第四期「七日書」正式開跑！使用編輯器新功能發表，分享你的人生飯桌故事",
+    "slug": "第四期-七日書-正式開跑-使用編輯器新功能發表-分享你的人生飯桌故事",
+    "shortHash": "mwu4mxejo5jo",
+    "summary": "自由寫「七日書」#4 正式開跑！本次活動從報名到發表文章，皆採用全新功能，參加者請留意本文要點。本次報名人數 230人，反應熱烈。很高興有機會跟大家一起持續寫作，陪你完成人生日記。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/98bc14fa-bee3-416f-b5e6-33721a15ca7c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/98bc14fa-bee3-416f-b5e6-33721a15ca7c.png/public",
+    "readTime": 47088,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [
+      {
+        "campaign": {
+          "__typename": "WritingChallenge",
+          "id": "Q2FtcGFpZ246MQ",
+          "shortHash": "5sdzhvyf3imb",
+          "name": "七日書：我的人生飯桌"
+        },
+        "stage": {
+          "__typename": "CampaignStage",
+          "id": "Q2FtcGFpZ25TdGFnZTo2NQ",
+          "name": "第一天"
+        }
+      }
+    ],
+    "appreciationsReceived": {
+      "totalCount": 29
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6Njk4MTM3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2OTgxMzc",
+    "createdAt": "2024-07-28T16:10:18.090Z",
+    "articleState": "active",
+    "title": "七日書 #4 開放報名｜陪你完成人生日記：我的人生飯桌，以食物與味蕾道出故事",
+    "slug": "七日書-4-開放報名-陪你完成人生日記-我的人生飯桌-以食物與味蕾道出故事",
+    "shortHash": "d20ozorij4yg",
+    "summary": "「七日書」第四期開始報名！本期主題為「我的人生飯桌」，搭配全新七日書活動功能，讓你報名、發文、閱讀文章更方便。即日起報名到 8 月 4 日截止，8 月 5 日開始寫作，參與七日書，分享你與食物的人生故事。亦邀請到作家洪愛珠舉辦講座，分享如何從食物寫出人生的千百種滋味。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/81ca5e47-c4bd-43b1-a9c1-03fa23731b28.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/81ca5e47-c4bd-43b1-a9c1-03fa23731b28.png/public",
+    "readTime": 176987,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 71
+    },
+    "donations": {
+      "totalCount": 4
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6Njk4MTI5",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2OTgxMjk",
+    "createdAt": "2024-07-28T15:57:21.316Z",
+    "articleState": "active",
+    "title": "參與「七日書」，獲取你的永恆寫作足跡（大滿貫徽章、鏈上參與憑證）",
+    "slug": "參與-七日書-獲取你的永恆寫作足跡-大滿貫徽章-鏈上參與憑證",
+    "shortHash": "m76lw4pjfyyf",
+    "summary": "七日書舉行至第四期，從空間與地方、家與家鄉、愛與親密關係，前三期共有三百多位作者參與，連續書寫七篇的「大滿貫」者累積至 158 人，將近 100 人書寫四篇以上可獲得參與憑證。七日書推出「大滿貫徽章」和「鏈上參與憑證」，讓文友們都獲得一份證明、紀念，留下參與過、書寫過、交流過的足跡。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6f2c3991-e3db-4f21-bfac-42b45ddff8da.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6f2c3991-e3db-4f21-bfac-42b45ddff8da.png/public",
+    "readTime": 80643,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "加密錢包"
+      },
+      {
+        "content": "Billboard"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 53
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6Njk0Mjc3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2OTQyNzc",
+    "createdAt": "2024-07-24T11:49:50.849Z",
+    "articleState": "active",
+    "title": "七日書聊天會文字精華｜寫作是一場旅途，看見自己與他人",
+    "slug": "七日書聊天會文字精華-寫作是一場旅途-看見自己與他人",
+    "shortHash": "5ey2c99zbnks",
+    "summary": "七日書寫作如同一場旅途，在旅程中看見自己，也看見他人。我們相信，一個人寫，這條路就只是一個人走；一群人一起寫、交換彼此的經驗，便能獲得更多探索的能量跟勇氣。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/f2163d68-60e2-470f-89a6-ce385d1d81f5.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/f2163d68-60e2-470f-89a6-ce385d1d81f5.png/public",
+    "readTime": 37455,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 31
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjcwNzkz",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NzA3OTM",
+    "createdAt": "2024-07-08T08:38:40.383Z",
+    "articleState": "active",
+    "title": "七日書精彩落幕｜大滿貫名單、歡迎參加本週四線上聊天會",
+    "slug": "七日書精彩落幕-大滿貫名單-歡迎參加本週四線上聊天會",
+    "shortHash": "m9g60f0e1civ",
+    "summary": "恭喜本次獲得大滿貫的文友！本週四（7月11日）晚上 19:30 將有「七日書聊天分享會」，邀請所有文友線上相會，一起深入交流。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/693ab9de-b850-43fb-bf2b-b924df7896e4.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/693ab9de-b850-43fb-bf2b-b924df7896e4.png/public",
+    "readTime": 24997,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 35
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjY3MDc2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NjcwNzY",
+    "createdAt": "2024-07-05T03:43:22.948Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之二｜親密關係中的探索與自省",
+    "slug": "七日書精選推薦之二-親密關係中的探索與自省",
+    "shortHash": "g2yskw73qxxs",
+    "summary": "第三期七日書主題是「愛與親密關係」，總共有 130 位文友報名參與，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d24c17e8-6e38-44c8-899d-002fb29fe4a0.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d24c17e8-6e38-44c8-899d-002fb29fe4a0.png/public",
+    "readTime": 12682,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 21
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjY2MjM2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NjYyMzY",
+    "createdAt": "2024-07-04T09:50:55.827Z",
+    "articleState": "active",
+    "title": "七日書聊天分享會｜寫作是一場旅途：看見自己、看見他人",
+    "slug": "七日書聊天分享會-寫作是一場旅途-看見自己-看見他人",
+    "shortHash": "4qvsu9vbcx59",
+    "summary": "7 月 11 日週四 19:30（東八區）一起線上交流：寫七日書是否帶給你什麼意想不到的收穫？你想透過寫作達到什麼嗎？遇到困難如何往前走？",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/142cd61d-c4b7-4797-9d48-ac414ec6ee70.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/142cd61d-c4b7-4797-9d48-ac414ec6ee70.png/public",
+    "readTime": 13412,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 36
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjY0Mzgy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NjQzODI",
+    "createdAt": "2024-07-03T03:03:59.758Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之一｜親密關係中的你/我",
+    "slug": "七日書精選推薦之一-親密關係中的你-我",
+    "shortHash": "5qt28oe64k1r",
+    "summary": "第三期七日書主題是「愛與親密關係」，總共有 130 位文友報名參與，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9357a913-2673-4f34-8927-79bac8a583b9.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9357a913-2673-4f34-8927-79bac8a583b9.png/public",
+    "readTime": 22401,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 23
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjYxMjMx",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NjEyMzE",
+    "createdAt": "2024-06-30T16:07:25.812Z",
+    "articleState": "active",
+    "title": "第三期「七日書」正式開跑！一天發一篇日記，連續七日分享你的愛與親密關係",
+    "slug": "第三期-七日書-正式開跑-一天發一篇日記-連續七日分享你的愛與親密關係",
+    "shortHash": "gef5u4j7fobc",
+    "summary": "自由寫「七日書」#3 正式開跑！本次社區活動報名人數 129 人，反應熱烈，亦有連續三次都有報名的作者。很高興有機會跟大家一起持續寫作，互寫互讀、互相陪伴。這次參加的原因大多為喜歡這個主題、希望有更好的持續記錄方式、但願文字被看到、認為「七日書」社群有包容的空間等。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/548f9f6e-20fa-4c82-b898-52d90d5458ee.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/548f9f6e-20fa-4c82-b898-52d90d5458ee.png/public",
+    "readTime": 67060,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 27
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjU4Mjgz",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NTgyODM",
+    "createdAt": "2024-06-28T03:04:05.671Z",
+    "articleState": "active",
+    "title": "文字精華版：「故鄉」的愛恨情仇——馬尼尼為線上寫作 Free Write 工作坊",
+    "slug": "文字精華版-故鄉-的愛恨情仇-馬尼尼為線上寫作-free-write-工作坊",
+    "shortHash": "wgwtlo9iopmu",
+    "summary": "故鄉和異鄉這兩個題材永遠都寫不完，為什麼會寫不完，不知道大家會不會有這種感覺，故鄉的寫不完是因為你已經離開他了，你離開他後有非常多的想象。故鄉這個題目是每個人寫出來都會非常的溫柔。即便是我看到很多人會有很多的不滿出來，它都會非常的溫柔，在這個不滿之中一定有一種溫柔。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c9c9594f-6523-4d31-9a03-9951d1d0b4ff.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c9c9594f-6523-4d31-9a03-9951d1d0b4ff.jpeg/public",
+    "readTime": 17775,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 33
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjUyNTE2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2NTI1MTY",
+    "createdAt": "2024-06-23T16:11:34.186Z",
+    "articleState": "active",
+    "title": "七日書 #3 開放報名｜陪你完成人生日記：書寫「愛與親密關係」",
+    "slug": "七日書-3-開放報名-陪你完成人生日記-書寫-愛與親密關係",
+    "shortHash": "kbv6vz8uhxb8",
+    "summary": "自由寫「七日書」第三期開始報名，之前兩期的報名人數分別為 122 人及139人，反應熱烈，本次的主題為「愛與親密關係」，持續七天的書寫活動，即日起開放報名到 6 月 30 日，7 月 1 日起展開七天寫作。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9136c47b-19d6-4286-9959-265b3aac52c9.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/9136c47b-19d6-4286-9959-265b3aac52c9.png/public",
+    "readTime": 183679,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 79
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjM3ODI1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2Mzc4MjU",
+    "createdAt": "2024-06-12T08:56:18.386Z",
+    "articleState": "active",
+    "title": "七日書推薦之三｜大滿貫名單、歡迎報名作家馬尼尼為線上 Free Write 工作坊",
+    "slug": "七日書推薦之三-大滿貫名單-歡迎報名作家馬尼尼為線上-free-write-工作坊",
+    "shortHash": "twc4sraqkuu4",
+    "summary": "第二期七日書主題「家與故鄉」順利告一段落！本文除了推薦 day 6&7 精彩好文，並統計了本期大滿貫的文友名單。下週四 6 月 20 日作家馬尼尼為線上寫作工作坊，感興趣的人皆可報名聽講，還有 20 個限量名額可加入討論環節！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6b0e9460-af19-4734-9187-b695f14295c5.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/6b0e9460-af19-4734-9187-b695f14295c5.png/public",
+    "readTime": 47899,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 58
+    },
+    "donations": {
+      "totalCount": 4
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjMyNzk4",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2MzI3OTg",
+    "createdAt": "2024-06-08T03:39:05.752Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之二｜那天，你離開了家，是怎樣的感受？",
+    "slug": "七日書精選推薦之二-那天-你離開了家-是怎樣的感受",
+    "shortHash": "f2hcsvrkdejm",
+    "summary": "第二期七日書主題「家與故鄉」，總共有 139 位文友報名，每天在馬特市分享人生故事，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/a3a6b16b-b005-49f3-b068-bda88507b4d5.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/a3a6b16b-b005-49f3-b068-bda88507b4d5.png/public",
+    "readTime": 18509,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 24
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjI5MjU4",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2MjkyNTg",
+    "createdAt": "2024-06-05T05:12:30.589Z",
+    "articleState": "active",
+    "title": "七日書精選推薦之一｜她／他們這樣寫「家」",
+    "slug": "七日書精選推薦之一-她-他們這樣寫-家",
+    "shortHash": "r7k0a3nayktc",
+    "summary": "第二期七日書主題「家與故鄉」，總共有 139 位文友報名，每天在馬特市分享人生故事，我們精選了前兩天的好文，以及有趣溫馨的互動，分享給更多文友，也歡迎你透過文字閱讀人生。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/47570e52-fd8a-4c06-befe-6a2da274334a.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/47570e52-fd8a-4c06-befe-6a2da274334a.png/public",
+    "readTime": 27846,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 42
+    },
+    "donations": {
+      "totalCount": 3
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjI2MjYy",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2MjYyNjI",
+    "createdAt": "2024-06-02T16:19:45.435Z",
+    "articleState": "active",
+    "title": "第二期「七日書」正式開跑！一天發一篇日記，連續七日分享你的家與故鄉",
+    "slug": "第二期-七日書-正式開跑-一天發一篇日記-連續七日分享你的家與故鄉",
+    "shortHash": "xbdlzy120g73",
+    "summary": "馬特市自由寫「七日書」#2 正式開跑！本次社區活動報名人數 139 人，反應熱烈，很高興有機會跟大家一起持續寫作，互寫互讀、互相陪伴。這次有不少第一次參與的新朋友，眾人的個人簡介非常豐富、各有個性和故事，參加的原因大多為喜歡「家鄉」這個主題、激勵自己寫作、喜歡有人跟自己一起寫、想透過七天幫助自己沉澱人生等。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/321a102b-1e7c-4906-babf-b936a016f880.jpeg/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/321a102b-1e7c-4906-babf-b936a016f880.jpeg/public",
+    "readTime": 40056,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 16
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NjE5MzA0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo2MTkzMDQ",
+    "createdAt": "2024-05-26T16:03:35.232Z",
+    "articleState": "active",
+    "title": "七日書 #2 開放報名｜陪你完成人生日記：書寫家與故鄉",
+    "slug": "七日書-2-開放報名-陪你完成人生日記-書寫家與故鄉",
+    "shortHash": "u3qna0i5t2m5",
+    "summary": "第一期「七日書」反應熱烈，馬特市自由寫「七日書」第二期再度歸來！即日起開放報名到 6 月 2 日，6 月 3 日起展開七天寫作。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/464e3aac-2ca4-442b-b656-489e111a00b1.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/464e3aac-2ca4-442b-b656-489e111a00b1.png/public",
+    "readTime": 246044,
+    "wordCount": null,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 92
+    },
+    "donations": {
+      "totalCount": 10
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTc0NzY2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzQ3NjY",
+    "createdAt": "2024-04-15T07:58:12.300Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第七天（下）",
+    "slug": "自由寫-七日書-交換日記第七天-下",
+    "shortHash": "uhp16tktemv8",
+    "summary": "「七日書」來到最後一天，本篇「交換日記」日報將重點公告是次活動的統計數字及名單，以及預告本周五晚上的語音活動！歡迎完成七日書的文友來參加。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/f207647a-9139-4ff7-b731-ab4bb383c018.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/f207647a-9139-4ff7-b731-ab4bb383c018.png/public",
+    "readTime": 9803,
+    "wordCount": 2389,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 7
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTc0NzQ3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzQ3NDc",
+    "createdAt": "2024-04-15T07:45:30.954Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第七天（上）大滿貫名單、預告本周五晚語音交流",
+    "slug": "自由寫-七日書-交換日記第七天-上-大滿貫名單-預告本周五晚語音交流",
+    "shortHash": "28qwxwvjn1o8",
+    "summary": "七日書「交換日記」來到最後一天，公布七天的大滿貫人數、名單，以及預告本周五晚上的語音活動！歡迎完成七日書的文友報名參加。我們也鼓勵大家多寫一篇文章，分享你參與自由寫「七日書」的感想吧！",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cd1db37d-89c5-48ef-96f1-e1c625e351b5.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/cd1db37d-89c5-48ef-96f1-e1c625e351b5.png/public",
+    "readTime": 31686,
+    "wordCount": 2550,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 24
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTczNTU2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzM1NTY",
+    "createdAt": "2024-04-14T05:08:10.903Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第六天（下）",
+    "slug": "自由寫-七日書-交換日記第六天-下",
+    "shortHash": "7b192erygiop",
+    "summary": "「七日書」來到第六天，歡迎 122 名參與者參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c9b2e89b-c396-4c83-ae1f-feb1f0520a3c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c9b2e89b-c396-4c83-ae1f-feb1f0520a3c.png/public",
+    "readTime": 5901,
+    "wordCount": 2529,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 8
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTczNTQ0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzM1NDQ",
+    "createdAt": "2024-04-14T04:51:24.180Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第六天（上）",
+    "slug": "自由寫-七日書-交換日記第六天-上",
+    "shortHash": "jdywvd8zbzk1",
+    "summary": "「七日書」來到第六天，歡迎 122 名參與者參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/bc398301-3d9a-41f3-975a-612b23a94ea3.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/bc398301-3d9a-41f3-975a-612b23a94ea3.png/public",
+    "readTime": 3349,
+    "wordCount": 2093,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 7
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTcyNjM1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzI2MzU",
+    "createdAt": "2024-04-13T05:06:12.950Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第五天（下）",
+    "slug": "自由寫-七日書-交換日記第五天-下",
+    "shortHash": "2eftvwpa6pkv",
+    "summary": "「七日書」來到第五天，歡迎 122 名參與者參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/08af04ba-e8c3-4091-bac9-6d1049586089.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/08af04ba-e8c3-4091-bac9-6d1049586089.png/public",
+    "readTime": 3686,
+    "wordCount": 2069,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 7
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTcyNjMw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzI2MzA",
+    "createdAt": "2024-04-13T04:53:02.403Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第五天（上）",
+    "slug": "自由寫-七日書-交換日記第五天-上",
+    "shortHash": "p6yr2ibbtqvg",
+    "summary": "「七日書」來到第五天，歡迎 122 名參與者參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/27cf275b-11e5-4ddc-98ad-35f2b41ad41a.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/27cf275b-11e5-4ddc-98ad-35f2b41ad41a.png/public",
+    "readTime": 2295,
+    "wordCount": 1899,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 5
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTcxMzY2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzEzNjY",
+    "createdAt": "2024-04-12T04:38:29.591Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第四天（下）",
+    "slug": "自由寫-七日書-交換日記第四天-下",
+    "shortHash": "y8v5vbzcl6ry",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。有去看自己的圖章嗎～",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/42425dd8-314d-47c4-b38a-9bdeb9956624.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/42425dd8-314d-47c4-b38a-9bdeb9956624.png/public",
+    "readTime": 5728,
+    "wordCount": 2134,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 5
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTcxMzUw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzEzNTA",
+    "createdAt": "2024-04-12T04:25:21.414Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第四天（上）",
+    "slug": "自由寫-七日書-交換日記第四天-上",
+    "shortHash": "b56p0k0ex2tw",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，更有小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。有去看自己的圖章嗎～",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1720c625-871d-41ad-85a4-5b690c50beb9.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1720c625-871d-41ad-85a4-5b690c50beb9.png/public",
+    "readTime": 3842,
+    "wordCount": 2066,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 6
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTcwMDIw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NzAwMjA",
+    "createdAt": "2024-04-11T04:57:14.165Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第三天（下）",
+    "slug": "自由寫-七日書-交換日記第三天-下",
+    "shortHash": "egfj1grkyhuz",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出：列出文章、作者簡介、選集連接、小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": null,
+    "cover": null,
+    "readTime": 4081,
+    "wordCount": 1752,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 8
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY5OTc0",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1Njk5NzQ",
+    "createdAt": "2024-04-11T04:05:54.885Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第三天（上）",
+    "slug": "自由寫-七日書-交換日記第三天-上",
+    "shortHash": "f40yubq2i3t1",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出：列出文章、作者簡介、選集連接、小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c41a5b31-1540-4288-8111-485bcfe4e8f7.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/c41a5b31-1540-4288-8111-485bcfe4e8f7.png/public",
+    "readTime": 5388,
+    "wordCount": 2211,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 11
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY4Nzgw",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1Njg3ODA",
+    "createdAt": "2024-04-10T04:23:25.979Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第二天（下）",
+    "slug": "自由寫-七日書-交換日記第二天-下",
+    "shortHash": "pkj6vz8r64tr",
+    "summary": "新加選集連結、更多精選留言！「七日書」的 122 名參與者，歡迎參加社區活動、來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/86a5b906-7c7e-4770-ab89-cfe31f36c1d1.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/86a5b906-7c7e-4770-ab89-cfe31f36c1d1.png/public",
+    "readTime": 6017,
+    "wordCount": 2180,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 14
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY4NzY3",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1Njg3Njc",
+    "createdAt": "2024-04-10T04:08:13.202Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第二天（上）",
+    "slug": "自由寫-七日書-交換日記第二天-上",
+    "shortHash": "nlqahe0wespn",
+    "summary": "新加選集連結、更多精選留言！「七日書」的 122 名參與者，歡迎參加社區活動、來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1c1973e8-a143-4c88-8389-44558226b300.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/1c1973e8-a143-4c88-8389-44558226b300.png/public",
+    "readTime": 8299,
+    "wordCount": 2084,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 12
+    },
+    "donations": {
+      "totalCount": 0
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY3Njg2",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1Njc2ODY",
+    "createdAt": "2024-04-09T04:59:49.510Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第一天（下）",
+    "slug": "自由寫-七日書-交換日記第一天-下",
+    "shortHash": "wnmb359exhbl",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出：列出文章、作者簡介、選集連接、小編精選留言等，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e94431fd-042f-4663-a98b-c01d710ed89c.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e94431fd-042f-4663-a98b-c01d710ed89c.png/public",
+    "readTime": 12586,
+    "wordCount": 4339,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 21
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY3Njcx",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1Njc2NzE",
+    "createdAt": "2024-04-09T04:38:45.467Z",
+    "articleState": "active",
+    "title": "自由寫「七日書」｜交換日記第一天（上）",
+    "slug": "自由寫-七日書-交換日記第一天-上",
+    "shortHash": "g9h2edgk5h4l",
+    "summary": "「七日書」的 122 名參與者，歡迎參加這次社區活動，以及來到「交換日記系列」！此系列整理所有作者寫的七日書，並將持續七天發出：列出文章、作者簡介、選集連接、小編精選留言，輯錄成連續七天的成果，連載大家的每日之書，好好記著故事裡的互動、文友間的鼓勵。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d558eb6b-06ca-43e3-b1a9-ab87afa6b9ad.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/d558eb6b-06ca-43e3-b1a9-ab87afa6b9ad.png/public",
+    "readTime": 16596,
+    "wordCount": 4720,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 26
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTY2MzU1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NjYzNTU",
+    "createdAt": "2024-04-07T16:26:04.324Z",
+    "articleState": "active",
+    "title": "馬特市自由寫「七日書」正式開跑！一天發一篇日記，連續七日正式開始",
+    "slug": "馬特市自由寫-七日書-正式開跑-一天發一篇日記-連續七日正式開始",
+    "shortHash": "ykwxlmvhyo0b",
+    "summary": "馬特市自由寫「七日書」正式開跑！是次社區活動報名人數 114 人，反應熱烈，很高興有機會跟大家一起持續寫作，互寫互讀、互相陪伴。這次有來自不同地方的創作者報名，眾人的個人簡介非常豐富、各有個性和故事，參加的原因大多為激勵自己寫作、喜歡有人跟自己一起寫、想透過七天幫助自己沉澱人生等。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/fde32c1c-bce4-4319-9b7f-7cc26a15dc88.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/fde32c1c-bce4-4319-9b7f-7cc26a15dc88.png/public",
+    "readTime": 118740,
+    "wordCount": 1626,
+    "tags": [
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      },
+      {
+        "content": "馬特市自由寫"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 38
+    },
+    "donations": {
+      "totalCount": 1
+    }
+  },
+  {
+    "cursor": "YXJyYXljb25uZWN0aW9uOkFydGljbGU6NTYxMzg1",
+    "__typename": "Article",
+    "id": "QXJ0aWNsZTo1NjEzODU",
+    "createdAt": "2024-04-01T06:29:47.854Z",
+    "articleState": "active",
+    "title": "開放報名｜馬特市自由寫「七日書」：陪你完成人生日記",
+    "slug": "開放報名-馬特市自由寫-七日書-陪你完成人生日記",
+    "shortHash": "e6tu274xo8q1",
+    "summary": "馬特市自由寫「七日書」，持續七天的書寫活動，接受報名中。",
+    "displayCover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/545d0541-ef8a-4f0d-a115-1f246a402faa.png/public",
+    "cover": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/545d0541-ef8a-4f0d-a115-1f246a402faa.png/public",
+    "readTime": 227839,
+    "wordCount": 2590,
+    "tags": [
+      {
+        "content": "馬特市自由寫"
+      },
+      {
+        "content": "自由寫"
+      },
+      {
+        "content": "七日書"
+      }
+    ],
+    "campaigns": [],
+    "appreciationsReceived": {
+      "totalCount": 111
+    },
+    "donations": {
+      "totalCount": 2
+    }
+  }
+]

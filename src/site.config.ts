@@ -1,0 +1,10 @@
+export const SITE_TITLE = "豆泥關心的難題";
+export const SITE_SHORT = "難題";
+export const SITE_SUBTITLE = "由豆泥提問";
+export const SITE_TAGLINE = "許多問題還沒有正解，但是要有人開始問。";
+export const SITE_DESCRIPTION = "許多問題還沒有正解，但是要有人開始問。";
+export const SITE_LANG = "zh-TW";
+export const SITE_TIMEZONE = "Asia/Taipei";
+export const MAIN_SITE_URL = "https://mashbean.net";
+export const DEFAULT_AUTHOR = "AI Research Pipeline";
+export const DEFAULT_OG_IMAGE = "og/home.png";

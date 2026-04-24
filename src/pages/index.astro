@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import MattersWordmark from "../components/MattersWordmark.astro";
+import GrandBadge from "../components/GrandBadge.astro";
 import { sevenDayBookLanding as page } from "../data/seven-day-book";
 
 const nav = [
@@ -41,12 +42,8 @@ const avatars = page.avatarWall;
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero__backdrop" aria-hidden="true">
         <img class="hero__cover hero__cover--main" src={page.hero.heroCover} alt="" loading="eager" />
-        <div class="hero__tile-grid">
-          {page.hero.backdropCovers.map((src, i) => (
-            <img class={`hero__tile hero__tile--${i}`} src={src} alt="" loading="lazy" />
-          ))}
-        </div>
         <div class="hero__vignette"></div>
+        <div class="hero__noise"></div>
       </div>
 
       <div class="hero__inner">
@@ -133,14 +130,31 @@ const avatars = page.avatarWall;
         <p class="section__body">{page.cadence.body}</p>
       </header>
       <ol class="days">
-        {page.cadence.days.map((d) => (
-          <li class="day" style={`--i: ${d.n}`}>
-            <span class="day__num">{d.n}</span>
-            <span class="day__kw">{d.kw}</span>
-            <span class="day__prompt">{d.prompt}</span>
-          </li>
-        ))}
+        {page.cadence.days.map((d) => {
+          const state = d.n < 4 ? "open" : d.n < 6 ? "dim" : "locked";
+          return (
+            <li class={`day day--${state}`} style={`--i: ${d.n}`}>
+              <span class="day__seal" aria-hidden="true">
+                {state === "locked" ? (
+                  <svg viewBox="0 0 20 20" width="14" height="14" fill="currentColor" aria-hidden="true">
+                    <path d="M10 2a4 4 0 00-4 4v2H5a1 1 0 00-1 1v8a1 1 0 001 1h10a1 1 0 001-1V9a1 1 0 00-1-1h-1V6a4 4 0 00-4-4zm-2 6V6a2 2 0 114 0v2H8z"/>
+                  </svg>
+                ) : (
+                  <span class="day__n">{d.n}</span>
+                )}
+              </span>
+              <span class="day__kw">{state === "locked" ? "？？？" : d.kw}</span>
+              <span class="day__prompt">
+                {state === "locked" ? "第七天才揭曉的題目。" : d.prompt}
+              </span>
+              <span class="day__ribbon" aria-hidden="true">DAY {String(d.n).padStart(2, "0")}</span>
+            </li>
+          );
+        })}
       </ol>
+      <p class="days__note">
+        第 4–5 天題目會在每期第 3 天上午解鎖；第 6–7 天則會在前一天上午送到信箱——讓期待感與書寫同步。
+      </p>
     </section>
 
     <!-- ========================================================= -->
@@ -148,39 +162,49 @@ const avatars = page.avatarWall;
     <!-- ========================================================= -->
     <section id="events" class="section events" aria-labelledby="events-title" data-reveal>
       <header class="section__head">
-        <p class="kicker">Seasons</p>
+        <p class="kicker">Seasons · 時間軸</p>
         <h2 id="events-title">八期題目，一座書寫小鎮。</h2>
         <p class="section__body">
-          從 2025 秋到 2026 夏——每一期主題像是一條街，作者是路過的居民。滑看近八期，點進去是那一季的文字聚會。
+          從 2025 秋到 2026 夏——每一期主題像一條新開的街道。這是近八期的時間線，點進去是那一季文友留下的文字。
         </p>
       </header>
 
-      <div class="marquee" data-marquee>
-        <div class="marquee__track">
-          {[...page.events, ...page.events].map((e, i) => (
-            <a class={`evcard evcard--${e.phase === "進行中" ? "live" : e.phase === "即將開始" ? "soon" : "done"}`}
-               href={e.href} target="_blank" rel="noopener" aria-hidden={i >= page.events.length}>
-              <div class="evcard__media">
-                <img src={e.cover} alt={`${e.name} 主視覺`} loading="lazy" />
-                <span class={`evcard__phase evcard__phase--${e.phase === "進行中" ? "live" : e.phase === "即將開始" ? "soon" : "done"}`}>
-                  {e.phase}
-                </span>
+      <ol class="timeline" aria-label="近八期七日書時間軸">
+        {page.events.map((e, i) => {
+          const phaseKey = e.phase === "進行中" ? "live" : e.phase === "即將開始" ? "soon" : "done";
+          return (
+            <li class={`tl-node tl-node--${phaseKey} tl-node--${i % 2 === 0 ? "left" : "right"}`} style={`--i: ${i}`}>
+              <div class="tl-axis" aria-hidden="true">
+                <span class="tl-dot"></span>
+                <span class="tl-season">{e.season}</span>
               </div>
-              <div class="evcard__body">
-                <span class="evcard__season">{e.season}</span>
-                <h3 class="evcard__name">七日書｜{e.name}</h3>
-                <p class="evcard__desc">{e.description}</p>
-                <div class="evcard__meta">
-                  <span>{e.writingWindow}</span>
-                  {e.participants && (
-                    <span class="evcard__chip">{e.participants} 位完成</span>
-                  )}
+              <a class="tl-card" href={e.href} target="_blank" rel="noopener">
+                <div class="tl-card__media">
+                  <img src={`${e.cover}${e.cover.includes("?") ? "&" : ""}`} alt={`${e.name} 主視覺`} loading="lazy" />
+                  <span class={`tl-phase tl-phase--${phaseKey}`}>{e.phase}</span>
                 </div>
-              </div>
-            </a>
-          ))}
-        </div>
-      </div>
+                <div class="tl-card__body">
+                  <h3>七日書｜{e.name}</h3>
+                  <p>{e.description}</p>
+                  <div class="tl-card__meta">
+                    <span class="tl-card__window">{e.writingWindow}</span>
+                    {e.participants && (
+                      <span class="tl-card__chip">
+                        <strong>{e.participants}</strong> 位完成 · {e.newcomers} 位新作者
+                      </span>
+                    )}
+                  </div>
+                </div>
+              </a>
+            </li>
+          );
+        })}
+      </ol>
+
+      <p class="timeline__foot">
+        七日書每月一期，常態節奏可追溯到 2024 春。完整歷年可見
+        <a href="https://matters.town/events?type=ended" target="_blank" rel="noopener">Matters events 列表 →</a>
+      </p>
     </section>
 
     <!-- ========================================================= -->
@@ -214,6 +238,24 @@ const avatars = page.avatarWall;
     </section>
 
     <!-- ========================================================= -->
+    <!-- GALLERY — 視覺記憶                                          -->
+    <!-- ========================================================= -->
+    <section class="section gallery" aria-labelledby="gallery-title" data-reveal>
+      <header class="section__head">
+        <p class="kicker">{page.gallery.kicker}</p>
+        <h2 id="gallery-title">{page.gallery.headline}</h2>
+        <p class="section__body">{page.gallery.body}</p>
+      </header>
+      <div class="gal-grid">
+        {page.gallery.images.map((img, i) => (
+          <figure class="gal-cell" style={`--i: ${i}`}>
+            <img src={img.src} alt={img.alt} loading="lazy" />
+          </figure>
+        ))}
+      </div>
+    </section>
+
+    <!-- ========================================================= -->
     <!-- PASSPORT — 大滿貫憑證                                      -->
     <!-- ========================================================= -->
     <section id="passport" class="section passport" aria-labelledby="passport-title" data-reveal>
@@ -225,8 +267,15 @@ const avatars = page.avatarWall;
           {page.passport.link.label} →
         </a>
       </div>
-      <div class="passport__art">
-        <img src={page.passport.image} alt={page.passport.imageAlt} loading="lazy" />
+      <div class="passport__art passport__art--svg">
+        <div class="passport__badge-wrap">
+          <GrandBadge size={220} />
+          <div class="passport__rays" aria-hidden="true"></div>
+        </div>
+        <p class="passport__caption">
+          <strong>Grand Slam · 大滿貫</strong><br />
+          完成 7/7，鑄造屬於你的 Writing Passport。
+        </p>
       </div>
     </section>
 
@@ -461,40 +510,29 @@ const avatars = page.avatarWall;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    filter: brightness(0.55) saturate(1.15);
-    transform: scale(1.05);
-    animation: slow-drift 22s ease-in-out infinite alternate;
+    object-position: center 30%;
+    transform: scale(1.04);
+    animation: slow-drift 28s ease-in-out infinite alternate;
   }
   @keyframes slow-drift {
-    from { transform: scale(1.05) translate(0, 0); }
-    to { transform: scale(1.1) translate(-1%, -1%); }
+    from { transform: scale(1.04) translate(0, 0); }
+    to { transform: scale(1.08) translate(-1.5%, -1%); }
   }
-  .hero__tile-grid {
-    position: absolute;
-    inset: 0;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    gap: 0;
-    opacity: 0.35;
-    mix-blend-mode: screen;
-    pointer-events: none;
-  }
-  .hero__tile {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: grayscale(0.25) contrast(1.05);
-  }
-  .hero__tile--0 { grid-column: 1 / 3; grid-row: 1 / 2; }
-  .hero__tile--1 { grid-column: 3 / 5; grid-row: 2 / 3; }
-  .hero__tile--2 { grid-column: 1 / 2; grid-row: 3 / 4; }
-  .hero__tile--3 { grid-column: 3 / 4; grid-row: 3 / 4; }
   .hero__vignette {
     position: absolute;
     inset: 0;
     background:
-      linear-gradient(180deg, rgba(4, 88, 152, 0.35) 0%, rgba(2, 30, 55, 0.55) 60%, rgba(2, 30, 55, 0.8) 100%);
+      linear-gradient(180deg, rgba(4, 88, 152, 0.28) 0%, rgba(2, 30, 55, 0.62) 55%, rgba(2, 30, 55, 0.92) 100%),
+      radial-gradient(ellipse at 30% 40%, transparent 0%, rgba(2, 30, 55, 0.25) 70%);
+  }
+  .hero__noise {
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(rgba(255,255,255,0.04) 1px, transparent 1px);
+    background-size: 3px 3px;
+    mix-blend-mode: overlay;
+    opacity: 0.5;
+    pointer-events: none;
   }
   .hero__inner {
     position: relative;
@@ -808,181 +846,348 @@ const avatars = page.avatarWall;
   .days {
     display: grid;
     grid-template-columns: repeat(7, minmax(0, 1fr));
-    gap: 10px;
+    gap: 12px;
     padding: 0;
     margin: 0;
     list-style: none;
+    position: relative;
+  }
+  .days::before {
+    content: "";
+    position: absolute;
+    top: 48px;
+    left: 40px;
+    right: 40px;
+    height: 2px;
+    background: repeating-linear-gradient(90deg, var(--freewrite-label) 0 6px, transparent 6px 12px);
+    z-index: 0;
+    pointer-events: none;
   }
   .day {
+    position: relative;
     display: flex;
     flex-direction: column;
-    gap: 8px;
-    padding: 18px 14px;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 12px 22px;
     border: 1px solid var(--line);
     border-radius: 14px;
     background: #fff;
     text-align: center;
-    transition: transform 220ms, border-color 220ms, background 220ms;
-    animation: day-rise 500ms ease-out both;
-    animation-delay: calc(var(--i) * 60ms);
+    z-index: 1;
+    transition: transform 260ms cubic-bezier(0.34, 1.56, 0.64, 1), border-color 220ms, background 300ms, box-shadow 260ms;
+    animation: day-rise 600ms ease-out both;
+    animation-delay: calc(var(--i) * 90ms);
+    overflow: hidden;
   }
   .day:hover {
-    transform: translateY(-4px);
+    transform: translateY(-6px);
     border-color: var(--freewrite-text-dark);
-    background: var(--warm);
+    box-shadow: 0 14px 30px rgba(4, 88, 152, 0.14);
   }
-  .day__num {
+  .day__seal {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: var(--freewrite-bg);
+    border: 2px solid var(--freewrite-label);
+    color: var(--freewrite-text-dark);
     font-family: var(--font-reading);
-    font-size: 1.8rem;
     font-weight: 700;
-    color: var(--freewrite-text);
+    font-size: 1.35rem;
     line-height: 1;
   }
+  .day__n { display: inline-block; }
   .day__kw {
-    font-size: 14px;
+    font-family: var(--font-reading);
+    font-size: 1rem;
     font-weight: 700;
-    color: var(--freewrite-text-dark);
+    color: var(--ink);
+    letter-spacing: 0.02em;
   }
   .day__prompt {
     font-size: 12px;
-    line-height: 1.55;
+    line-height: 1.6;
     color: var(--ink-muted);
     text-wrap: pretty;
+    max-width: 14ch;
   }
-  @keyframes day-rise {
-    from { opacity: 0; transform: translateY(14px); }
-    to { opacity: 1; transform: translateY(0); }
+  .day__ribbon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 2px 8px;
+    background: var(--warm);
+    color: var(--freewrite-text-dark);
+    font-family: var(--font-mono);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    border-bottom-left-radius: 10px;
+    opacity: 0.85;
   }
 
-  /* ─── Events marquee ──────────────────────────────────────── */
-  .events {
-    max-width: none;
-    padding-left: 0;
-    padding-right: 0;
+  /* Day states: open > dim > locked */
+  .day--open {
+    background: linear-gradient(180deg, #fff 0%, var(--freewrite-bg) 100%);
   }
-  .events .section__head {
-    padding: 0 clamp(20px, 4vw, 48px);
+  .day--open .day__seal {
+    background: var(--freewrite-text-dark);
+    color: #fff;
+    border-color: var(--freewrite-text-dark);
+    box-shadow: 0 4px 10px rgba(4, 88, 152, 0.24);
   }
-  .marquee {
-    overflow: hidden;
-    mask-image: linear-gradient(90deg, transparent 0, #000 80px, #000 calc(100% - 80px), transparent 100%);
+  .day--dim {
+    opacity: 0.82;
   }
-  .marquee__track {
-    display: flex;
-    gap: 20px;
-    width: max-content;
-    padding: 16px 40px;
-    animation: marquee 60s linear infinite;
+  .day--dim .day__seal {
+    background: #fff;
+    color: var(--freewrite-text);
+    border-color: var(--freewrite-label);
+    border-style: dashed;
   }
-  .marquee.is-paused .marquee__track {
-    animation-play-state: paused;
+  .day--dim .day__kw,
+  .day--dim .day__prompt {
+    filter: blur(0.3px);
   }
-  @keyframes marquee {
-    from { transform: translateX(0); }
-    to { transform: translateX(-50%); }
+  .day--dim:hover {
+    opacity: 1;
   }
-  .evcard {
-    flex: 0 0 320px;
+  .day--dim:hover .day__kw,
+  .day--dim:hover .day__prompt {
+    filter: none;
+  }
+  .day--locked {
+    background: repeating-linear-gradient(135deg, #f6fafd 0 6px, #ecf4fa 6px 12px);
+  }
+  .day--locked .day__seal {
+    background: #fff;
+    color: var(--ink-muted);
+    border: 2px dashed var(--line-strong);
+  }
+  .day--locked .day__kw {
+    color: var(--ink-muted);
+    letter-spacing: 0.1em;
+  }
+  .day--locked .day__prompt {
+    color: var(--ink-muted);
+    font-style: italic;
+    opacity: 0.7;
+  }
+  .day--locked::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent 60%, rgba(131, 186, 209, 0.08) 100%);
+    pointer-events: none;
+  }
+  .day--locked:hover .day__seal {
+    border-style: solid;
+    border-color: var(--freewrite-text-dark);
+    color: var(--freewrite-text-dark);
+  }
+
+  .days__note {
+    margin: 24px auto 0;
+    text-align: center;
+    max-width: 560px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: var(--ink-muted);
+  }
+
+  @keyframes day-rise {
+    from { opacity: 0; transform: translateY(18px) rotate(-1deg); }
+    to { opacity: 1; transform: translateY(0) rotate(0); }
+  }
+
+  /* ─── Events timeline (zigzag) ───────────────────────────── */
+  .timeline {
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 20px 0 20px;
+  }
+  .timeline::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    background: repeating-linear-gradient(180deg, var(--freewrite-label) 0 6px, transparent 6px 14px);
+    transform: translateX(-50%);
+  }
+  .tl-node {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 140px 1fr;
+    align-items: center;
+    gap: 0;
+    padding: 28px 0;
+  }
+  .tl-axis {
+    grid-column: 2;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    z-index: 2;
+  }
+  .tl-dot {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid var(--freewrite-text-dark);
+    box-shadow: 0 0 0 4px var(--freewrite-bg);
+  }
+  .tl-node--live .tl-dot {
+    background: #c3f432;
+    border-color: var(--freewrite-text-dark);
+    animation: tl-pulse 2s ease-in-out infinite;
+  }
+  .tl-node--soon .tl-dot {
+    background: var(--freewrite-text-dark);
+    border-color: var(--freewrite-text-dark);
+  }
+  .tl-node--done .tl-dot {
+    background: var(--freewrite-label);
+    border-color: var(--freewrite-label);
+  }
+  @keyframes tl-pulse {
+    0%, 100% { box-shadow: 0 0 0 4px var(--freewrite-bg), 0 0 0 8px rgba(195,244,50,0.5); }
+    50% { box-shadow: 0 0 0 4px var(--freewrite-bg), 0 0 0 16px rgba(195,244,50,0); }
+  }
+  .tl-season {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: #fff;
+    border: 1px solid var(--line);
+  }
+  .tl-card {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 18px;
+    padding: 18px;
     border: 1px solid var(--line);
     border-radius: 16px;
     background: #fff;
-    overflow: hidden;
     text-decoration: none;
     color: inherit;
-    transition: transform 220ms, box-shadow 220ms, border-color 220ms;
+    transition: transform 240ms, box-shadow 240ms, border-color 240ms;
   }
-  .evcard:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 18px 36px rgba(4, 88, 152, 0.16);
+  .tl-card:hover {
+    transform: translateY(-4px);
     border-color: var(--freewrite-text-dark);
+    box-shadow: 0 18px 36px rgba(4, 88, 152, 0.14);
   }
-  .evcard__media {
+  .tl-node--left .tl-card {
+    grid-column: 1;
+    grid-template-columns: 1fr 140px;
+  }
+  .tl-node--left .tl-card__media {
+    order: 2;
+  }
+  .tl-node--right .tl-card {
+    grid-column: 3;
+  }
+  .tl-card__media {
     position: relative;
-    aspect-ratio: 16 / 10;
-    background: var(--warm);
+    aspect-ratio: 1 / 1;
+    border-radius: 10px;
     overflow: hidden;
+    background: var(--warm);
   }
-  .evcard__media img {
+  .tl-card__media img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 600ms ease;
+    transition: transform 500ms ease;
   }
-  .evcard:hover .evcard__media img {
-    transform: scale(1.06);
+  .tl-card:hover .tl-card__media img {
+    transform: scale(1.07);
   }
-  .evcard__phase {
+  .tl-phase {
     position: absolute;
-    top: 12px;
-    left: 12px;
-    padding: 4px 10px;
+    top: 8px;
+    left: 8px;
+    padding: 3px 8px;
     border-radius: 999px;
     font-family: var(--font-mono);
-    font-size: 11px;
-    letter-spacing: 0.06em;
-    background: rgba(255, 255, 255, 0.95);
+    font-size: 10px;
+    letter-spacing: 0.05em;
+    background: rgba(255,255,255,0.92);
     color: var(--ink);
     backdrop-filter: blur(4px);
   }
-  .evcard__phase--live {
+  .tl-phase--live {
     background: #c3f432;
     color: #0b1d33;
     font-weight: 700;
   }
-  .evcard__phase--soon {
+  .tl-phase--soon {
     background: var(--freewrite-text-dark);
     color: #fff;
     font-weight: 700;
   }
-  .evcard__body {
-    padding: 18px 20px 22px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    flex: 1;
-  }
-  .evcard__season {
-    font-family: var(--font-mono);
-    font-size: 11px;
-    letter-spacing: 0.06em;
-    color: var(--ink-muted);
-  }
-  .evcard__name {
-    margin: 0;
+  .tl-card__body h3 {
+    margin: 4px 0 8px;
     font-family: var(--font-reading);
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     line-height: 1.4;
     color: var(--ink);
   }
-  .evcard__desc {
-    margin: 0;
-    font-size: 14px;
+  .tl-card__body p {
+    margin: 0 0 12px;
+    font-size: 13.5px;
     line-height: 1.65;
     color: var(--ink-muted);
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
   }
-  .evcard__meta {
+  .tl-card__meta {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
     margin-top: auto;
-    padding-top: 10px;
     font-family: var(--font-mono);
     font-size: 11px;
     color: var(--ink-muted);
   }
-  .evcard__chip {
-    padding: 3px 8px;
+  .tl-card__window::before {
+    content: "🗓  ";
+    margin-right: 2px;
+  }
+  .tl-card__chip {
+    padding: 3px 10px;
     border-radius: 999px;
     background: var(--warm);
     color: var(--freewrite-text-dark);
+  }
+  .tl-card__chip strong {
     font-weight: 700;
+  }
+  .timeline__foot {
+    margin: 32px auto 0;
+    text-align: center;
+    font-size: 13px;
+    color: var(--ink-muted);
+    font-family: var(--font-mono);
+  }
+  .timeline__foot a {
+    color: var(--freewrite-text-dark);
+    text-decoration: none;
+    font-weight: 700;
+  }
+  .timeline__foot a:hover {
+    text-decoration: underline;
   }
 
   /* ─── Voices grid ─────────────────────────────────────────── */
@@ -1083,12 +1288,56 @@ const avatars = page.avatarWall;
     transform: translateX(4px);
   }
 
-  /* ─── Passport ────────────────────────────────────────────── */
+  /* ─── Gallery ─────────────────────────────────────────────── */
+  .gal-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 110px;
+    gap: 8px;
+  }
+  .gal-cell {
+    margin: 0;
+    overflow: hidden;
+    border-radius: 10px;
+    background: var(--warm);
+    transition: transform 240ms cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 240ms;
+    animation: gal-fade 600ms ease-out both;
+    animation-delay: calc(var(--i) * 60ms);
+  }
+  .gal-cell:hover {
+    transform: scale(1.04);
+    box-shadow: 0 12px 30px rgba(4, 88, 152, 0.18);
+    z-index: 2;
+  }
+  /* irregular mosaic — alternate spans for visual rhythm */
+  .gal-cell:nth-child(1) { grid-column: span 2; grid-row: span 2; }
+  .gal-cell:nth-child(4) { grid-column: span 2; }
+  .gal-cell:nth-child(7) { grid-row: span 2; }
+  .gal-cell:nth-child(10) { grid-column: span 2; grid-row: span 2; }
+  .gal-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 700ms ease;
+  }
+  .gal-cell:hover img {
+    transform: scale(1.1);
+  }
+  @keyframes gal-fade {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ─── Passport — grand badge SVG ──────────────────────────── */
   .passport {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
     gap: clamp(32px, 5vw, 64px);
     align-items: center;
+  }
+  .passport__copy {
+    text-align: left;
   }
   .passport__copy h2 {
     text-align: left;
@@ -1100,30 +1349,77 @@ const avatars = page.avatarWall;
   .passport__copy .section__body {
     text-align: left;
   }
-  .passport__copy {
-    text-align: left;
-  }
   .passport__copy .btn {
     margin-top: 20px;
   }
-  .passport__art {
-    aspect-ratio: 3 / 4;
-    border-radius: 18px;
-    overflow: hidden;
-    background: var(--warm);
-    box-shadow: 0 24px 60px rgba(4, 88, 152, 0.18);
-    border: 1px solid var(--line);
-    transform: rotate(-1deg);
-    transition: transform 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  .passport__art--svg {
+    display: grid;
+    place-items: center;
+    gap: 24px;
+    text-align: center;
   }
-  .passport:hover .passport__art {
-    transform: rotate(0deg) scale(1.02);
+  .passport__badge-wrap {
+    position: relative;
+    display: grid;
+    place-items: center;
+    padding: 40px;
+    border-radius: 50%;
+    background:
+      radial-gradient(circle, rgba(255, 198, 136, 0.25) 0%, transparent 70%),
+      radial-gradient(circle at 30% 30%, rgba(4, 88, 152, 0.08) 0%, transparent 60%);
+    filter: drop-shadow(0 24px 60px rgba(4, 88, 152, 0.18));
+    animation: badge-float 5s ease-in-out infinite;
   }
-  .passport__art img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: top center;
+  .passport__rays {
+    position: absolute;
+    inset: -40px;
+    background:
+      conic-gradient(from 0deg,
+        rgba(255, 198, 136, 0.22) 0deg 15deg,
+        transparent 15deg 60deg,
+        rgba(255, 198, 136, 0.14) 60deg 75deg,
+        transparent 75deg 120deg,
+        rgba(255, 198, 136, 0.22) 120deg 135deg,
+        transparent 135deg 180deg,
+        rgba(255, 198, 136, 0.14) 180deg 195deg,
+        transparent 195deg 240deg,
+        rgba(255, 198, 136, 0.22) 240deg 255deg,
+        transparent 255deg 300deg,
+        rgba(255, 198, 136, 0.14) 300deg 315deg,
+        transparent 315deg 360deg);
+    border-radius: 50%;
+    animation: badge-rays 22s linear infinite;
+    z-index: -1;
+    filter: blur(12px);
+  }
+  @keyframes badge-float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes badge-rays {
+    from { transform: rotate(0); }
+    to { transform: rotate(360deg); }
+  }
+  :global(.grand-badge-svg) {
+    display: block;
+    filter: drop-shadow(0 8px 16px rgba(204, 75, 50, 0.3));
+  }
+  .passport__caption {
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 15px;
+    line-height: 1.8;
+    color: var(--ink);
+  }
+  .passport__caption strong {
+    display: inline-block;
+    margin-bottom: 4px;
+    padding: 4px 14px;
+    background: linear-gradient(135deg, #FFC688, #E89F4F);
+    color: #33291F;
+    border-radius: 999px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
   }
 
   /* ─── Partners ────────────────────────────────────────────── */
@@ -1300,13 +1596,9 @@ const avatars = page.avatarWall;
     .days {
       grid-template-columns: repeat(4, minmax(0, 1fr));
     }
+    .days::before { display: none; }
     .passport {
       grid-template-columns: 1fr;
-    }
-    .passport__art {
-      transform: rotate(0);
-      max-width: 420px;
-      margin: 0 auto;
     }
     .case {
       grid-template-columns: 1fr;
@@ -1314,13 +1606,38 @@ const avatars = page.avatarWall;
     .packages {
       grid-template-columns: 1fr;
     }
+    .gal-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    /* Timeline becomes single column on mobile */
+    .timeline::before {
+      left: 20px;
+    }
+    .tl-node {
+      grid-template-columns: 40px 1fr;
+      padding: 20px 0;
+    }
+    .tl-axis {
+      grid-column: 1;
+      flex-direction: column;
+    }
+    .tl-season {
+      writing-mode: horizontal-tb;
+      transform: none;
+      font-size: 10px;
+    }
+    .tl-node--left .tl-card,
+    .tl-node--right .tl-card {
+      grid-column: 2;
+      grid-template-columns: 110px 1fr;
+    }
+    .tl-node--left .tl-card__media {
+      order: 0;
+    }
   }
   @media (max-width: 640px) {
     .days {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-    .evcard {
-      flex: 0 0 280px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
     .hero {
       min-height: auto;
@@ -1332,6 +1649,16 @@ const avatars = page.avatarWall;
     .avatar-wall a {
       width: 40px;
       height: 40px;
+    }
+    .gal-grid {
+      grid-template-columns: repeat(3, 1fr);
+      grid-auto-rows: 90px;
+    }
+    .tl-card {
+      grid-template-columns: 1fr !important;
+    }
+    .tl-card__media {
+      aspect-ratio: 16 / 10;
     }
   }
 </style>

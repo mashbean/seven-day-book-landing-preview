@@ -23,14 +23,30 @@ export const sevenDayBookLanding = {
     headline: "一座每個月都重新長出來的小鎮。",
     subheadline:
       "你不是一個人在寫。每月初，上千位文友會在同一個七天裡，寫同一份題目——各自走進各自的記憶，卻在同一條街上相遇。",
-    primaryCta: { label: "看最新一期作品", href: "https://matters.town/tags/167821-%E4%B8%83%E6%97%A5%E6%9B%B8" },
+    primaryCta: { label: "看最新一期作品", href: "https://matters.town/e/aiafcgbu89p2" },
     secondaryCta: { label: "加入下一期", href: "https://matters.town/@freewrite" },
-    heroCover: `${CDN}/campaignCover/b0246b96-bb14-4c82-af86-62fffbd9b14b.png/public`, // 2026-05 我的職場人格
-    backdropCovers: [
-      `${CDN}/campaignCover/fb1bd2c2-754d-493b-9750-352ef7fe27b7.png/public`, // 2026-04 氣味博物館
-      `${CDN}/campaignCover/2e4aac3f-a9e3-4155-8a4e-7276420e3655.png/public`, // 2026-03 人生帳本
-      `${CDN}/campaignCover/96fd12ba-e46c-4316-9fe1-b5f13cf34b9f.png/public`, // 2026-02 數位雲端的我
-      `${CDN}/campaignCover/71c57cb5-aaf9-49a8-a530-3ef4a3a23a15.png/public`, // 2026-01 衣櫥裡的自我
+    // 自由寫 primary image — 直接用 Matters Cloudflare images 的尺寸/動畫參數以避免過大
+    heroCover: `${CDN}/campaignCover/b0246b96-bb14-4c82-af86-62fffbd9b14b.png/w=1920,h=1080,fit=cover,anim=false`,
+  },
+
+  // ── Gallery — 從本次擷取的 185 張素材中選用 12 張 embed 畫面 ─────────────
+  gallery: {
+    kicker: "Visual memory",
+    headline: "九千篇作品裡，這些畫面從不同的七日裡浮出來。",
+    body: "作者們上傳的插畫、紀錄、手寫筆記——這是 Matters 七日書的視覺檔案。點擊可回到原文。",
+    images: [
+      { src: `${CDN}/embed/ed23993d-d395-47b5-9110-d9caec4ea4ba.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 01" },
+      { src: `${CDN}/embed/93f52a64-cc21-402e-bc5e-64190fddc483.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 02" },
+      { src: `${CDN}/embed/5a00411a-5ca3-4751-8d36-c8be49f35e8c.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 03" },
+      { src: `${CDN}/embed/bf0063ed-71fd-45e9-a6f5-2d994207e338.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 04" },
+      { src: `${CDN}/embed/6fd927a4-b33d-4b38-bf70-2183d03efe77.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 05" },
+      { src: `${CDN}/embed/716afd71-ac86-4344-a08d-734f1f0e6a42.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 06" },
+      { src: `${CDN}/embed/9e5ab949-a2ae-47fd-b2a9-66620f1bf4ab.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 07" },
+      { src: `${CDN}/embed/c57145db-a56c-4cd0-8807-7baa273b6a32.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 08" },
+      { src: `${CDN}/embed/c135b52b-181b-43ef-a51d-2ea1e6e7ed34.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 09" },
+      { src: `${CDN}/embed/996cbf83-1dfb-43e4-be64-b17232fac234.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 10" },
+      { src: `${CDN}/embed/1e247419-c16c-420a-8a4d-f90d93fcbc49.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 11" },
+      { src: `${CDN}/embed/aa768913-937f-4143-8da9-2fd1c37e5560.png/w=600,h=600,fit=cover`, alt: "七日書畫面摘錄 12" },
     ],
   },
 

@@ -52,7 +52,8 @@ const avatars = page.avatarWall;
           {page.hero.eyebrow}
         </p>
         <h1 class="hero__title" id="hero-title">
-          {page.hero.headline}
+          <span class="hero__title-top">{page.hero.headlineTop}</span>
+          <span class="hero__title-main">{page.hero.headline}</span>
         </h1>
         <p class="hero__lead">{page.hero.subheadline}</p>
         <div class="hero__cta">
@@ -163,9 +164,9 @@ const avatars = page.avatarWall;
     <section id="events" class="section events" aria-labelledby="events-title" data-reveal>
       <header class="section__head">
         <p class="kicker">Seasons · 時間軸</p>
-        <h2 id="events-title">八期題目，一座書寫小鎮。</h2>
+        <h2 id="events-title">每一期，都是一座書寫小鎮。</h2>
         <p class="section__body">
-          從 2025 秋到 2026 夏——每一期主題像一條新開的街道。這是近八期的時間線，點進去是那一季文友留下的文字。
+          從 2025 春到 2026 夏——近十二期的時間線。每一條街道都還開著，點進去能讀到那一季文友留下的文字。
         </p>
       </header>
 
@@ -571,11 +572,29 @@ const avatars = page.avatarWall;
     margin: 0;
     font-family: var(--font-reading);
     font-weight: 700;
-    font-size: clamp(2.5rem, 6.5vw, 5.5rem);
-    line-height: 1.15;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.02em;
     text-wrap: balance;
-    max-width: 16ch;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .hero__title-top {
+    display: inline-block;
+    font-size: clamp(1.2rem, 2.2vw, 1.8rem);
+    font-weight: 600;
+    letter-spacing: 0.4em;
+    padding-left: 0.4em;
+    color: rgba(255, 255, 255, 0.85);
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    max-width: fit-content;
+  }
+  .hero__title-main {
+    display: block;
+    font-size: clamp(2.4rem, 6vw, 5rem);
+    line-height: 1.18;
+    white-space: pre-line;
+    max-width: 14ch;
   }
   .hero__lead {
     max-width: 640px;
@@ -1003,12 +1022,12 @@ const avatars = page.avatarWall;
     to { opacity: 1; transform: translateY(0) rotate(0); }
   }
 
-  /* ─── Events timeline (zigzag) ───────────────────────────── */
+  /* ─── Events timeline (zigzag, tight) ─────────────────────── */
   .timeline {
     position: relative;
     list-style: none;
     margin: 0;
-    padding: 20px 0 20px;
+    padding: 8px 0;
   }
   .timeline::before {
     content: "";
@@ -1023,23 +1042,25 @@ const avatars = page.avatarWall;
   .tl-node {
     position: relative;
     display: grid;
-    grid-template-columns: 1fr 140px 1fr;
+    grid-template-columns: minmax(0, 1fr) 120px minmax(0, 1fr);
     align-items: center;
     gap: 0;
-    padding: 28px 0;
+    padding: 10px 0;
   }
   .tl-axis {
     grid-column: 2;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     position: relative;
     z-index: 2;
+    /* axis content sits at vertical middle of the card row — align-items:center
+       on .tl-node already centers it; guard with min-height if card is tall */
   }
   .tl-dot {
-    width: 18px;
-    height: 18px;
+    width: 14px;
+    height: 14px;
     border-radius: 50%;
     background: #fff;
     border: 3px solid var(--freewrite-text-dark);
@@ -1074,27 +1095,34 @@ const avatars = page.avatarWall;
   }
   .tl-card {
     display: grid;
-    grid-template-columns: 140px 1fr;
-    gap: 18px;
-    padding: 18px;
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 14px;
+    padding: 14px;
     border: 1px solid var(--line);
-    border-radius: 16px;
+    border-radius: 14px;
     background: #fff;
     text-decoration: none;
     color: inherit;
     transition: transform 240ms, box-shadow 240ms, border-color 240ms;
+    min-height: 132px;
   }
   .tl-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-3px);
     border-color: var(--freewrite-text-dark);
-    box-shadow: 0 18px 36px rgba(4, 88, 152, 0.14);
+    box-shadow: 0 14px 28px rgba(4, 88, 152, 0.14);
   }
   .tl-node--left .tl-card {
     grid-column: 1;
-    grid-template-columns: 1fr 140px;
+    grid-template-columns: minmax(0, 1fr) 112px;
   }
   .tl-node--left .tl-card__media {
     order: 2;
+  }
+  .tl-node--left .tl-card__body {
+    text-align: right;
+  }
+  .tl-node--left .tl-card__meta {
+    justify-content: flex-end;
   }
   .tl-node--right .tl-card {
     grid-column: 3;
@@ -1138,27 +1166,38 @@ const avatars = page.avatarWall;
     color: #fff;
     font-weight: 700;
   }
+  .tl-card__body {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    justify-content: center;
+  }
   .tl-card__body h3 {
-    margin: 4px 0 8px;
+    margin: 0;
     font-family: var(--font-reading);
-    font-size: 1.05rem;
-    line-height: 1.4;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.35;
     color: var(--ink);
   }
   .tl-card__body p {
-    margin: 0 0 12px;
-    font-size: 13.5px;
-    line-height: 1.65;
+    margin: 2px 0 8px;
+    font-size: 12.5px;
+    line-height: 1.55;
     color: var(--ink-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .tl-card__meta {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     margin-top: auto;
     font-family: var(--font-mono);
-    font-size: 11px;
+    font-size: 10.5px;
     color: var(--ink-muted);
   }
   .tl-card__window::before {

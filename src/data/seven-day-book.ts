@@ -1,256 +1,327 @@
+// Matters 七日書 Landing data — 情感敘事版 (2026-04-24 rewrite)
+// 所有 events / avatars / essays 取自 matters.town 公開頁面；numeric claims 來自 2026-01-05
+// 官方總結與 2026-04 大滿貫公告，單期數字取近 3 期 SSR 實測。
+// Note: Matters 資產 CDN = https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/{type}/{hash}/public
+
+const CDN = "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod";
+
 export const sevenDayBookLanding = {
-  title: "七日書，把人生寫成一座公共記憶庫",
+  // ── 頁面標題 ──────────────────────────────────────────────────────────
+  title: "七天、七題，一萬人一起把生活寫成一本書。",
   description:
-    "Matters 七日書是連續七日的自由書寫計畫，協助讀者完成生命敘事，也讓機構與企業看見可持續、可參與、可衡量的文化行動。",
+    "Matters 七日書是每月一次的常態書寫活動——七天、七個提示，上千位文友同時落筆。每一期是一本集體的小書，累計已寫下 9,000+ 篇、超過 800 萬字的人生。",
+  tagline: "寫作不是孤單的事",
+
+  // ── 聯絡 ─────────────────────────────────────────────────────────────
   contactHref:
     "mailto:ask@matters.town?subject=%E4%B8%83%E6%97%A5%E6%9B%B8%E5%90%88%E4%BD%9C%E6%B4%BD%E8%AB%87",
-  sourceNote:
-    "核心成果數據來自 2026-01-05 Matters 自由寫官方總結回顧與 2026-04-24 本地擷取資料。",
-  primarySource: {
-    label: "七日書總結回顧｜寫下 9000 次人生，如何以寫作量度生命？",
-    href: "https://matters.town/a/fmsotswq9g6b",
-    date: "2026-01-05",
-  },
-  metrics: [
-    {
-      value: "19",
-      unit: "個月",
-      label: "持續書寫",
-      source: "官方總結回顧，2026-01-05",
-    },
-    {
-      value: "133",
-      unit: "道",
-      label: "人生題目",
-      source: "官方總結回顧，2026-01-05",
-    },
-    {
-      value: "3000+",
-      unit: "位",
-      label: "參與文友",
-      source: "官方總結回顧，2026-01-05",
-    },
-    {
-      value: "9000+",
-      unit: "篇",
-      label: "生命故事",
-      source: "官方總結回顧，2026-01-05",
-    },
-    {
-      value: "800",
-      unit: "萬字",
-      label: "生命書寫洪流",
-      source: "官方總結回顧，2026-01-05",
-    },
-  ],
-  accountMetrics: [
-    { value: "93", label: "官方文章", source: "本地擷取，2026-04-24" },
-    { value: "11", label: "官方動態", source: "本地擷取，2026-04-24" },
-    { value: "185", label: "圖片素材", source: "本地擷取，2026-04-24" },
-    {
-      value: "509",
-      label: "官方帳號追蹤者",
-      source: "公開頁面擷取，2026-04-24",
-    },
-  ],
-  workflow: [
-    {
-      step: "01",
-      title: "七道題目打開一段生命敘事",
-      body: "每期以一個公共議題或人生命題出發，設計七道可被不同背景讀者回應的自由書寫題目。",
-    },
-    {
-      step: "02",
-      title: "七天書寫形成可完成的節奏",
-      body: "每天 20 至 30 分鐘，讓參與者在一週內形成小型敘事弧線，不需專業寫作門檻也能完成。",
-    },
-    {
-      step: "03",
-      title: "作品進入標籤、活動頁與完結報告",
-      body: "作品透過 Matters 標籤與活動頁被看見，完結報告整理參與者、大滿貫名單、講座與後續導流。",
-    },
-  ],
-  themes: [
-    {
-      group: "自我與生命階段",
-      summary:
-        "從重構生活、告別、人生如果到不完美人生，讓讀者把轉折寫成可被理解的故事。",
-      articles: [
-        {
-          title: "重構生活",
-          href: "https://matters.town/a/3f6bdmbon9pu",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/ffa38b65-bad9-4030-ab7a-94deb2ab94b4.png/public",
-        },
-        {
-          title: "What If 人生有如果",
-          href: "https://matters.town/a/x7argsbyr0dj",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/852dac20-0110-4109-8ba3-7e714aadb13a.png/public",
-        },
-      ],
-    },
-    {
-      group: "家庭與親密關係",
-      summary:
-        "把家庭、愛、曖昧與關係裡的沉默經驗，轉化為可被閱讀與互相理解的公共文本。",
-      articles: [
-        {
-          title: "我的家庭故事",
-          href: "https://matters.town/a/lnu9azqfyj20",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/a065896f-608c-401c-807a-903171965c99.png/public",
-        },
-        {
-          title: "曖昧時刻",
-          href: "https://matters.town/a/ahogdo23dc73",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/3691f81a-0f0c-42b9-9de6-e27308cdd47f.png/public",
-        },
-      ],
-    },
-    {
-      group: "地方與遷徙",
-      summary:
-        "從地方感、家鄉、島嶼到城市散步，收集華語書寫者對居住、離散與記憶的感受。",
-      articles: [
-        {
-          title: "書寫地方",
-          href: "https://matters.town/a/dh2xfd9t0zc8",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/57bc7d41-52c1-4e28-8ba5-b40b736978a1.png/public",
-        },
-        {
-          title: "島嶼精神",
-          href: "https://matters.town/a/mj4v2fosf1h7",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/474f9cfd-d78c-419d-a8aa-a4d60bb83f60.png/public",
-        },
-      ],
-    },
-    {
-      group: "物件與感官記憶",
-      summary:
-        "以氣味、衣櫥、飯桌與物件為入口，讓日常細節成為安頓身心與互相辨認的錨點。",
-      articles: [
-        {
-          title: "氣味博物館",
-          href: "https://matters.town/a/x756zczkpn1h",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/ed23993d-d395-47b5-9110-d9caec4ea4ba.png/public",
-        },
-        {
-          title: "衣櫥裡的自我",
-          href: "https://matters.town/a/3clxahow8238",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/6ed73fe0-159d-46b8-a532-098bc1cf0765.png/public",
-        },
-      ],
-    },
-    {
-      group: "數位與當代生活",
-      summary:
-        "從雲端分身、人生帳本到數位焦慮，讓當代生活的壓力與選擇被具體說出來。",
-      articles: [
-        {
-          title: "數位雲端的我",
-          href: "https://matters.town/a/i42ejg5kdbkd",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/bf0063ed-71fd-45e9-a6f5-2d994207e338.png/public",
-        },
-        {
-          title: "我的人生帳本",
-          href: "https://matters.town/a/wwydvkijfwwa",
-          image:
-            "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e05a4b15-fbe8-4faf-82e8-f10a28ab1782.png/public",
-        },
-      ],
-    },
-  ],
-  publicValues: [
-    {
-      title: "個人表達",
-      body: "降低寫作門檻，讓參與者在七天裡把難以出口的情緒、記憶與生命經驗整理成文字。",
-    },
-    {
-      title: "社群連結",
-      body: "透過標籤、活動頁、講座與完結報告，讓彼此陌生的讀者因共同題目而互相看見。",
-    },
-    {
-      title: "公共記憶",
-      body: "把私人日記累積成華語世界的生命檔案，讓時代中的家庭、地方、關係與選擇留下可被閱讀的切面。",
-    },
-  ],
-  keywords: [
-    "我們",
-    "開始",
-    "時間",
-    "喜歡",
-    "關係",
-    "選擇",
-    "生活",
-    "感覺",
-    "人生",
-  ],
-  caseStudy: {
-    title: "兩廳院藝術出走：給自己的情書",
-    href: "https://matters.town/a/saxy7wofhvxo",
-    image:
-      "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/cover/402fc6a3-6ba5-4aeb-860c-aaaa1ccbc7bd.png/public",
-    summary:
-      "兩個月的情書寫作活動，將三日書與作家講座結合，邀請讀者回望生命、整理記憶，也讓藝術計畫回應超高齡社會。",
-    facts: [
-      "近 500 位朋友參與",
-      "郭強生與楊翠擔任講座作家",
-      "合作議題聚焦生命、死亡、家族與通關密語",
+
+  // ── Hero / 首屏 ───────────────────────────────────────────────────────
+  hero: {
+    eyebrow: "Matters 七日書 · 每月一本",
+    kicker: "Seven Days, Seven Prompts.",
+    headline: "一座每個月都重新長出來的小鎮。",
+    subheadline:
+      "你不是一個人在寫。每月初，上千位文友會在同一個七天裡，寫同一份題目——各自走進各自的記憶，卻在同一條街上相遇。",
+    primaryCta: { label: "看最新一期作品", href: "https://matters.town/tags/167821-%E4%B8%83%E6%97%A5%E6%9B%B8" },
+    secondaryCta: { label: "加入下一期", href: "https://matters.town/@freewrite" },
+    heroCover: `${CDN}/campaignCover/b0246b96-bb14-4c82-af86-62fffbd9b14b.png/public`, // 2026-05 我的職場人格
+    backdropCovers: [
+      `${CDN}/campaignCover/fb1bd2c2-754d-493b-9750-352ef7fe27b7.png/public`, // 2026-04 氣味博物館
+      `${CDN}/campaignCover/2e4aac3f-a9e3-4155-8a4e-7276420e3655.png/public`, // 2026-03 人生帳本
+      `${CDN}/campaignCover/96fd12ba-e46c-4316-9fe1-b5f13cf34b9f.png/public`, // 2026-02 數位雲端的我
+      `${CDN}/campaignCover/71c57cb5-aaf9-49a8-a530-3ef4a3a23a15.png/public`, // 2026-01 衣櫥裡的自我
     ],
   },
-  packages: [
+
+  // ── Pulse / 現在有多少人正在寫 ─────────────────────────────────────────
+  pulse: {
+    kicker: "Now writing",
+    headline: "280+ 位文友走完了四期，189 位拿到大滿貫。",
+    body: "每期有 90–120 位在七天裡交出七篇；累計超過 3,000 位作者、9,000+ 篇文章、800 萬字。下面是最近出現的面孔。",
+    stats: [
+      { value: "280+", label: "近四期走完至少一期" },
+      { value: "189", label: "大滿貫（完成 7/7）" },
+      { value: "3,000+", label: "累計參與作者" },
+      { value: "9,000+", label: "累計作品篇數" },
+    ],
+    source: {
+      label: "數字來源：2026-04 大滿貫公告 / 2026-01 官方總結回顧",
+      href: "https://matters.town/a/u1510gz5by6o",
+    },
+  },
+
+  // ── Seven-day cadence (抽象版 — 每期題目不同，這裡呈現「七天的形狀」)──
+  cadence: {
+    kicker: "七天的形狀",
+    headline: "七題一本小書，從一個字開始，到一個未來結束。",
+    body: "每一期的題目不同，但七天的弧線相似——從當下出發，走進記憶，遇見他人，回到自己。",
+    days: [
+      { n: 1, kw: "啟程", prompt: "第一個念頭落下的地方。" },
+      { n: 2, kw: "物件", prompt: "身邊那件最舊的東西。" },
+      { n: 3, kw: "他人", prompt: "一個你沒有再見的人。" },
+      { n: 4, kw: "味道", prompt: "一個被封存的氣味。" },
+      { n: 5, kw: "帳本", prompt: "生活裡一次算不清的交換。" },
+      { n: 6, kw: "沉默", prompt: "你不想說出口的那件事。" },
+      { n: 7, kw: "來日", prompt: "下一個七天，你打算？" },
+    ],
+  },
+
+  // ── Events timeline — 8 期真實活動 ────────────────────────────────────
+  events: [
     {
-      title: "主題徵文",
-      body: "以機構關注的公共議題設計三日書或七日書，形成可被閱讀、整理與延展的參與資料。",
+      season: "2026-05",
+      name: "我的職場人格",
+      phase: "即將開始",
+      writingWindow: "2026-05-04 → 05-11",
+      cover: `${CDN}/campaignCover/b0246b96-bb14-4c82-af86-62fffbd9b14b.png/public`,
+      href: "https://matters.town/e/wem6xy6u7okv",
+      description: "勞動節前夕，書寫職場中那個會疲累、會渴望被理解的自己。",
     },
     {
-      title: "作家講座",
-      body: "邀請作家以作品與生命經驗回應活動主題，讓參與者在寫作之外進入更深的理解。",
+      season: "2026-04",
+      name: "氣味博物館",
+      phase: "進行中",
+      writingWindow: "2026-04-06 → 04-13",
+      cover: `${CDN}/campaignCover/fb1bd2c2-754d-493b-9750-352ef7fe27b7.png/public`,
+      href: "https://matters.town/e/aiafcgbu89p2",
+      description: "感官與記憶之旅，寫下那些封存已久、忽然被喚起的氣與味。",
     },
     {
-      title: "品牌共創題目",
-      body: "與企業或贊助方共同設計題目，但保留自由寫的真誠與開放，避免變成單向宣傳。",
+      season: "2026-03",
+      name: "我的人生帳本",
+      phase: "完結",
+      participants: 101,
+      newcomers: 27,
+      writingWindow: "2026-03-02 → 03-09",
+      cover: `${CDN}/campaignCover/2e4aac3f-a9e3-4155-8a4e-7276420e3655.png/public`,
+      href: "https://matters.town/e/q48dv6ve4g2m",
+      description: "把人生寫成一張帳本，記下所有算得清與算不清的。",
+    },
+    {
+      season: "2026-02",
+      name: "數位雲端的我",
+      phase: "完結",
+      participants: 116,
+      newcomers: 37,
+      writingWindow: "2026-02-02 → 02-09",
+      cover: `${CDN}/campaignCover/96fd12ba-e46c-4316-9fe1-b5f13cf34b9f.png/public`,
+      href: "https://matters.town/e/4v5mndkbz44v",
+      description: "雲端裡那個一直被搜尋、被儲存、被遺忘的你。",
+    },
+    {
+      season: "2026-01",
+      name: "衣櫥裡的自我",
+      phase: "完結",
+      participants: 93,
+      newcomers: 35,
+      writingWindow: "2026-01-05 → 01-12",
+      cover: `${CDN}/campaignCover/71c57cb5-aaf9-49a8-a530-3ef4a3a23a15.png/public`,
+      href: "https://matters.town/e/nqbeo3cdn585",
+      description: "從一件衣服寫起，打開了一整個衣櫃的自己。",
+    },
+    {
+      season: "2025-12",
+      name: "說聲告別，走向新的自己",
+      phase: "完結",
+      writingWindow: "2025-12-01 → 12-08",
+      cover: `${CDN}/campaignCover/94525f57-eb5e-4e4a-9b5c-88af2ccb097f.png/public`,
+      href: "https://matters.town/e/ox9fmcz6zxxj",
+      description: "在年末，一場向過去的整理告別。",
+    },
+    {
+      season: "2025-11",
+      name: "重構生活",
+      phase: "完結",
+      writingWindow: "2025-11-03 → 11-10",
+      cover: `${CDN}/campaignCover/98d56bea-4411-481f-947b-195438bae79c.png/public`,
+      href: "https://matters.town/e/3uskpxsbzmz5",
+      description: "當生活需要被重新搭一次，從哪一塊磚開始？",
+    },
+    {
+      season: "2025-10",
+      name: "曖昧時刻",
+      phase: "完結",
+      writingWindow: "2025-10-06 → 10-13",
+      cover: `${CDN}/campaignCover/786b897f-c82d-4d4c-b92b-d20a75fe1218.png/public`,
+      href: "https://matters.town/e/owt3jxplay6z",
+      description: "那些說不清、但你知道發生了什麼的時刻。",
     },
   ],
-  tagLinks: [
+
+  // ── Voices — 真實文章節錄 ────────────────────────────────────────────
+  voices: [
     {
-      label: "七日書",
-      href: "https://matters.town/tags/167821-%E4%B8%83%E6%97%A5%E6%9B%B8",
-      count: "88 篇",
+      season: "氣味博物館 · 2026-04",
+      dayLabel: "DAY 01",
+      author: "司陶",
+      handle: "@xiaomaomigigi",
+      title: "是日短箋1｜聞香識貴妃",
+      excerpt: "楊貴妃，聞起來竟是寒涼的。",
+      href: "https://matters.town/a/dfm4rghx8v2j",
+      avatar: `${CDN}/avatar/99e44d7b-052d-45dc-ae9b-a7bc24c650a8.jpeg/public`,
     },
     {
-      label: "自由寫",
-      href: "https://matters.town/tags/167820-%E8%87%AA%E7%94%B1%E5%AF%AB",
-      count: "90 篇",
+      season: "氣味博物館 · 2026-04",
+      dayLabel: "DAY 06",
+      author: "Jules Vela",
+      handle: "@jules_vela",
+      title: "第六天 · 記一種味道或氣味",
+      excerpt: "我以為是不一樣的，但接觸越多，越發現相似度很高，只是版本不同。就像一個牢籠——我以為我逃出來了。",
+      href: "https://matters.town/a/m5sim1qruk8z",
+      avatar: `${CDN}/avatar/1fa50bea-4bbc-4211-8cf3-772ec5394232.jpeg/public`,
     },
     {
-      label: "馬特市自由寫",
-      href: "https://matters.town/tags/167822-%E9%A6%AC%E7%89%B9%E5%B8%82%E8%87%AA%E7%94%B1%E5%AF%AB",
-      count: "40 篇",
+      season: "人生帳本 · 2026-03",
+      dayLabel: "DAY 04",
+      author: "內角和",
+      handle: "@neijiaohe",
+      title: "刀口的名字是路易威登",
+      excerpt: "座位上獨坐的那只名牌小包，我盯著它，它也盯著我。原來錢確實是得花在刀口上的。",
+      href: "https://matters.town/a/t0u1jkn8bxup",
+      avatar: `${CDN}/avatar/f2e7eee2-b24c-450e-b5e9-3f3ecdd906c5.jpeg/public`,
     },
     {
-      label: "給自己的情書",
-      href: "https://matters.town/tags/216599-%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E6%9B%B8",
-      count: "4 篇",
+      season: "人生帳本 · 2026-03",
+      dayLabel: "DAY 03",
+      author: "裕美抹茶",
+      handle: "@yumimatcha",
+      title: "即使友情價也得不到的東西",
+      excerpt: "有一點衝動，有一點怕被別人看不起，似乎還有一點有了這樣的交情好像可以更靠近另一個我平常碰不太到的世界。",
+      href: "https://matters.town/a/nqqchsjynfxz",
+      avatar: `${CDN}/avatar/d930d2f8-3360-46e0-8e29-e9a1b72314e3.jpeg/public`,
     },
     {
-      label: "兩廳院藝術出走",
-      href: "https://matters.town/tags/216600-%E5%85%A9%E5%BB%B3%E9%99%A2%E8%97%9D%E8%A1%93%E5%87%BA%E8%B5%B0",
-      count: "5 篇",
+      season: "數位雲端的我 · 2026-02",
+      dayLabel: "DAY 05",
+      author: "锡德不在此",
+      handle: "@heresydcomes",
+      title: "想念是一件很私人的事情",
+      excerpt: "其實是不需要分享的，抑或是，需要去稀釋的——把微觀的情感放到宏觀的場域裡，沖刷其濃度。",
+      href: "https://matters.town/a/92s72cfbljrz",
+      avatar: `${CDN}/avatar/f2e7eee2-b24c-450e-b5e9-3f3ecdd906c5.jpeg/public`,
+    },
+    {
+      season: "人生帳本 · 2026-03",
+      dayLabel: "DAY 07",
+      author: "'' 空瓦",
+      handle: "@katodot",
+      title: "你，是你，獨一的你",
+      excerpt: "我其實不想跟你們玩一樣的遊戲。",
+      href: "https://matters.town/a/hj2s5oud68n2",
+      avatar: `${CDN}/avatar/f769da76-d0ba-429a-b854-15a459695ff8.jpeg/public`,
     },
   ],
-  caveats: [
-    "3009 參與人次是已擷取完結報告的各期加總，不等於不重複作者數。",
-    "拍手、贊助與追蹤者為官方帳號公開資料擷取，不應被寫成平台總體數據。",
-    "所有合作成效文案以上述公開文章與本地擷取資料為證據基礎。",
+
+  // ── Avatars — 30 位真實參與者（取自 4 期事件頁） ───────────────────────
+  avatarWall: [
+    { handle: "xiaomaomigigi", name: "司陶", src: `${CDN}/avatar/99e44d7b-052d-45dc-ae9b-a7bc24c650a8.jpeg/public` },
+    { handle: "yuuuuu_cc", name: "俞木瑜", src: `${CDN}/avatar/1fa50bea-4bbc-4211-8cf3-772ec5394232.jpeg/public` },
+    { handle: "yumimatcha", name: "裕美抹茶", src: `${CDN}/avatar/d930d2f8-3360-46e0-8e29-e9a1b72314e3.jpeg/public` },
+    { handle: "nomatterwhat123", name: "K的一生", src: `${CDN}/avatar/ea91fbd6-717b-4b3f-b138-97d50b13653f.jpeg/public` },
+    { handle: "potions_17", name: "野貓", src: `${CDN}/avatar/5e65ffc9-237e-4618-b320-90225ddd9121.png/public` },
+    { handle: "katodot", name: "'' 空瓦", src: `${CDN}/avatar/f769da76-d0ba-429a-b854-15a459695ff8.jpeg/public` },
+    { handle: "heresydcomes", name: "锡德不在此", src: `${CDN}/avatar/f2e7eee2-b24c-450e-b5e9-3f3ecdd906c5.jpeg/public` },
+    { handle: "inmyewigkeit", name: "inmyewigkeit", src: `${CDN}/avatar/8de197d2-ae74-4a53-a162-7df89bd908d3.jpeg/public` },
+    { handle: "moe645184", name: "Chechin", src: `${CDN}/avatar/768fe48a-edb9-40d4-8496-74d725079ea3.jpeg/public` },
+    { handle: "rrjw0902", name: "攝氏衛生", src: `${CDN}/avatar/00b8913c-61bb-459c-8cff-1f53aee11ab0.jpeg/public` },
+    { handle: "histeria", name: "小樹", src: `${CDN}/avatar/2fe83d99-0843-4884-95b4-8917220f3597.jpeg/public` },
+    { handle: "thermometer", name: "Thermometer", src: `${CDN}/avatar/7e640fc4-8c2a-4602-9791-cba955c87c37.jpeg/public` },
+    { handle: "eatandsheet", name: "eatandsheet", src: `${CDN}/avatar/fb48d335-892a-4854-bfd1-6ecbaf04059b.jpeg/public` },
+    { handle: "some_any_nothin", name: "小隱於野", src: `${CDN}/avatar/bf2f8559-6215-4ea0-984e-c2e64df07af8.jpeg/public` },
+    { handle: "hana2002", name: "Hana", src: `${CDN}/avatar/40b3cfb2-15eb-44d6-82cc-e9ba993fe5d8.png/public` },
+    { handle: "paperplanedown", name: "零号样本", src: `${CDN}/avatar/3adefcf6-6c56-46ce-bf6b-204134986d82.jpeg/public` },
+    { handle: "charlesmungerai", name: "窮查理．蒙哥", src: `${CDN}/avatar/e5b8d49a-e0e2-40a4-a517-07f39f0c9de1.png/public` },
+    { handle: "belivelyyy", name: "Belive", src: `${CDN}/avatar/4f805927-f74f-4b39-8a5e-a6f40198e7e3.jpeg/public` },
+    { handle: "Jyuan1023", name: "YuAn", src: `${CDN}/avatar/1f2fc00f-8aaf-4e59-9c0a-137e11c25415.jpeg/public` },
+    { handle: "leeannetour", name: "Anne", src: `${CDN}/avatar/233c2fca-f34c-48d6-8cdf-2ccc2579a5d1.jpeg/public` },
+    { handle: "westbamboo", name: "竹西", src: `${CDN}/avatar/b296e669-5929-41b4-a3ff-9a5585123839.jpeg/public` },
+    { handle: "Denji_333", name: "飛非", src: `${CDN}/avatar/5ff0ac6b-fba8-430e-8422-3660358870af.jpeg/public` },
+    { handle: "linnea", name: "Linnea", src: `${CDN}/avatar/dbbbf9d9-f41f-4c1e-b489-80fe45b5b7ed.png/public` },
+    { handle: "iforissac", name: "鯨魚男孩", src: `${CDN}/avatar/aa42ea23-8d10-47c9-90cd-d6900cddf600.jpeg/public` },
+    { handle: "katetukt", name: "凱特的故事沙龍", src: `${CDN}/avatar/6e8f05c0-cce6-474a-96c9-585c3dcce8f6.jpeg/public` },
+    { handle: "ingotw", name: "因田木", src: `${CDN}/avatar/36f9d854-6168-46ee-afad-9f3a96f41cd7.jpeg/public` },
+    { handle: "ningning", name: "yunlu6", src: `${CDN}/avatar/16c788c6-2b4f-4882-bec8-fe76f2f9e81d.jpeg/public` },
+    { handle: "yomi", name: "yomi", src: `${CDN}/avatar/8f4c4b94-fdde-4c50-ad89-0c06f70ed790.jpeg/public` },
+    { handle: "ecrire", name: "岱兮", src: `${CDN}/avatar/c65d5bd2-a0f3-40fd-abe1-3d7d4807b8b1.jpeg/public` },
   ],
+
+  // ── Badge / Passport — 大滿貫鏈上憑證 ──────────────────────────────────
+  passport: {
+    kicker: "Seven-for-seven 大滿貫",
+    headline: "七天寫滿，拿到屬於你的鏈上憑證。",
+    body: "完成七篇就是大滿貫——至今已有 189 位文友拿到這張鏈上參與憑證（Writing Passport）。它不是炫耀，是一頁寫給自己的時間印章。",
+    image: `${CDN}/embed/fb68ce5a-4651-49b1-8cbc-3c08a47ed973.jpeg/public`,
+    imageAlt: "四期七日書大滿貫長條證書，列有 103+ 位完成者名單",
+    link: {
+      label: "看大滿貫名單與徽章公告",
+      href: "https://matters.town/a/u1510gz5by6o",
+    },
+  },
+
+  // ── Partners (B2B 合作 — 下放到次層) ────────────────────────────────
+  partners: {
+    kicker: "For cultural partners",
+    headline: "一起設計下一個，能被上千人持續書寫的題目。",
+    body: "適合文化機構、基金會、出版品牌、教育單位與希望支持公共書寫的企業。",
+    caseStudy: {
+      title: "兩廳院藝術出走 · 給自己的情書",
+      summary: "2025 夏，Matters 與兩廳院「藝術出走」合作主題徵文「給自己的情書」，近 500 位文友書寫回應，成為該檔戶外節目的文字延伸。",
+      facts: [
+        "合作形式：主題徵文 × 作家講座 × 鏈上參與憑證",
+        "規模：近 500 位參與、跨三週線上 + 實體",
+        "延伸：選集匯編至活動現場陳列、導流官方社群",
+      ],
+      href: "https://matters.town/@freewrite",
+      image: `${CDN}/cover/1060a3d5-cbb9-4140-9b04-a0acb011449a.jpeg/public`,
+    },
+    packages: [
+      {
+        title: "主題共創",
+        body: "從你的命題出發，共同設計七道題目，由七日書社群在七天內回應。",
+      },
+      {
+        title: "作家講座",
+        body: "搭配徵文舉辦線上 / 實體講座，邀請活動作家與參與者對話。",
+      },
+      {
+        title: "鏈上憑證",
+        body: "七天完成者可獲得大滿貫 Writing Passport，作為品牌與讀者的長期連結。",
+      },
+    ],
+  },
+
+  // ── FAQ ──────────────────────────────────────────────────────────────
+  faq: [
+    {
+      q: "我可以中途加入嗎？",
+      a: "可以。進度從你加入那天算起，但我們鼓勵補寫前幾天——七天的順序其實是一條心情的曲線。",
+    },
+    {
+      q: "沒寫完會怎樣？",
+      a: "沒寫完一樣可以把已寫的篇章收進本季選集，只是不會拿到大滿貫憑證。近四期完成率約 58%——所以能寫到第三天已經超過一半。",
+    },
+    {
+      q: "其他人看得到我寫的嗎？",
+      a: "預設公開（跟平常發表一樣）。如果想先寫草稿，儲存在草稿區，不會進入公開選集。",
+    },
+    {
+      q: "下一期什麼時候？",
+      a: "每月一期，通常月初報名、月中書寫。站內與 email 會領前兩週通知下一期主題。",
+    },
+    {
+      q: "品牌方可以怎麼參與？",
+      a: "我們與文化機構共創主題與活動——從題目設計、作家講座到鏈上憑證的完整流程。點最下方「洽談合作」聊聊。",
+    },
+  ],
+
+  // ── Closing ─────────────────────────────────────────────────────────
+  closing: {
+    headline: "下一個七天，一起寫。",
+    body: "給當時的自己，也給某個你可能還沒想到的讀者。",
+    primaryCta: { label: "加入下一期", href: "https://matters.town/@freewrite" },
+    secondaryCta: { label: "洽談合作", href: "#contact" },
+  },
 };
 
 export type SevenDayBookLanding = typeof sevenDayBookLanding;

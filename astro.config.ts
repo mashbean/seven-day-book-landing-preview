@@ -1,9 +1,7 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
-import react from "@astrojs/react";
-import tailwindcss from "@tailwindcss/vite";
 
-const site = process.env.SITE_URL ?? "https://pro.mashbean.net";
+const site = process.env.SITE_URL ?? "https://thematters.github.io";
 const rawBase = process.env.BASE_PATH ?? "/";
 const base =
   rawBase === "/" ? "/" : `/${rawBase.replace(/^\/+|\/+$/g, "")}`;
@@ -14,12 +12,5 @@ export default defineConfig({
   trailingSlash: "always",
   output: "static",
   build: { format: "directory" },
-  integrations: [react(), sitemap()],
-  vite: { plugins: [tailwindcss()] },
-  markdown: {
-    shikiConfig: {
-      theme: "one-dark-pro",
-      wrap: true,
-    },
-  },
+  integrations: [sitemap()],
 });

@@ -1,0 +1,57 @@
+/* Minimal reset + shared design tokens for the 七日書 landing. */
+
+:root {
+  /* Freewrite palette (option A: textDark as primary, per PM decision 2026-04-24) */
+  --freewrite-bg: #f0f9fe;       /* color.freewrite.bg */
+  --freewrite-text: #1999d0;      /* color.freewrite.text (accent / hover) */
+  --freewrite-text-dark: #045898; /* color.freewrite.textDark (primary / main CTA) */
+  --freewrite-label: #83bad1;     /* color.freewrite.label (border / meta) */
+
+  --ink: #0b1d33;                 /* body copy — dark navy-ink for AAA */
+  --ink-muted: #3a5875;           /* secondary text */
+  --line: #cfe5f1;                /* soft blue hairline */
+  --line-strong: #83bad1;         /* freewrite.label */
+  --paper: #ffffff;
+  --warm: #e9f4fb;                /* hover tint */
+
+  --font-reading: "Noto Serif TC", "Songti TC", "PingFang TC", serif;
+  --font-ui: "PingFang TC", "PingFang SC", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Microsoft JhengHei", sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--freewrite-bg);
+  font-family: var(--font-ui);
+  font-size: 16px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--freewrite-text-dark);
+}
+
+:focus-visible {
+  outline: 2px solid var(--freewrite-text-dark);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

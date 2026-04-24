@@ -1,40 +1,64 @@
-# Matters 七日書 Landing Page Handoff
+# Matters 七日書 Landing Page
 
-這個 private repo 是 Matters 七日書 Landing Page 的交接包，包含目前已擷取的官方帳號資料、靜態內容藍圖、Astro 頁面實作，以及交給 Claude Code 的後續作業 prompt。
+B2B 導向的 Matters 七日書 landing，面向文化機構、贊助企業、公共單位，呈現成果、流程與合作方式。
 
-## Repo 內容
+- **框架**：Astro 5（static）
+- **部署目標**：GitHub Pages，之後掛載到 `matters.town` 子網域
+- **Palette**：Freewrite（`#F0F9FE` / `#1999D0` / `#045898` / `#83BAD1`），依 2026-04-24 PM 決議，主 CTA / 主文字用 `#045898` 以通過 WCAG AAA
+- **字體**：Noto Serif TC（reading / 標題）+ PingFang TC（UI / 內文）
 
-- `src/pages/seven-day-book.astro`  
-  Landing Page 靜態頁面，目前路由為 `/seven-day-book/`。
-- `src/data/seven-day-book.ts`  
-  單一內容設定檔，集中管理數據、主題地圖、合作案例、標籤連結、來源註記與 CTA。
-- `research/freewrite/`  
-  Matters 官方帳號 `@freewrite` 的擷取資料，包含文章全文、動態、圖片 manifest 與已下載圖片。
-- `scripts/scrape_matters_freewrite.mjs`  
-  原始擷取腳本，供日後重新抓取或比對資料。
-- `docs/handoff-plan.md`  
-  交接方案，說明目前進度、資料來源、風險與下一步。
-- `docs/claude-code-prompt.md`  
-  可直接貼給 Claude Code 的完整後續作業 prompt。
+## Repo 結構
+
+```
+src/
+  pages/
+    index.astro         ← Landing 主頁（整頁 inline，待後續抽元件）
+    404.astro
+  layouts/BaseLayout.astro
+  components/BaseHead.astro
+  data/seven-day-book.ts  ← 單一內容設定檔（數據 / 主題 / 合作案例 / 標籤 / CTA）
+  styles/base.css         ← 全站 tokens + reset
+  site.config.ts
+.github/workflows/deploy.yml  ← GH Pages 自動部署
+research/                 ← @freewrite 擷取資料
+scripts/                  ← 原始擷取腳本
+docs/                     ← Handoff plan / Claude prompt
+```
 
 ## 本機開發
 
 ```bash
 npm install
-npm run dev
+npm run dev        # http://localhost:4321
+npm run build
+npm run check
 ```
 
-開發伺服器啟動後，打開 `/seven-day-book/` 檢查頁面。
+## 部署
 
-## 驗證狀態
+推到 `main` 會自動透過 `.github/workflows/deploy.yml` build + publish 到 GitHub Pages。
 
-- Prettier 檢查已通過。
-- 12 個遠端圖片素材 URL 已確認回 200。
-- Matters 文章與標籤連結用一般瀏覽器 User-Agent 抽查可開啟。
-- 原工作環境執行 Astro CLI 時曾出現 `ECANCELED: operation canceled, read` 或 import 卡住，接手者需在乾淨環境重新跑 `npm run check` 與 `npm run build`。
+**環境變數（GitHub repo vars）**：
+
+| Var | 預設 | 用途 |
+| --- | --- | --- |
+| `SITE_URL` | `https://thematters.github.io` | canonical / og url |
+| `BASE_PATH` | `/` | 如部署到 `/seven-day-book/` 子路徑時改這個 |
+
+掛到 `matters.town` 子網域時：
+1. 在 Matters DNS 設 CNAME 指向 `thematters.github.io`
+2. 在 repo Settings → Pages → Custom domain 填子網域
+3. `public/CNAME` 會由 GitHub Pages 流程自動處理
+
+## 驗證狀態（2026-04-24）
+
+- ✅ `npm run build` — 2 pages built
+- ✅ `npm run check` — 0 errors / 0 warnings
+- 12 個遠端圖片素材 URL 先前確認回 200
+- Freewrite palette option A 已套用（主 CTA `#045898`）
 
 ## 重要提醒
 
-- 數字必須保留來源與日期，不要把各期加總參與人次寫成不重複人數。
-- 主 CTA 應維持為合作洽談，讀者導流是第二層。
-- 視覺系統正在另行建立，本 repo 先以內容架構和可執行頁面骨架為主。
+- 數字必須保留來源與日期，**不要**把各期加總參與人次寫成不重複人數
+- 主 CTA 是「洽談合作」，讀者導流（閱讀作品）為第二層
+- 後續若要把 monolithic `index.astro` 拆成 8 個元件，請建立 `src/components/sevenDay/{Hero,Metrics,Workflow,ThemeMap,PublicMeaning,CaseStudy,TagLinks,ContactCta}.astro`

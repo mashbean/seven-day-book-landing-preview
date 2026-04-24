@@ -1,5 +1,5 @@
 {
-  "name": "seven-day-book-landing-handoff",
+  "name": "seven-day-book-landing",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -14,26 +14,12 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
-    "@astrojs/react": "^4.4.2",
-    "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.6.0",
-    "@fontsource/ibm-plex-mono": "^5.2.7",
-    "@fontsource/ibm-plex-serif": "^5.2.7",
-    "@fontsource/noto-serif-tc": "^5.2.10",
-    "@resvg/resvg-js": "^2.6.2",
-    "@tailwindcss/vite": "^4.1.13",
-    "@types/react": "^18.3.28",
-    "@types/react-dom": "^18.3.7",
     "astro": "^5.13.6",
-    "culori": "^4.0.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "satori": "^0.26.0",
-    "tailwindcss": "^4.1.13"
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
-    "prettier-plugin-astro": "^0.14.1",
-    "typescript": "^5.9.3"
+    "prettier-plugin-astro": "^0.14.1"
   }
 }

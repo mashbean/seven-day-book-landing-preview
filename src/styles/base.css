@@ -1,22 +1,43 @@
-/* Minimal reset + shared design tokens for the 七日書 landing. */
+/*
+ * 七日書 landing — base styles.
+ *
+ * Tokens are loaded via BaseLayout.astro from
+ * src/styles/vendor/matters-ds/tokens/tokens.css (vendored from
+ * thematters/design-system @ 7abc254). All raw `--color-*`, `--space-*`,
+ * `--shadow-*`, `--font-family-*` variables and `.ds-text-*` utilities
+ * come from there. This file only defines local semantic aliases that
+ * the existing landing CSS references, plus the page-level Board layout
+ * tokens used by the 七日書 redesign.
+ */
 
 :root {
-  /* Freewrite palette (option A: textDark as primary, per PM decision 2026-04-24) */
-  --freewrite-bg: #f0f9fe;       /* color.freewrite.bg */
-  --freewrite-text: #1999d0;      /* color.freewrite.text (accent / hover) */
-  --freewrite-text-dark: #045898; /* color.freewrite.textDark (primary / main CTA) */
-  --freewrite-label: #83bad1;     /* color.freewrite.label (border / meta) */
+  /* ── Freewrite palette aliases (七日書 主題色，已在 ds tokens 內) ── */
+  --freewrite-bg: var(--color-freewrite-background);   /* #F0F9FE */
+  --freewrite-text: var(--color-freewrite-text);       /* #1999D0 */
+  --freewrite-text-dark: var(--color-freewrite-text-dark); /* #045898 AAA */
+  --freewrite-label: var(--color-freewrite-label);     /* #83BAD1 */
 
-  --ink: #0b1d33;                 /* body copy — dark navy-ink for AAA */
-  --ink-muted: #3a5875;           /* secondary text */
-  --line: #cfe5f1;                /* soft blue hairline */
-  --line-strong: #83bad1;         /* freewrite.label */
-  --paper: #ffffff;
-  --warm: #e9f4fb;                /* hover tint */
+  /* ── 既有 landing semantic aliases —— 全部走 ds tokens ── */
+  --ink: var(--color-grey-black);            /* #333 — body copy AAA */
+  --ink-muted: var(--color-grey-grey-darker); /* #808080 — meta/secondary */
+  --line: var(--color-grey-grey-light);       /* #DDDDDD — hairline */
+  --line-strong: var(--color-freewrite-label); /* #83BAD1 — accent border */
+  --paper: var(--color-grey-white);           /* #FFFFFF — board bg */
+  --warm: var(--color-info-100);              /* #DCF3FE — hover tint */
 
-  --font-reading: "Noto Serif TC", "Songti TC", "PingFang TC", serif;
-  --font-ui: "PingFang TC", "PingFang SC", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Microsoft JhengHei", sans-serif;
+  /* ── Page shell (七日書 redesign 採 spec direction C) ────────── */
+  --page-bg: var(--color-grey-grey-lighter);  /* #F7F7F7 — 全頁底色 */
+  --board-bg: var(--color-grey-white);
+  --board-shadow: var(--shadow-shadow1);
+  --board-radius: 16px;
+  --board-max: 1080px;
+  --board-pad-x: clamp(24px, 5vw, 48px);
+  --board-pad-y: clamp(40px, 7vw, 64px);
+  --board-gap: var(--space-sp32);             /* 32px */
+
+  /* ── Font stacks (ds tokens 提供 ui + reading；mono 由 landing 自備) ── */
+  --font-reading: var(--font-family-reading);
+  --font-ui: var(--font-family-ui);
   --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
 }
 
@@ -33,7 +54,7 @@ html {
 body {
   margin: 0;
   color: var(--ink);
-  background: var(--freewrite-bg);
+  background: var(--page-bg);
   font-family: var(--font-ui);
   font-size: 16px;
   line-height: 1.75;

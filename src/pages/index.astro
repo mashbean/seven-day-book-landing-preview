@@ -390,10 +390,10 @@ const avatars = page.avatarWall;
     scroll-padding-top: 72px;
   }
   :global(body) {
-    background: var(--freewrite-bg);
+    background: var(--page-bg);
     background-image:
-      radial-gradient(at 20% 0%, rgba(25, 153, 208, 0.08) 0, transparent 50%),
-      radial-gradient(at 90% 80%, rgba(4, 88, 152, 0.06) 0, transparent 60%);
+      radial-gradient(at 20% 0%, rgba(25, 153, 208, 0.05) 0, transparent 55%),
+      radial-gradient(at 90% 80%, rgba(4, 88, 152, 0.04) 0, transparent 60%);
   }
 
   /* ─── Top bar ─────────────────────────────────────────────── */
@@ -406,10 +406,10 @@ const avatars = page.avatarWall;
     align-items: center;
     gap: 24px;
     padding: 14px clamp(20px, 4vw, 40px);
-    background: rgba(240, 249, 254, 0.85);
+    background: rgba(247, 247, 247, 0.85);
     backdrop-filter: saturate(140%) blur(10px);
     -webkit-backdrop-filter: saturate(140%) blur(10px);
-    border-bottom: 1px solid rgba(131, 186, 209, 0.4);
+    border-bottom: 1px solid var(--line);
   }
   .topbar__brand {
     display: inline-flex;
@@ -559,7 +559,8 @@ const avatars = page.avatarWall;
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #c3f432; /* Matters new-palette lime — 唯一用在 pulse 指示 */
+    /* Matters new-palette lime — sole brand-identity tint per spec */
+    background: var(--color-brand-new-green);
     box-shadow: 0 0 0 0 rgba(195, 244, 50, 0.7);
     animation: pulse 2s infinite;
   }
@@ -717,15 +718,26 @@ const avatars = page.avatarWall;
     to { opacity: 1; transform: translateY(0) scale(1); }
   }
 
-  /* ─── Section base ────────────────────────────────────────── */
+  /* ─── Section base — Matters DS Board pattern ─────────────── */
+  /* spec: white card + shadow1 + radius 16 + padding 40/48 on greyLighter page bg.
+     Each Board is centred at max 1080 with a viewport gutter so the shadow
+     reads on mobile too. Hero remains full-bleed and sits above the first board. */
   .section {
     position: relative;
-    max-width: 1120px;
-    margin: 0 auto;
-    padding: clamp(72px, 10vw, 120px) clamp(20px, 4vw, 48px);
+    max-width: var(--board-max);
+    width: calc(100% - clamp(32px, 6vw, 64px));
+    margin: 0 auto var(--board-gap);
+    padding: var(--board-pad-y) var(--board-pad-x);
+    background: var(--board-bg);
+    border-radius: var(--board-radius);
+    box-shadow: var(--board-shadow);
     opacity: 0;
     transform: translateY(24px);
     transition: opacity 700ms ease-out, transform 700ms ease-out;
+  }
+  /* gap between hero (full-bleed) and first board */
+  .hero + .section {
+    margin-top: var(--board-gap);
   }
   .section.is-visible {
     opacity: 1;
@@ -745,35 +757,41 @@ const avatars = page.avatarWall;
   }
   .section__head {
     max-width: 720px;
-    margin: 0 auto 40px;
+    margin: 0 auto var(--space-sp32);
     text-align: center;
   }
+  /* eyebrow ≈ ds typography.system.small.regular (PingFang 12/18) */
   .kicker {
     display: inline-block;
-    margin: 0 0 14px;
+    margin: 0 0 12px;
     padding: 4px 12px;
     border: 1px solid var(--freewrite-label);
     border-radius: 999px;
-    font-family: var(--font-mono);
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-family: var(--font-ui);
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.06em;
     color: var(--freewrite-text-dark);
-    background: rgba(255, 255, 255, 0.6);
+    background: var(--freewrite-bg);
   }
+  /* H2 ≈ ds typography.article.title (Noto Serif 24→32 / 600 / ls 1.2) */
   .section h2 {
     margin: 0 0 16px;
     font-family: var(--font-reading);
-    font-weight: 700;
-    font-size: clamp(1.75rem, 3.6vw, 3rem);
-    line-height: 1.25;
+    font-weight: 600;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    line-height: 1.4;
+    letter-spacing: 1.2px;
     color: var(--ink);
     text-wrap: balance;
   }
+  /* body ≈ ds typography.system.body1.regular (PingFang 16/24) +
+     looser line-height for landing-page rhythm */
   .section__body {
     margin: 0;
-    font-size: clamp(1rem, 1.2vw, 1.1rem);
-    line-height: 1.8;
+    font-family: var(--font-ui);
+    font-size: 16px;
+    line-height: 1.7;
     color: var(--ink-muted);
     text-wrap: pretty;
   }
@@ -862,10 +880,12 @@ const avatars = page.avatarWall;
   }
 
   /* ─── Cadence / 7 days ────────────────────────────────────── */
+  /* Spec docs/handoff-specs/seven-day-book-landing.md → DayPromptRow:
+     7 equal cells, gap sp10, each cell radius 10, padding 14/10. */
   .days {
     display: grid;
     grid-template-columns: repeat(7, minmax(0, 1fr));
-    gap: 12px;
+    gap: var(--space-sp10);
     padding: 0;
     margin: 0;
     list-style: none;
@@ -874,9 +894,9 @@ const avatars = page.avatarWall;
   .days::before {
     content: "";
     position: absolute;
-    top: 48px;
-    left: 40px;
-    right: 40px;
+    top: 36px;
+    left: 32px;
+    right: 32px;
     height: 2px;
     background: repeating-linear-gradient(90deg, var(--freewrite-label) 0 6px, transparent 6px 12px);
     z-index: 0;
@@ -888,9 +908,9 @@ const avatars = page.avatarWall;
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    padding: 20px 12px 22px;
-    border: 1px solid var(--line);
-    border-radius: 14px;
+    padding: 14px 10px 16px;
+    border: 1px solid var(--freewrite-label);
+    border-radius: 10px;
     background: #fff;
     text-align: center;
     z-index: 1;
@@ -979,7 +999,11 @@ const avatars = page.avatarWall;
     filter: none;
   }
   .day--locked {
-    background: repeating-linear-gradient(135deg, #f6fafd 0 6px, #ecf4fa 6px 12px);
+    background: repeating-linear-gradient(
+      135deg,
+      var(--color-info-0) 0 6px,
+      var(--color-info-100) 6px 12px
+    );
   }
   .day--locked .day__seal {
     background: #fff;
@@ -1067,7 +1091,7 @@ const avatars = page.avatarWall;
     box-shadow: 0 0 0 4px var(--freewrite-bg);
   }
   .tl-node--live .tl-dot {
-    background: #c3f432;
+    background: var(--color-brand-new-green);
     border-color: var(--freewrite-text-dark);
     animation: tl-pulse 2s ease-in-out infinite;
   }
@@ -1157,8 +1181,8 @@ const avatars = page.avatarWall;
     backdrop-filter: blur(4px);
   }
   .tl-phase--live {
-    background: #c3f432;
-    color: #0b1d33;
+    background: var(--color-brand-new-green);
+    color: var(--color-grey-black);
     font-weight: 700;
   }
   .tl-phase--soon {
@@ -1235,13 +1259,15 @@ const avatars = page.avatarWall;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 18px;
   }
+  /* Spec → EntryCard: radius 12, transparent border defaulting to
+     freewrite-label on hover for tactile feedback. */
   .voice {
     display: flex;
     flex-direction: column;
     gap: 14px;
-    padding: 26px;
-    border: 1px solid var(--line);
-    border-radius: 18px;
+    padding: 24px;
+    border: 1px solid transparent;
+    border-radius: 12px;
     background: #fff;
     text-decoration: none;
     color: inherit;
@@ -1261,7 +1287,7 @@ const avatars = page.avatarWall;
   }
   .voice:hover {
     transform: translateY(-4px);
-    border-color: var(--freewrite-text-dark);
+    border-color: var(--freewrite-label);
     box-shadow: 0 16px 32px rgba(4, 88, 152, 0.12);
   }
   .voice__top {
@@ -1454,6 +1480,10 @@ const avatars = page.avatarWall;
     display: inline-block;
     margin-bottom: 4px;
     padding: 4px 14px;
+    /* Decorative Grand-Slam gold — sits outside the freewrite palette by
+       design (spec docs/handoff-specs/seven-day-book-landing.md "若後續要做
+       完成徽章再評估引入 color.brand.legacy.gold"). Kept until DS adopts a
+       seven-day-book gold token. */
     background: linear-gradient(135deg, #FFC688, #E89F4F);
     color: #33291F;
     border-radius: 999px;
@@ -1462,16 +1492,16 @@ const avatars = page.avatarWall;
   }
 
   /* ─── Partners ────────────────────────────────────────────── */
+  /* .case sits inside the Partners Board — no inner card chrome
+     (avoids card-in-card); horizontal divider gives some structure. */
   .case {
     display: grid;
     grid-template-columns: minmax(280px, 0.9fr) minmax(0, 1.1fr);
     gap: clamp(28px, 4vw, 56px);
     align-items: center;
-    padding: clamp(28px, 4vw, 48px);
-    border: 1px solid var(--line);
-    border-radius: 20px;
-    background: #fff;
-    margin-bottom: 32px;
+    padding: 0 0 var(--space-sp32);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: var(--space-sp32);
   }
   .case__media {
     aspect-ratio: 4 / 5;
@@ -1506,15 +1536,17 @@ const avatars = page.avatarWall;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 16px;
   }
+  /* Cards inside the Partners Board — soft freewrite tint instead of
+     card-in-card chrome. */
   .pkg {
     padding: 24px;
-    border: 1px solid var(--line);
-    border-radius: 16px;
-    background: #fff;
-    transition: border-color 220ms, transform 220ms;
+    border: 1px solid transparent;
+    border-radius: 12px;
+    background: var(--freewrite-bg);
+    transition: border-color 220ms, transform 220ms, background 220ms;
   }
   .pkg:hover {
-    border-color: var(--freewrite-text-dark);
+    border-color: var(--freewrite-label);
     transform: translateY(-3px);
   }
   .pkg h3 {
@@ -1570,15 +1602,12 @@ const avatars = page.avatarWall;
     line-height: 1.8;
   }
 
-  /* ─── Closing ─────────────────────────────────────────────── */
+  /* ─── Closing — Board with freewrite tint accent ─────────── */
   .closing {
     text-align: center;
-    background: linear-gradient(180deg, var(--freewrite-bg) 0%, #dcf3fe 100%);
-    border-top: 1px solid var(--line-strong);
-    border-bottom: 1px solid var(--line-strong);
-    max-width: none;
-    padding-left: 24px;
-    padding-right: 24px;
+    background:
+      linear-gradient(180deg, var(--freewrite-bg) 0%, var(--color-info-100) 100%),
+      var(--board-bg);
   }
   .closing h2 {
     font-size: clamp(2rem, 4.5vw, 3.5rem);
